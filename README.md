@@ -16,4 +16,6 @@ I was born in Cambridge, England, then lived in:
 
 Right now, my work involves [Svija][sv], a program to build web sites using Adobe Illustrator.
 
+The background color of my bash window is #262626.
+
 [sv]: https://svija.love
