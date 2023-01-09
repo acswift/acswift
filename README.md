@@ -1,21 +1,15 @@
-# Andrew Carroll Swift
+### Andy Swift
 
-I'm an American software developer who lives in Toulouse France.
+I've been a developer and graphic designer since 1989.
 
-I'll add my C.V. here when I have a few minutes.
+I'm currently the CTO of [Svija][sv] — we're using Adobe Illustrator to create amazing web content that's just impossible by any other means.
 
-I was born in Cambridge, England, then lived in:
-- Amherst, MA
-- Palo Alto, CA
-- Durham, NC
-- Swarthmore, PA
-- New Orleans, LA
-- Boulder, CO
-- Capbreton, France
-- Toulouse, France
+Although I'm American, I was born in Cambridge Enlgand and I've lived in France since 2000 (les Landes then Toulouse).
 
-Right now, my work involves [Svija][sv], a program to build web sites using Adobe Illustrator.
+In addition to my technical expertise, I'm also an accomplished classical draughtsman and bassist.
 
-The background color of my bash window is #262626.
+I've been very strongly influenced by Buddhist philosophy.
+
+It took me a while to learn to work hard.
 
 [sv]: https://svija.love
