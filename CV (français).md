@@ -14,13 +14,13 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 ---
 
 **09.2019-présent : Svija** · startup numérique · Clermont-Fd
-> **Fondateur/CTO**
+> Fondateur/CTO
 - Développement de l’offre de service
 - Gestion de l’architecture technique et fonctionnelle
 
 
 **03.1995-09.2019 : Ozaké** · agence de design · Boulder, Colorado, E.U. & Toulouse, France
-> **Fondateur**
+> Fondateur
 - Stratégies publicitaires
 - Création de publicité
 - Produits imprimés
@@ -66,9 +66,9 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 - Design de publicité imprimée
 
 
-**1987-1989 : Whole Foods Market · chaine de supermarchés bio · New Orleans, Louisianne · E.U.
+**1987-1989 : Whole Food Co.** · chaine de supermarchés bio · New Orleans, Louisianne · E.U.
 > Assistant au manager de rayon fruits & légumes
-- formation pointu en management
+- formation en management
 - augmentation du chiffre d'affaires par 5 en 2 ans
 
 ---
@@ -103,5 +103,6 @@ Intérêts personnels :
 
 Prix et distinctions :
 
+- ex-membre de Mensa
 - National Merit Scholar
 Récompense accordée aux lycéens ayant un niveau exceptionnel de lecture et d'écriture, mathématiques, et capacité de résolution de problèmes, en combinaison avec de très bonnes notes et des scores exceptionnels sur le test standardisé SAT.
