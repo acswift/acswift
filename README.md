@@ -31,6 +31,7 @@ I grew up in Amherst, Massachusetts.
 I'm lead developer at <a href="https://svija.com">Svija</a>, working on a new vision of how to create web content.
 
 <hr>
+work: <a href='http://ozake.com'>graphic design</a>
 blog: <a href='http://posnitubek.com'>posnit ubek</a>
 art classes: <a href='http://dessin.acswift.com/'>dessin.acswift.com</a>
 
