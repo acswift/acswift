@@ -42,6 +42,7 @@ online presence:
 - <a href='https://www.upwork.com/freelancers/~01be05117193e5a372'>upwork</a>
 - <a href='https://news.ycombinator.com/user?id=AndrewSwift'>hacker news</a>
 - <a href='https://stackexchange.com/users/27587/andrew-swift'>stack exchange</a>
+- <a href='https://discord.com/users/798242260365738064'>Discord</a>
 - <a href='https://mastodon.social/@acswift'>mastodon</a>
 - <a href='https://x.com/andysvija'>x</a>
 - <a href='https://www.threads.net/@acswift'>threads</a>
