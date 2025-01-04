@@ -1,16 +1,11 @@
 
-### Andrew Swift · product design
+### Andrew Carroll Swift
 
 né le 28 mars 1965 · double nationalité anglo-américaine
 
 ---
 
-11, avenue du Petit Prince · 31400 Toulouse, France 
-andrew@svija.com · +33 (0)6 18 26 09 61
-
----
-
-Compétences :
+*Compétences*
 - développement de sites web : Django, Python, PHP, MySQL & PostgreSQL
 - graphisme · Adobe Creative Cloud · workflow de réalisations web & impression
 - stratégies de développement logiciels
