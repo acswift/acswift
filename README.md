@@ -1,4 +1,7 @@
-[CV en français](acswift/blob/main/CV%C2%A0(fran%C3%A7ais).md)
+[CV en français](blob/main/CV%C2%A0(fran%C3%A7ais).md)
+
+https://github.com/acswift/acswift/blob/main/acswift/blob/main/CV%C2%A0(fran%C3%A7ais).md
+https://github.com/acswift/acswift/blob/main/CV%C2%A0(fran%C3%A7ais).md
 
 ### Andy Swift
 
