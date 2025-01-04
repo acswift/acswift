@@ -48,6 +48,7 @@ online presence:
 - <a href='https://www.threads.net/@acswift'>threads</a>
 - <a href='https://bsky.app/profile/acswift.bsky.social'>bluesky</a>
 - <a href='https://instagram.com/acswift'>instagram</a>
+- <a href='https://www.tiktok.com/@andysvija'>tiktok</a>
 
 mostly inactive:
 - <a href='https://www.facebook.com/andrewcswift'>facebook</a>
