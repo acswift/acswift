@@ -5,7 +5,7 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 
 ---
 
-*Compétences*
+*Compétences :*
 - développement de sites web : Django, Python, PHP, MySQL & PostgreSQL
 - graphisme · Adobe Creative Cloud · workflow de réalisations web & impression
 - stratégies de développement logiciels
