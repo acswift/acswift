@@ -13,8 +13,8 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 
 ---
 
-**09.2019-présent : Svija** · startup numérique · 09.2019 › ce jour
-> **Fondateur CTO** Clermont-Fd, France
+**09.2019-présent : Svija** · startup numérique
+> **Fondateur/CTO** Clermont-Fd, France
 - Développement de l’offre de service
 - Gestion de l’architecture technique et fonctionnelle
 
@@ -29,7 +29,7 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 - Backend : bases de données, comptes client, catalogues de produits
 
 
-**03.2004-10.2010 : SchoolDirectory** · site de référencement d'universités
+**2004-2010 : SchoolDirectory** · site de référencement d'universités
 > Co-fondateur Capbreton (40) & Toulouse, France
 - Programmation & design de site web à base de données
 - Contenant des informations sur des universités payantes aux E.U.
@@ -38,20 +38,20 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 - Vente de l'ensemble du projet pour 1,5M €
 
 
-Anaÿs · outil de construction de sites web en Flash 2002 › 2006
+**2002-2006 : Anaÿs** · outil de construction de sites web en Flash
 > Fondateur Capbreton (40), France
 - Système de contenus modulaires pour sites en Flash
 - Contenus complètement référençables par Google
 - Gestion de contenus par personnes non-techniques
 
 
-PowderDB · outil d'optimisation pour moteurs de recherche 2001 › 2002
+**2001-2002 : PowderDB** · outil d'optimisation pour moteurs de recherche
 > Fondateur Capbreton (40), France
 - Environ 400K pages référencées par site
 - Trafic web boosté par 1000 fois en moyen
 
 
-Daily Camera · journal quotidien 1990 › 1995
+**1990-1995 : The Boulder Daily Camera** · journal quotidien
 > Graphiste Boulder, Colorado · E.U.
 - Design de publicités
 - Stratégies publicitaires
@@ -61,12 +61,12 @@ Daily Camera · journal quotidien 1990 › 1995
 - Gestion de la transition du collage de publicités à la PAO sur Macintosh
 
 
-The Colorado Daily · journal universitaire hebdomadaire 1989 › 1990
+**1989-1990 : The Colorado Daily** · journal hebdomadaire
 > Graphiste Boulder, Colorado · E.U.
 - Design de publicité imprimée
 
 
-Whole Foods Market · chaine de supermarchés bio 1987 › 1989
+**Whole Foods Market · chaine de supermarchés bio 1987 › 1989
 > Assistant au manager de rayon fruits & légumes New Orleans, Louisianne · E.U.
 - formation pointu en management
 - augmentation du chiffre d'affaires par 5 en 2 ans
