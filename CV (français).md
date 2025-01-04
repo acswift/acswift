@@ -13,13 +13,13 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 
 ---
 
-**Svija** · startup numérique · 09.2019 › ce jour
+**09.2019-présent ** · **Svija** · startup numérique · 09.2019 › ce jour
 > **Fondateur CTO** Clermont-Fd, France
 - Développement de l’offre de service
 - Gestion de l’architecture technique et fonctionnelle
 
 
-**Ozaké** · agence de design 1995 › ce jour · pause de 2012-2014
+**03.1995-09.2019** · **Ozaké** · agence de design 1995 › ce jour · sabbatique de 2012-2014
 > **Fondateur** Boulder, Colorado, E.U. & Toulouse, France
 - Stratégies publicitaires
 - Création de publicité
