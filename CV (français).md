@@ -13,14 +13,14 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 
 ---
 
-**09.2019-présent : Svija** · startup numérique
-> **Fondateur/CTO** Clermont-Fd, France
+**09.2019-présent : Svija** · startup numérique · Clermont-Fd
+> **Fondateur/CTO**
 - Développement de l’offre de service
 - Gestion de l’architecture technique et fonctionnelle
 
 
-**03.1995-09.2019 : Ozaké** · agence de design · sabbatique de 2012-2014
-> **Fondateur** Boulder, Colorado, E.U. & Toulouse, France
+**03.1995-09.2019 : Ozaké** · agence de design · Boulder, Colorado, E.U. & Toulouse, France
+> **Fondateur**
 - Stratégies publicitaires
 - Création de publicité
 - Produits imprimés
@@ -29,8 +29,8 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 - Backend : bases de données, comptes client, catalogues de produits
 
 
-**2004-2010 : SchoolDirectory** · site de référencement d'universités
-> Co-fondateur Capbreton (40) & Toulouse, France
+**2004-2010 : SchoolDirectory** · site de référencement d'universités · Capbreton (40) & Toulouse
+> Co-fondateur
 - Programmation & design de site web à base de données
 - Contenant des informations sur des universités payantes aux E.U.
 - Rémunéré pour chaque client potentiel envoyé aux universités
@@ -38,8 +38,8 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 - Vente de l'ensemble du projet pour 1,5M €
 
 
-**2002-2006 : Anaÿs** · outil de construction de sites web en Flash
-> Fondateur Capbreton (40), France
+**2002-2006 : Anaÿs** · outil de construction de sites web en Flash · Capbreton (40)
+> Fondateur
 - Système de contenus modulaires pour sites en Flash
 - Contenus complètement référençables par Google
 - Gestion de contenus par personnes non-techniques
