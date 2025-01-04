@@ -51,7 +51,6 @@ online presence:
 mostly inactive:
 - <a href='https://www.facebook.com/andrewcswift'>facebook</a>
 - <a href='https://www.behance.net/andrewswift'>bēhance</a>
-- <a href='https://dribbble.com/AndySwift'>dribbble</a>
 - <a href='https://imgur.com/user/andysvija'>imgur</a>
 - <a href='https://fr.pinterest.com/andrewcswift/'>pinterest</a>
 - <a href='https://www.quora.com/profile/Andrew-Swift-35'>quora</a>
