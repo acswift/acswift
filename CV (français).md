@@ -13,13 +13,13 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 
 ---
 
-**09.2019-présent ** · **Svija** · startup numérique · 09.2019 › ce jour
+**09.2019-présent** — **Svija** · startup numérique · 09.2019 › ce jour
 > **Fondateur CTO** Clermont-Fd, France
 - Développement de l’offre de service
 - Gestion de l’architecture technique et fonctionnelle
 
 
-**03.1995-09.2019** · **Ozaké** · agence de design 1995 › ce jour · sabbatique de 2012-2014
+**03.1995-09.2019** — **Ozaké** · agence de design · sabbatique de 2012-2014
 > **Fondateur** Boulder, Colorado, E.U. & Toulouse, France
 - Stratégies publicitaires
 - Création de publicité
@@ -29,7 +29,7 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 - Backend : bases de données, comptes client, catalogues de produits
 
 
-**SchoolDirectory** · site de référencement d'universités 2004 › 2010
+**03.2004-10.2010** — **SchoolDirectory** · site de référencement d'universités
 > Co-fondateur Capbreton (40) & Toulouse, France
 - Programmation & design de site web à base de données
 - Contenant des informations sur des universités payantes aux E.U.
