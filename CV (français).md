@@ -45,14 +45,14 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 - Gestion de contenus par personnes non-techniques
 
 
-**2001-2002 : PowderDB** · outil d'optimisation pour moteurs de recherche
-> Fondateur Capbreton (40), France
+**2001-2002 : PowderDB** · outil d'optimisation pour moteurs de recherche · Capbreton (40), France
+> Fondateur
 - Environ 400K pages référencées par site
 - Trafic web boosté par 1000 fois en moyen
 
 
-**1990-1995 : The Boulder Daily Camera** · journal quotidien
-> Graphiste Boulder, Colorado · E.U.
+**1990-1995 : The Boulder Daily Camera** · journal quotidien · Boulder, Colorado · E.U.
+> Graphiste
 - Design de publicités
 - Stratégies publicitaires
 - Collage d'éléments de publicité (paste-up)
@@ -61,13 +61,13 @@ né le 28 mars 1965 · double nationalité anglo-américaine
 - Gestion de la transition du collage de publicités à la PAO sur Macintosh
 
 
-**1989-1990 : The Colorado Daily** · journal hebdomadaire
-> Graphiste Boulder, Colorado · E.U.
+**1989-1990 : The Colorado Daily** · journal hebdomadaire · Boulder, Colorado · E.U.
+> Graphiste
 - Design de publicité imprimée
 
 
-**Whole Foods Market · chaine de supermarchés bio 1987 › 1989
-> Assistant au manager de rayon fruits & légumes New Orleans, Louisianne · E.U.
+**1987-1989 : Whole Foods Market · chaine de supermarchés bio · New Orleans, Louisianne · E.U.
+> Assistant au manager de rayon fruits & légumes
 - formation pointu en management
 - augmentation du chiffre d'affaires par 5 en 2 ans
 
