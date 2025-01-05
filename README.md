@@ -49,10 +49,11 @@ online presence:
 - <a href='https://bsky.app/profile/acswift.bsky.social'>bluesky</a>
 - <a href='https://instagram.com/acswift'>instagram</a>
 - <a href='https://www.tiktok.com/@andysvija'>tiktok</a>
-FLICKR Now you can direct people to your Flickr pages! Here are the addresses you can use to show people your photostream (and your Flickr profile).
 
-https://www.flickr.com/photos/andysvija/
-https://www.flickr.com/people/andysvija/
+Now you can direct people to your Flickr pages! Here are the addresses you can use to show people your photostream (and your Flickr profile).
+
+https://www.flickr.com/photos/andrewcarrollswift/
+https://www.flickr.com/people/andrewcarrollswift/
 
 mostly inactive:
 - <a href='https://www.facebook.com/andrewcswift'>facebook</a>
