@@ -21,11 +21,11 @@ It took me a while to learn to work hard.
 ---
 ### Web Sites
 
-- <a href='https://svija.com'>graphic design</a>  
-- <a href='https://ozake.com'>graphic design</a>  
-- <a href='http://posnitubek.com'>posnit ubek</a>  
-- <a href='https://blog.svija.love'>svija blog</a>  
-- <a href='http://dessin.acswift.com/'>dessin.acswift.com</a>  
+- <a href='https://svija.com'>svija.com</a> · animated web content with Adobe Illustrator 
+- <a href='https://blog.svija.love'>blog.svija.love</a> · the Svija blog
+- <a href='https://ozake.com'>ozake.com</a> · graphic design and web development
+- <a href='http://posnitubek.com'>posnitubek.com</a> · personal blog
+- <a href='http://dessin.acswift.com/'>dessin.acswift.com</a> · drawing classes (in French)
 
 ---
 ### Professional Network
