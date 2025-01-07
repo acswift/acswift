@@ -20,10 +20,10 @@ It took me a while to learn to work hard.
 
 ---
 
-work: <a href='http://ozake.com'>graphic design</a>
-blog: <a href='http://posnitubek.com'>posnit ubek</a>
-design blog: <a href='http://blog.svija.love'>svija blog</a>
-art classes: <a href='http://dessin.acswift.com/'>dessin.acswift.com</a>
+work: <a href='http://ozake.com'>graphic design</a>  
+blog: <a href='http://posnitubek.com'>posnit ubek</a>  
+design blog: <a href='http://blog.svija.love'>svija blog</a>  
+art classes: <a href='http://dessin.acswift.com/'>dessin.acswift.com</a>  
 - drawings: <a href='https://www.flickr.com/people/andrewcarrollswift/'>flickr</a>
 
 online presence:
