@@ -8,7 +8,7 @@ I've been a developer and graphic designer since 1989.
 
 I'm currently the developer of [Svija][sv], working on a new vision of how to create web content.
 
-Although I'm American, I was born in Cambridge Enlgand and I've lived in France since 2000 (les Landes then Toulouse).
+I was born in Cambridge England, grew up in the U.S., and I've lived in France since 2000 (Landes then Toulouse).
 
 In addition to my technical expertise, I'm also an accomplished classical draughtsman and bassist.
 
@@ -30,29 +30,30 @@ It took me a while to learn to work hard.
 ---
 ### Professional Network
 
-- <a href='https://www.linkedin.com/in/andrew-swift-89415014b/'>linkedin</a>
 - <a href='https://www.freelancermap.com/profile/andrew-swift'>freelancermap</a>
+- <a href='https://www.linkedin.com/in/andrew-swift-89415014b/'>linkedin</a>
 - <a href='https://www.upwork.com/freelancers/~01be05117193e5a372'>upwork</a>
 
 ---
 ### Online Presence
 
+- <a href='https://bsky.app/profile/acswift.bsky.social'>bluesky</a>
+- <a href='https://discord.com/users/798242260365738064'>discord</a>
 - <a href='https://www.flickr.com/people/andrewcarrollswift/'>flickr</a> (drawings)
 - <a href='https://news.ycombinator.com/user?id=AndrewSwift'>hacker news</a>
-- <a href='https://stackexchange.com/users/27587/andrew-swift'>stack exchange</a>
-- <a href='https://discord.com/users/798242260365738064'>discord</a>
-- <a href='https://mastodon.social/@acswift'>mastodon</a>
-- <a href='https://x.com/andysvija'>x</a>
-- <a href='https://www.threads.net/@acswift'>threads</a>
-- <a href='https://bsky.app/profile/acswift.bsky.social'>bluesky</a>
 - <a href='https://instagram.com/acswift'>instagram</a>
-- <a href='https://www.tiktok.com/@andysvija'>tiktok</a>
+- <a href='https://mastodon.social/@acswift'>mastodon</a>
+- <a href='https://stackexchange.com/users/27587/andrew-swift'>stack exchange</a>
+- <a href='https://www.threads.net/@acswift'>threads</a>
+- <a href='https://x.com/andysvija'>x</a>
 
 *mostly inactive:*
-- <a href='https://www.facebook.com/andrewcswift'>facebook</a>
+
 - <a href='https://www.behance.net/andrewswift'>bēhance</a>
+- <a href='https://www.facebook.com/andrewcswift'>facebook</a>
 - <a href='https://imgur.com/user/andysvija'>imgur</a>
 - <a href='https://www.quora.com/profile/Andrew-Swift-35'>quora</a>
+- <a href='https://www.tiktok.com/@andysvija'>tiktok</a>
 - <a href='https://www.youtube.com/@andysvija'>youtube</a>
 
 ---
