@@ -19,22 +19,25 @@ It took me a while to learn to work hard.
 [sv]: https://svija.love
 
 ---
+### Web Sites
 
-work: <a href='http://ozake.com'>graphic design</a>  
-blog: <a href='http://posnitubek.com'>posnit ubek</a>  
-design blog: <a href='http://blog.svija.love'>svija blog</a>  
-art classes: <a href='http://dessin.acswift.com/'>dessin.acswift.com</a>  
-- drawings: <a href='https://www.flickr.com/people/andrewcarrollswift/'>flickr</a>
+- <a href='https://svija.com'>graphic design</a>  
+- <a href='https://ozake.com'>graphic design</a>  
+- <a href='http://posnitubek.com'>posnit ubek</a>  
+- <a href='https://blog.svija.love'>svija blog</a>  
+- <a href='http://dessin.acswift.com/'>dessin.acswift.com</a>  
 
 ---
+### Professional Network
 
-### Online Presence
-
-
-- <a href='https://github.com/acswift'>github</a>
 - <a href='https://www.linkedin.com/in/andrew-swift-89415014b/'>linkedin</a>
 - <a href='https://www.freelancermap.com/profile/andrew-swift'>freelancermap</a>
 - <a href='https://www.upwork.com/freelancers/~01be05117193e5a372'>upwork</a>
+
+---
+### Online Presence
+
+- <a href='https://www.flickr.com/people/andrewcarrollswift/'>flickr</a> (drawings)
 - <a href='https://news.ycombinator.com/user?id=AndrewSwift'>hacker news</a>
 - <a href='https://stackexchange.com/users/27587/andrew-swift'>stack exchange</a>
 - <a href='https://discord.com/users/798242260365738064'>discord</a>
