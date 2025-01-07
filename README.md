@@ -2,9 +2,11 @@
 
 ### Andy Swift
 
+I grew up in Amherst, Massachusetts.
+
 I've been a developer and graphic designer since 1989.
 
-I'm currently the CTO of [Svija][sv] — we're using Adobe Illustrator to create amazing web content that's just impossible by any other means.
+I'm currently the developer of [Svija][sv], working on a new vision of how to create web content.
 
 Although I'm American, I was born in Cambridge Enlgand and I've lived in France since 2000 (les Landes then Toulouse).
 
@@ -16,26 +18,16 @@ It took me a while to learn to work hard.
 
 [sv]: https://svija.love
 
-
-
-
-
-
 ---
 
-
-Andrew Carroll Swift
-
-I grew up in Amherst, Massachusetts.
-
-I'm lead developer at <a href="https://svija.com">Svija</a>, working on a new vision of how to create web content.
-
-<hr>
 work: <a href='http://ozake.com'>graphic design</a>
 blog: <a href='http://posnitubek.com'>posnit ubek</a>
+design blog: <a href='http://blog.svija.love'>svija blog</a>
 art classes: <a href='http://dessin.acswift.com/'>dessin.acswift.com</a>
+- drawings: <a href='https://www.flickr.com/people/andrewcarrollswift/'>flickr</a>
 
 online presence:
+
 - <a href='https://github.com/acswift'>github</a>
 - <a href='https://www.linkedin.com/in/andrew-swift-89415014b/'>linkedin</a>
 - <a href='https://www.freelancermap.com/profile/andrew-swift'>freelancermap</a>
@@ -50,11 +42,6 @@ online presence:
 - <a href='https://instagram.com/acswift'>instagram</a>
 - <a href='https://www.tiktok.com/@andysvija'>tiktok</a>
 
-Now you can direct people to your Flickr pages! Here are the addresses you can use to show people your photostream (and your Flickr profile).
-
-https://www.flickr.com/photos/andrewcarrollswift/
-https://www.flickr.com/people/andrewcarrollswift/
-
 mostly inactive:
 - <a href='https://www.facebook.com/andrewcswift'>facebook</a>
 - <a href='https://www.behance.net/andrewswift'>bēhance</a>
@@ -62,7 +49,11 @@ mostly inactive:
 - <a href='https://www.quora.com/profile/Andrew-Swift-35'>quora</a>
 - <a href='https://www.youtube.com/@andysvija'>youtube</a>
 
-<hr>
+---
+#### Competencies
+
+- video production (examples)
+
 Two things I'm proud of:
 
 From 2012-2014 I took a sabbatical to concentrate on classical art. The following drawing is
