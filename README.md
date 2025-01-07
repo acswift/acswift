@@ -10,7 +10,7 @@ I'm currently the developer of [Svija][sv], working on a new vision of how to cr
 
 I was born in Cambridge England, grew up in the U.S., and I've lived in France since 2000 (Landes then Toulouse).
 
-In addition to my technical expertise, I'm also an accomplished classical draughtsman and bassist.
+In addition to my technical experience, I'm also a classical artist and bassist.
 
 I've been very strongly influenced by Buddhist philosophy.
 
