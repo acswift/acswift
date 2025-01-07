@@ -26,7 +26,10 @@ design blog: <a href='http://blog.svija.love'>svija blog</a>
 art classes: <a href='http://dessin.acswift.com/'>dessin.acswift.com</a>  
 - drawings: <a href='https://www.flickr.com/people/andrewcarrollswift/'>flickr</a>
 
-online presence:
+---
+
+### Online Presence
+
 
 - <a href='https://github.com/acswift'>github</a>
 - <a href='https://www.linkedin.com/in/andrew-swift-89415014b/'>linkedin</a>
@@ -42,7 +45,7 @@ online presence:
 - <a href='https://instagram.com/acswift'>instagram</a>
 - <a href='https://www.tiktok.com/@andysvija'>tiktok</a>
 
-mostly inactive:
+*mostly inactive:*
 - <a href='https://www.facebook.com/andrewcswift'>facebook</a>
 - <a href='https://www.behance.net/andrewswift'>bēhance</a>
 - <a href='https://imgur.com/user/andysvija'>imgur</a>
