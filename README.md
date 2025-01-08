@@ -22,11 +22,13 @@ I'm always looking for interesting work.
 #### CV Highlights
 
 2019-Present : Svija SAS ([web site](https://svija.com))
+> SAAS startup with three founders
 - development of an Adobe Illustrator plugin in Extendscript
 - development of an SAAS product to serve SVG-based websites
 - creation of websites, marketing materials and pitch decks
 
-1995-2019 : Ozaké
+1995-2019 : Ozaké Communication ([web site](https://ozake.com))
+> One-person communications agency
 - full-stack web development
 - 
 
