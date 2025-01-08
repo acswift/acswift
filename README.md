@@ -64,6 +64,10 @@ I work well under pressure.
 
 I work well in teams.
 
+I am an expert in only a few domains, but I am really good at seeing the right target and mobilizing the resources to get there.
+
+Think: getting to the right place by any means necessary, rather than using only tools in my comfort zone.
+
 ---
 #### Competencies
 
