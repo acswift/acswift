@@ -1,16 +1,8 @@
 [CV en français](CV%C2%A0(fran%C3%A7ais).md) · [biography](bio.md)
 
-### Andy Swift
+### Andrew Swift
 
 
-[sv]: https://svija.love
-
----
-### Professional Network
-
-- [freelancermap](https://www.freelancermap.com/profile/andrew-swift)
-- [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
-- [upwork](https://www.upwork.com/freelancers/~01be05117193e5a372)
 
 ---
 #### Competencies
@@ -18,6 +10,10 @@
 - video production (examples)
 
 ---
+networking:
+[freelancermap](https://www.freelancermap.com/profile/andrew-swift) ·
+[linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/) ·
+[upwork](https://www.upwork.com/freelancers/~01be05117193e5a372)
 
 websites:
 [svija.com](https://svija.com "building websites with Adobe Illustrator") ·
