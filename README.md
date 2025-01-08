@@ -36,19 +36,19 @@ I'm always looking for interesting work.
 - advertising design
 - branding
 
-2004-2010 : School Directory
+`2004-2010` : School Directory
 > lead-generating website with partner  
 > design & development
 - 14,000-16,000 € monthly revenue
 - sold for 1.5 M€
 
-2002-2006 : Anaÿs
+`2002-2006` : Anaÿs
 > software enabling dynamic Flash websites
 - modular content system
 - Google-indexed Flash content
 - content management by non-technical users
 
-2001-2002 : PowderDB
+`2001-2002` : PowderDB
 > outil d'optimisation pour moteurs de recherche · Capbreton (40), France
 
 Fondateur
