@@ -24,14 +24,40 @@ I'm always looking for interesting work.
 2019-Present : Svija SAS ([web site](https://svija.com))
 > SAAS startup with three founders
 - development of an Adobe Illustrator plugin in Extendscript
-- development of an SAAS product to serve SVG-based websites
-- creation of websites, marketing materials and pitch decks
+- development of an Django application to serve SVG-based websites
+- development of an animation platform in Javascript
+- design of company website, marketing materials and pitch decks
 
 1995-2019 : Ozaké Communication ([web site](https://ozake.com))
-> One-person communications agency
+> Single-person communications agency
 - full-stack web development
+- print design
 - 
 
+2004-2010 : SchoolDirectory · site de référencement d'universités · Capbreton (40) & Toulouse
+
+Co-fondateur
+
+Programmation & design de site web à base de données
+Contenant des informations sur des universités payantes aux E.U.
+Rémunéré pour chaque client potentiel envoyé aux universités
+Revenus env. 14.000-16.000 €/mois
+Vente de l'ensemble du projet pour 1,5M €
+2002-2006 : Anaÿs · outil de construction de sites web en Flash · Capbreton (40)
+
+Fondateur
+
+Système de contenus modulaires pour sites en Flash
+Contenus complètement référençables par Google
+Gestion de contenus par personnes non-techniques
+2001-2002 : PowderDB · outil d'optimisation pour moteurs de recherche · Capbreton (40), France
+
+Fondateur
+
+Environ 400K pages référencées par site
+Trafic web boosté par 1000 fois en moyen
+
+[full cv](CV.md)
 ---
 #### Competencies
 
