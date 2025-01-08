@@ -22,7 +22,7 @@ I'm always looking for interesting work.
 #### CV Highlights
 
 2019-Present : Svija SAS ([web site](https://svija.com))
-> SAAS startup with three founders
+> SAAS startup with three founders  
 > I was the 80% owner, only developer, and handled all communications
 - development of an Adobe Illustrator plugin in Extendscript
 - development of an Django application to serve SVG-based websites
