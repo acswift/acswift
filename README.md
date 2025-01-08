@@ -21,7 +21,7 @@
 
 [svija.com](https://svija.com) ·
 [blog.svija.love](https://blog.svija.love) ·
-[ozake.com](https://ozake.com) ·
+[ozake.com](https://ozake.com "professional design & web development") ·
 [posnitubek.com](http://posnitubek.com) ·
 [dessin.acswift.com](http://dessin.acswift.com/)
 
