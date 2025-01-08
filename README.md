@@ -14,7 +14,7 @@ I'm always looking for interesting work.
 
 #### Design
 - ux & web design: various tools
-- print design: Adobe Illustrator
+- print design: Adobe Creative Cloud
 - motion design: Svija
 - video production: Final Cut Pro
 
