@@ -9,10 +9,26 @@ I'm always looking for interesting work.
 #### Development
 - backend: NginX, Python and Django
 - frontend: HTML, CSS and JS
+- Adobe: CEP, Extendscript, ScriptUI
+- Bash & Git
 
 #### Design
-- ux and web design
-- print design
+- ux and web design: various tools
+- print design: Adobe Illustrator
+- motion design: Svija
+- video production: Final Cut Pro
+
+---
+#### CV Highlights
+
+2019-Present : Svija SAS ([web site](https://svija.com))
+- development of an Adobe Illustrator plugin in Extendscript
+- development of an SAAS product to serve SVG-based websites
+- creation of websites, marketing materials and pitch decks
+
+1995-2019 : Ozaké
+- full-stack web development
+- 
 
 ---
 #### Competencies
