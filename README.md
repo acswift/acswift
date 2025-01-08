@@ -2,12 +2,23 @@
 
 ## Andrew Swift
 
+American developer and designer who lives in Toulouse France.
 
+#### Development
+- backend expertise in Django/Python
+- front dev in HTML/CSS/JS
+- server maintenance (ubuntu)
+
+#### Design
+- one
+- two
+- three
 
 ---
 #### Competencies
 
 - video production (examples)
+- image generation with Stable Diffusion (A1111)
 
 ---
 networking:
