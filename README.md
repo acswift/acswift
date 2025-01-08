@@ -46,15 +46,12 @@ I'm always looking for interesting work.
 > software enabling dynamic Flash websites
 - modular content system
 - Google-indexed Flash content
-- content management by non-technical users
+- content management for non-technical users
 
 `2001-2002` : PowderDB
-> outil d'optimisation pour moteurs de recherche · Capbreton (40), France
-
-Fondateur
-
-- Environ 400K pages référencées par site
-- Trafic web boosté par 1000 fois en moyen
+> SEO optimization software
+- approx. 400K pages indexed per site
+- 1000x average traffic boost
 
 [full cv](CV.md)
 ---
