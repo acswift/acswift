@@ -35,28 +35,6 @@ It took me a while to learn to work hard.
 - <a href='https://www.upwork.com/freelancers/~01be05117193e5a372'>upwork</a>
 
 ---
-### Online Presence
-
-<a href='https://bsky.app/profile/acswift.bsky.social'>bluesky</a> · 
-<a href='https://discord.com/users/798242260365738064'>discord</a> · 
-<a href='https://www.flickr.com/people/andrewcarrollswift/'>flickr</a> ·
-<a href='https://news.ycombinator.com/user?id=AndrewSwift'>hacker news</a> ·
-<a href='https://instagram.com/acswift'>instagram</a> ·
-<a href='https://mastodon.social/@acswift'>mastodon</a> ·
-<a href='https://stackexchange.com/users/27587/andrew-swift'>stack exchange</a> ·
-<a href='https://www.threads.net/@acswift'>threads</a> ·
-<a href='https://x.com/andysvija'>x</a> ·
-
-*mostly inactive:*
-
-<a href='https://www.behance.net/andrewswift'>bēhance</a> ·
-<a href='https://www.facebook.com/andrewcswift'>facebook</a> ·
-<a href='https://imgur.com/user/andysvija'>imgur</a> ·
-<a href='https://www.quora.com/profile/Andrew-Swift-35'>quora</a> ·
-<a href='https://www.tiktok.com/@andysvija'>tiktok</a> ·
-<a href='https://www.youtube.com/@andysvija'>youtube</a> ·
-
----
 #### Competencies
 
 - video production (examples)
@@ -78,4 +56,24 @@ It was the most fun I've ever had.
 
 <br><img src="D041022-036.JPG" style="width:50%;margin:0 25%;">
 
-</pre></body></html>
+---
+
+social:
+<a href='https://bsky.app/profile/acswift.bsky.social'>bluesky</a> · 
+<a href='https://discord.com/users/798242260365738064'>discord</a> · 
+<a href='https://www.flickr.com/people/andrewcarrollswift/'>flickr</a> ·
+<a href='https://news.ycombinator.com/user?id=AndrewSwift'>hacker news</a> ·
+<a href='https://instagram.com/acswift'>instagram</a> ·
+<a href='https://mastodon.social/@acswift'>mastodon</a> ·
+<a href='https://stackexchange.com/users/27587/andrew-swift'>stack exchange</a> ·
+<a href='https://www.threads.net/@acswift'>threads</a> ·
+<a href='https://x.com/andysvija'>x</a> ·
+
+inactive:
+<a href='https://www.behance.net/andrewswift'>bēhance</a> ·
+<a href='https://www.facebook.com/andrewcswift'>facebook</a> ·
+<a href='https://imgur.com/user/andysvija'>imgur</a> ·
+<a href='https://www.quora.com/profile/Andrew-Swift-35'>quora</a> ·
+<a href='https://www.tiktok.com/@andysvija'>tiktok</a> ·
+<a href='https://www.youtube.com/@andysvija'>youtube</a> ·
+
