@@ -21,7 +21,7 @@ I'm always looking for interesting work.
 ---
 #### CV Highlights
 
-2019-Present : `Svija SAS` ([web site](https://svija.com))
+`2019-Present` : Svija SAS ([web site](https://svija.com))
 > SAAS startup with three founders  
 > developement & communication
 - development of an Adobe Illustrator plugin in Extendscript
@@ -29,7 +29,7 @@ I'm always looking for interesting work.
 - development of an animation platform in Javascript
 - design of company website, marketing materials & pitch decks
 
-1995-2019 : Ozaké Communication ([web site](https://ozake.com))
+`1995-2019` : Ozaké Communication ([web site](https://ozake.com))
 > single-person communications agency
 - full-stack web development
 - print design
