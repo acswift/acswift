@@ -21,7 +21,7 @@
 
 [svija.com](https://svija.com "building websites with Adobe Illustrator") ·
 [blog.svija.love](https://blog.svija.love "company blog") ·
-[ozake.com](https://ozake.com "design & web development" "") ·
+[ozake.com](https://ozake.com "design & web development") ·
 [posnitubek.com](http://posnitubek.com "personal blog") ·
 [dessin.acswift.com](http://dessin.acswift.com/ "drawing classes (in French)")
 
