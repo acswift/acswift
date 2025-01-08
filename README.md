@@ -13,7 +13,7 @@ I'm always looking for interesting work.
 - Bash & Git
 
 #### Design
-- ux and web design: various tools
+- ux & web design: various tools
 - print design: Adobe Illustrator
 - motion design: Svija
 - video production: Final Cut Pro
@@ -23,27 +23,24 @@ I'm always looking for interesting work.
 
 2019-Present : Svija SAS ([web site](https://svija.com))
 > SAAS startup with three founders  
-> responsible for developement and communications
+> developement & communication
 - development of an Adobe Illustrator plugin in Extendscript
 - development of an Django application to serve SVG-based websites
 - development of an animation platform in Javascript
-- design of company website, marketing materials and pitch decks
+- design of company website, marketing materials & pitch decks
 
 1995-2019 : Ozaké Communication ([web site](https://ozake.com))
-> Single-person communications agency
+> single-person communications agency
 - full-stack web development
 - print design
 - advertising design
 - branding
 
 2004-2010 : SchoolDirectory
-> lead-generating website with one partner  
-> responsible for development and marketing  
-- site de référencement d'universités · Capbreton (40) & Toulouse
-- Programmation & design de site web à base de données
-- Contenant des informations sur des universités payantes aux E.U.
-- Rémunéré pour chaque client potentiel envoyé aux universités
-- Revenus env. 14.000-16.000 €/mois
+> lead-generating website with partner  
+> design, development & marketing  
+- design & development of dynamic website
+- 14,000-16,000 €/m revenue
 - sold for 1.5 M€
 
 2002-2006 : Anaÿs
