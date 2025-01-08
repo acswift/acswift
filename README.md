@@ -23,6 +23,7 @@ I'm always looking for interesting work.
 
 2019-Present : Svija SAS ([web site](https://svija.com))
 > SAAS startup with three founders
+> I was the 80% owner, only developer, and handled all communications
 - development of an Adobe Illustrator plugin in Extendscript
 - development of an Django application to serve SVG-based websites
 - development of an animation platform in Javascript
@@ -32,35 +33,41 @@ I'm always looking for interesting work.
 > Single-person communications agency
 - full-stack web development
 - print design
-- 
+- advertising design
+- branding
 
-2004-2010 : SchoolDirectory · site de référencement d'universités · Capbreton (40) & Toulouse
+2004-2010 : SchoolDirectory
+> Lead-generating website with a partner
+> I handled all technical aspects, partner handled client relations
+> sold in 2010 for 1.5 M€
+- site de référencement d'universités · Capbreton (40) & Toulouse
+- Programmation & design de site web à base de données
+- Contenant des informations sur des universités payantes aux E.U.
+- Rémunéré pour chaque client potentiel envoyé aux universités
+- Revenus env. 14.000-16.000 €/mois
 
-Co-fondateur
-
-Programmation & design de site web à base de données
-Contenant des informations sur des universités payantes aux E.U.
-Rémunéré pour chaque client potentiel envoyé aux universités
-Revenus env. 14.000-16.000 €/mois
-Vente de l'ensemble du projet pour 1,5M €
-2002-2006 : Anaÿs · outil de construction de sites web en Flash · Capbreton (40)
-
-Fondateur
-
-Système de contenus modulaires pour sites en Flash
-Contenus complètement référençables par Google
-Gestion de contenus par personnes non-techniques
-2001-2002 : PowderDB · outil d'optimisation pour moteurs de recherche · Capbreton (40), France
+2002-2006 : Anaÿs
+> outil de construction de sites web en Flash · Capbreton (40)
 
 Fondateur
 
-Environ 400K pages référencées par site
-Trafic web boosté par 1000 fois en moyen
+- Système de contenus modulaires pour sites en Flash
+- Contenus complètement référençables par Google
+- Gestion de contenus par personnes non-techniques
+
+2001-2002 : PowderDB
+> outil d'optimisation pour moteurs de recherche · Capbreton (40), France
+
+Fondateur
+
+- Environ 400K pages référencées par site
+- Trafic web boosté par 1000 fois en moyen
 
 [full cv](CV.md)
 ---
 #### Competencies
 
+- commercial copywriting
 - video production (examples)
 - image generation with Stable Diffusion (A1111)
 
