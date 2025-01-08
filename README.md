@@ -28,20 +28,20 @@
 ---
 
 social:
-(https://stackexchange.com/users/27587/andrew-swift)[stack exchange] ·
-(https://news.ycombinator.com/user?id=AndrewSwift)[hacker news] ·
-(https://x.com/andysvija)[x] ·
-(https://discord.com/users/798242260365738064)[discord] · 
-(https://www.flickr.com/people/andrewcarrollswift/)[flickr] ·
-(https://instagram.com/acswift)[instagram] ·
-(https://mastodon.social/@acswift)[mastodon] ·
-(https://www.threads.net/@acswift)[threads] ·
-(https://bsky.app/profile/acswift.bsky.social)[bluesky]
+[stack exchange](https://stackexchange.com/users/27587/andrew-swift) ·
+[hacker news](https://news.ycombinator.com/user?id=AndrewSwift) ·
+[x](https://x.com/andysvija) ·
+[discord](https://discord.com/users/798242260365738064) · 
+[flickr](https://www.flickr.com/people/andrewcarrollswift/) ·
+[instagram](https://instagram.com/acswift) ·
+[mastodon](https://mastodon.social/@acswift) ·
+[threads](https://www.threads.net/@acswift) ·
+[bluesky](https://bsky.app/profile/acswift.bsky.social)
 
 inactive:
-(https://www.youtube.com/@andysvija)[youtube] ·
-(https://www.behance.net/andrewswift)[bēhance] ·
-(https://www.facebook.com/andrewcswift)[facebook] ·
-(https://www.quora.com/profile/Andrew-Swift-35)[quora] ·
-(https://www.tiktok.com/@andysvija)[tiktok]
+[youtube](https://www.youtube.com/@andysvija) ·
+[bēhance](https://www.behance.net/andrewswift) ·
+[facebook](https://www.facebook.com/andrewcswift) ·
+[quora](https://www.quora.com/profile/Andrew-Swift-35) ·
+[tiktok](https://www.tiktok.com/@andysvija)
 
