@@ -19,29 +19,29 @@
 
 ---
 
-[svija.com](https://svija.com) ·
-[blog.svija.love](https://blog.svija.love) ·
-[ozake.com](https://ozake.com "professional design & web development") ·
-[posnitubek.com](http://posnitubek.com) ·
-[dessin.acswift.com](http://dessin.acswift.com/)
+[svija.com](https://svija.com "building websites with Adobe Illustrator") ·
+[blog.svija.love](https://blog.svija.love "company blog") ·
+[ozake.com](https://ozake.com "design & web development" "") ·
+[posnitubek.com](http://posnitubek.com "personal blog") ·
+[dessin.acswift.com](http://dessin.acswift.com/ "drawing classes (in French)")
 
 ---
 
 social:
-[stack exchange](https://stackexchange.com/users/27587/andrew-swift) ·
-[hacker news](https://news.ycombinator.com/user?id=AndrewSwift) ·
-[x](https://x.com/andysvija) ·
-[discord](https://discord.com/users/798242260365738064) · 
-[flickr](https://www.flickr.com/people/andrewcarrollswift/) ·
-[instagram](https://instagram.com/acswift) ·
-[mastodon](https://mastodon.social/@acswift) ·
-[threads](https://www.threads.net/@acswift) ·
-[bluesky](https://bsky.app/profile/acswift.bsky.social)
+[stack exchange](https://stackexchange.com/users/27587/andrew-swift "Stack Exchange profile page") ·
+[hacker news](https://news.ycombinator.com/user?id=AndrewSwift "Hacker News profile page") ·
+[x](https://x.com/andysvija "X feed") ·
+[discord](https://discord.com/users/798242260365738064 "Discord profile") · 
+[flickr](https://www.flickr.com/people/andrewcarrollswift/ "classical drawings") ·
+[instagram](https://instagram.com/acswift "photography") ·
+[quora](https://www.quora.com/profile/Andrew-Swift-35 "questions and answers") ·
+[mastodon](https://mastodon.social/@acswift "networking") ·
+[threads](https://www.threads.net/@acswift "networking") ·
+[bluesky](https://bsky.app/profile/acswift.bsky.social "networking")
 
 inactive:
-[youtube](https://www.youtube.com/@andysvija) ·
-[bēhance](https://www.behance.net/andrewswift) ·
-[facebook](https://www.facebook.com/andrewcswift) ·
-[quora](https://www.quora.com/profile/Andrew-Swift-35) ·
-[tiktok](https://www.tiktok.com/@andysvija)
+[youtube](https://www.youtube.com/@andysvija "unused") ·
+[bēhance](https://www.behance.net/andrewswift "unused") ·
+[facebook](https://www.facebook.com/andrewcswift "unused") ·
+[tiktok](https://www.tiktok.com/@andysvija "unused")
 
