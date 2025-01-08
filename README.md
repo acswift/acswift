@@ -7,14 +7,12 @@ I'm an American developer and designer who lives in Toulouse France.
 I'm always looking for interesting work.
 
 #### Development
-- backend expertise in Django/Python
-- front dev in HTML/CSS/JS
-- server maintenance (ubuntu)
+- backend: NginX, Python and Django
+- frontend: HTML, CSS and JS
 
 #### Design
-- one
-- two
-- three
+- ux and web design
+- print design
 
 ---
 #### Competencies
