@@ -53,7 +53,8 @@ I'm always looking for interesting work.
 - approx. 400K pages indexed per site
 - 1000x average traffic boost
 
-[full cv](CV.md)
+[full CV here](CV.md)
+
 ---
 #### What I'm Like
 
