@@ -21,7 +21,7 @@ I'm always looking for interesting work.
 ---
 #### CV Highlights
 
-2019-Present : Svija SAS ([web site](https://svija.com))
+2019-Present : `Svija SAS` ([web site](https://svija.com))
 > SAAS startup with three founders  
 > developement & communication
 - development of an Adobe Illustrator plugin in Extendscript
@@ -36,21 +36,17 @@ I'm always looking for interesting work.
 - advertising design
 - branding
 
-2004-2010 : SchoolDirectory
+2004-2010 : School Directory
 > lead-generating website with partner  
-> design, development & marketing  
-- design & development of dynamic website
-- 14,000-16,000 €/m revenue
+> design & development
+- 14,000-16,000 € monthly revenue
 - sold for 1.5 M€
 
 2002-2006 : Anaÿs
-> outil de construction de sites web en Flash · Capbreton (40)
-
-Fondateur
-
-- Système de contenus modulaires pour sites en Flash
-- Contenus complètement référençables par Google
-- Gestion de contenus par personnes non-techniques
+> software enabling dynamic Flash websites
+- modular content system
+- Google-indexed Flash content
+- content management by non-technical users
 
 2001-2002 : PowderDB
 > outil d'optimisation pour moteurs de recherche · Capbreton (40), France
@@ -61,6 +57,15 @@ Fondateur
 - Trafic web boosté par 1000 fois en moyen
 
 [full cv](CV.md)
+---
+#### What I'm Like
+
+I'm a perfectionist, but perfection can mean doing something quickly and not well when it's called for.
+
+I work well under pressure.
+
+I work well in teams.
+
 ---
 #### Competencies
 
