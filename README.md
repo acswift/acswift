@@ -2,7 +2,9 @@
 
 ## Andrew Swift
 
-American developer and designer who lives in Toulouse France.
+I'm an American developer and designer who lives in Toulouse France.
+
+I'm always looking for interesting work.
 
 #### Development
 - backend expertise in Django/Python
