@@ -23,7 +23,7 @@ I'm always looking for interesting work.
 
 2019-Present : Svija SAS ([web site](https://svija.com))
 > SAAS startup with three founders  
-> I was the 80% owner, only developer, and handled all communications
+> responsible for developement and communications
 - development of an Adobe Illustrator plugin in Extendscript
 - development of an Django application to serve SVG-based websites
 - development of an animation platform in Javascript
@@ -37,14 +37,14 @@ I'm always looking for interesting work.
 - branding
 
 2004-2010 : SchoolDirectory
-> Lead-generating website with a partner
-> I handled all technical aspects, partner handled client relations
-> sold in 2010 for 1.5 M€
+> lead-generating website with one partner  
+> responsible for development and marketing  
 - site de référencement d'universités · Capbreton (40) & Toulouse
 - Programmation & design de site web à base de données
 - Contenant des informations sur des universités payantes aux E.U.
 - Rémunéré pour chaque client potentiel envoyé aux universités
 - Revenus env. 14.000-16.000 €/mois
+- sold for 1.5 M€
 
 2002-2006 : Anaÿs
 > outil de construction de sites web en Flash · Capbreton (40)
