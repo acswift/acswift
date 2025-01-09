@@ -23,7 +23,7 @@ I'm always looking for interesting work.
 
 I'm a native English speaker and speak fluent French.
 
-`2019-Present` : Svija SAS ([web site](https://svija.com))
+`2019-Present` Svija SAS ([web site](https://svija.com))
 > SAAS startup with three founders  
 > developement & communication
 - development of an Adobe Illustrator plugin in Extendscript
@@ -31,26 +31,26 @@ I'm a native English speaker and speak fluent French.
 - development of an animation platform in Javascript
 - design of company website, marketing materials & pitch decks
 
-`1995-2019` : Ozaké Communication ([web site](https://ozake.com))
+`1995-2019` Ozaké Communication ([web site](https://ozake.com))
 > single-person communications agency
 - full-stack web development
 - print design
 - advertising design
 - branding
 
-`2004-2010` : School Directory
+`2004-2010` School Directory
 > lead-generating website with partner  
 > design & development
 - 14,000-16,000 € monthly revenue
 - sold for 1.5 M€
 
-`2002-2006` : Anaÿs
+`2002-2006` Anaÿs
 > software enabling dynamic Flash websites
 - modular content system
 - Google-indexed Flash content
 - content management for non-technical users
 
-`2001-2002` : PowderDB
+`2001-2002` PowderDB
 > SEO optimization software
 - approx. 400K pages indexed per site
 - 1000x average traffic boost
