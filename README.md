@@ -23,7 +23,7 @@ I'm always looking for interesting work.
 
 I'm a native English speaker and speak fluent French.
 
-`2019-Present` Svija SAS ([web site](https://svija.com))
+`2019-Present` Svija SAS · [web site](https://svija.com)
 > SAAS startup with three founders  
 > developement & communication
 - development of an Adobe Illustrator plugin in Extendscript
@@ -31,7 +31,7 @@ I'm a native English speaker and speak fluent French.
 - development of an animation platform in Javascript
 - design of company website, marketing materials & pitch decks
 
-`1995-2019` Ozaké Communication ([web site](https://ozake.com))
+`1995-2019` Ozaké Communication · [web site](https://ozake.com)
 > single-person communications agency
 - full-stack web development
 - print design
