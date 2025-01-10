@@ -95,7 +95,7 @@ social:
 [hacker news](https://news.ycombinator.com/user?id=AndrewSwift "Hacker News profile page") ·
 [x](https://x.com/andysvija "X feed") ·
 [discord](https://discord.com/users/798242260365738064 "Discord profile") · 
-[flickr](https://www.flickr.com/people/andrewcarrollswift/ "classical drawings") ·
+[flickr](https://www.flickr.com/photos/andrewcarrollswift/albums "classical drawings") ·
 [instagram](https://instagram.com/acswift "photography") ·
 [quora](https://www.quora.com/profile/Andrew-Swift-35 "questions and answers") ·
 [mastodon](https://mastodon.social/@acswift "networking") ·
