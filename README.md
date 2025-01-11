@@ -92,7 +92,7 @@ websites:
 
 social:
 [stack overflow](https://stackoverflow.com/users/72958/andy-swift "Stack Overflow profile page") ·
-[reddit](https://www.reddit.com/user/AndrewCSwift "Reddit profile page")
+[reddit](https://www.reddit.com/user/AndrewCSwift "Reddit profile page") ·
 [hacker news](https://news.ycombinator.com/user?id=AndrewSwift "Hacker News profile page") ·
 [x](https://x.com/andysvija "X feed") ·
 [discord](https://discord.com/users/798242260365738064 "Discord profile") · 
