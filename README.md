@@ -63,7 +63,7 @@ inactive:
 ---
 #### CV Highlights
 
-> [full CV](CV.md)
+<!-- > [full CV](CV.md) -->
 
 
 |`2019-Present` | Svija SAS | [web site](https://svija.com)|
