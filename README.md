@@ -23,8 +23,8 @@ I'm always looking for interesting work.
 
 I'm a native English speaker and speak fluent French.
 
-|`2019-Present` Svija SAS | [web site](https://svija.com)|
-|-------------------------|------------------------------|
+|`2019-Present` | Svija SAS | [web site](https://svija.com)|
+|---------------|-----------|------------------------------|
 
 > SAAS startup with three founders  
 > developement & communication
