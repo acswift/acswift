@@ -1,4 +1,4 @@
-[CV en français](CV%C2%A0(fran%C3%A7ais).md) · [biography](bio.md)
+<!-- [CV en français](CV%C2%A0(fran%C3%A7ais).md) · [biography](bio.md) -->
 
 ## Andrew Swift
 
