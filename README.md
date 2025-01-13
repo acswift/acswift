@@ -13,9 +13,9 @@ I'm always looking for interesting work.
 - Bash & Git
 
 #### Design
-- ux & web design: various tools
+- U/X & web design: various tools
 - print design: Adobe Creative Cloud
-- motion design: Svija
+- SVG animation & motion design: Illustrator & Svija
 - video production: Final Cut Pro
 
 #### Languages
