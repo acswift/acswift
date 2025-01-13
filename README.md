@@ -50,37 +50,23 @@ I'm always looking for interesting work.
 ---
 #### Projects
 
-`2004-2010` School Directory
-> lead-generating website with partner  
-- design & development
+`2004-2010` SchoolDirectory.net
+> lead-generating website with one partner  
+- design & development (PHP)
 - 14,000-16,000 € monthly revenue
 - sold for 1.5 M€
 
 `2002-2006` Anaÿs
-> software enabling dynamic Flash websites
+> software enabling dynamic Flash websites (PHP)
 - modular content system
 - Google-indexed Flash content
 - content management by non-technical users
 - PHP / HTML / Flash
 
 `2001-2002` PowderDB
-> SEO optimization software
+> SEO optimization software (PHP)
 - approx. 400K pages indexed per site
 - 1000x average traffic boost
-- PHP / HTML / CSS
-
----
-#### What I'm Like
-
-I'm a perfectionist, but perfection can mean doing something quickly and not well when it's called for.
-
-I work well under pressure.
-
-I work well in teams.
-
-I am an expert in only a few domains, but I am really good at seeing the right target and mobilizing the resources to get there.
-
-Think: getting to the right place by any means necessary, rather than using only tools in my comfort zone.
 
 ---
 #### Competencies
