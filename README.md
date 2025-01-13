@@ -31,15 +31,15 @@ I'm always looking for interesting work.
 |---------------|-----------|------------------------------|
 
 > SAAS startup with three founders  
-> developement & communication
-- development of an Adobe Illustrator plugin in Extendscript
-- development of an Django application to serve SVG-based websites
-- development of an animation platform in Javascript
+- developement & communication
+- development of Adobe Illustrator plugin in Extendscript
+- development of Django application to serve SVG-based websites
+- development of animation platform in Javascript
 - design of company website, marketing materials & pitch decks
 
 `1995-2019`     | Ozaké Communication | [web site](https://ozake.com)
 |---|---|---|
-> single-person communications agency
+> one-person communications agency
 - full-stack web development
 - print design
 - advertising design
