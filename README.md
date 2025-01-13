@@ -17,17 +17,12 @@ I'm always looking for interesting work.
 - SVG animation & motion design: Illustrator & Svija
 - video production: Final Cut Pro
 - print design: Adobe Creative Cloud
-- [web site](https://ozake.com "ozake.com") / [portfolio](https://www.behance.net/andrewswift "Portfolio on Behance")
+- [web site](https://ozake.com "ozake.com") · [portfolio](https://www.behance.net/andrewswift "portfolio on Bēhance")
 
 #### Spoken Languages
 
 - native English
 - fluent French
-
-
-
-
-
 
 <details><summary>Social Networks</summary>
 
@@ -64,11 +59,6 @@ inactive:
 [tiktok](https://www.tiktok.com/@andysvija "unused")
 
 </details>
-
-
-
-
-
 
 ---
 #### CV Highlights
