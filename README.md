@@ -30,6 +30,7 @@ I'm always looking for interesting work.
 
 <details><summary>Social Networks</summary>
 
+---
 networking:
 [freelancermap](https://www.freelancermap.com/profile/andrew-swift) ·
 [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/) ·
