@@ -18,64 +18,18 @@ I'm always looking for interesting work.
 - video production: Final Cut Pro
 - print design: Adobe Creative Cloud
 
-#### Languages
+#### Spoken Languages
 
 - native English
 - fluent French
 
----
-#### CV Highlights
-
-> [full CV](CV.md)
 
 
-|`2019-Present` | Svija SAS | [web site](https://svija.com)|
-|---------------|-----------|------------------------------|
 
-> SAAS startup with three founders  
-- developement & communication
-- development of Adobe Illustrator plugin in Extendscript
-- development of Django application to serve SVG-based websites
-- development of animation platform in Javascript
-- design of company website, marketing materials & pitch decks
 
-`1995-2019`     | Ozaké Communication | [web site](https://ozake.com)
-|---|---|---|
-> one-person communications agency
-- full-stack web development
-- print design
-- advertising design
-- branding
 
----
-#### Projects
+<details><summary>Social Networks</summary>
 
-`2004-2010` SchoolDirectory.net
-> lead-generating website with one partner  
-- design & development (PHP)
-- 14,000-16,000 € monthly revenue
-- sold for 1.5 M€
-
-`2002-2006` Anaÿs
-> software enabling dynamic Flash websites (PHP)
-- modular content system
-- Google-indexed Flash content
-- content management by non-technical users
-- PHP / HTML / Flash
-
-`2001-2002` PowderDB
-> SEO optimization software (PHP)
-- approx. 400K pages indexed per site
-- 1000x average traffic boost
-
----
-#### Competencies
-
-- commercial copywriting
-- video production (examples)
-- image generation with Stable Diffusion (A1111)
-
----
 networking:
 [freelancermap](https://www.freelancermap.com/profile/andrew-swift) ·
 [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/) ·
@@ -107,3 +61,63 @@ inactive:
 [facebook](https://www.facebook.com/andrewcswift "unused") ·
 [tiktok](https://www.tiktok.com/@andysvija "unused")
 
+</details>
+
+
+
+
+
+
+---
+#### CV Highlights
+
+> [full CV](CV.md)
+
+
+|`2019-Present` | Svija SAS | [web site](https://svija.com)|
+|---------------|-----------|------------------------------|
+
+> SAAS startup with three founders  
+- developement & communication
+- development of Adobe Illustrator plugin in Extendscript
+- development of Django application to serve SVG-based websites
+- development of animation platform in Javascript
+- design of company website, marketing materials & pitch decks
+
+`1995-2019`     | Ozaké Communication | [web site](https://ozake.com)
+|---|---|---|
+> one-person communications agency
+- full-stack web development
+- print design
+- advertising design
+- branding
+
+---
+#### Notable Projects
+
+`2004-2010` SchoolDirectory.net
+> lead-generating website with one partner  
+- design & development (PHP)
+- 14,000-16,000 € monthly revenue
+- sold for 1.5 M€
+
+`2002-2006` Anaÿs
+> software enabling dynamic Flash websites (PHP)
+- modular content system
+- Google-indexed Flash content
+- content management by non-technical users
+- PHP / HTML / Flash
+
+`2001-2002` PowderDB
+> SEO optimization software (PHP)
+- approx. 400K pages indexed per site
+- 1000x average traffic boost
+
+---
+#### Competencies
+
+- commercial copywriting
+- video production (examples)
+- image generation with Stable Diffusion (A1111)
+
+---
