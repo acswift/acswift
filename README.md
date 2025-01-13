@@ -18,10 +18,14 @@ I'm always looking for interesting work.
 - motion design: Svija
 - video production: Final Cut Pro
 
+#### Languages
+
+- native English
+- fluent French
+
 ---
 #### CV Highlights
 
-I'm a native English speaker and speak fluent French.
 
 |`2019-Present` | Svija SAS | [web site](https://svija.com)|
 |---------------|-----------|------------------------------|
@@ -33,7 +37,8 @@ I'm a native English speaker and speak fluent French.
 - development of an animation platform in Javascript
 - design of company website, marketing materials & pitch decks
 
-`1995-2019` Ozaké Communication · [web site](https://ozake.com)
+`1995-2019`     | Ozaké Communication | [web site](https://ozake.com)
+|---|---|---|
 > single-person communications agency
 - full-stack web development
 - print design
