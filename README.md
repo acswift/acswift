@@ -69,7 +69,7 @@ inactive:
 |`2019-Present` | Svija SAS | [web site](https://svija.com)|
 |---------------|-----------|------------------------------|
 
-> SAAS startup with three founders  
+> SAAS startup with three founders enabling the construction of SVG-based websites with Adobe Illustrator
 - developement & communication
 - development of Adobe Illustrator plugin in Extendscript
 - development of Django application to serve SVG-based websites
@@ -78,7 +78,7 @@ inactive:
 
 `1995-2019`     | Ozaké Communication | [web site](https://ozake.com)
 |---|---|---|
-> one-person communications agency
+> one-person communications agency based in Boulder then Toulouse
 - full-stack web development
 - print design
 - advertising design
