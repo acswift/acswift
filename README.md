@@ -7,16 +7,16 @@ I'm an American developer and designer who lives in Toulouse France.
 I'm always looking for interesting work.
 
 #### Development
-- backend: NginX, Python and Django
-- frontend: HTML, CSS and JS
-- Adobe: CEP, Extendscript, ScriptUI
+- NginX, Python and Django
+- HTML, CSS and JS
+- CEP, Extendscript, ScriptUI (Adobe)
 - Bash & Git
 
 #### Design
 - U/X & web design: various tools
-- print design: Adobe Creative Cloud
 - SVG animation & motion design: Illustrator & Svija
 - video production: Final Cut Pro
+- print design: Adobe Creative Cloud
 
 #### Languages
 
@@ -25,6 +25,8 @@ I'm always looking for interesting work.
 
 ---
 #### CV Highlights
+
+[full CV](CV.md)
 
 
 |`2019-Present` | Svija SAS | [web site](https://svija.com)|
@@ -50,7 +52,7 @@ I'm always looking for interesting work.
 
 `2004-2010` School Directory
 > lead-generating website with partner  
-> design & development
+- design & development
 - 14,000-16,000 € monthly revenue
 - sold for 1.5 M€
 
@@ -58,14 +60,14 @@ I'm always looking for interesting work.
 > software enabling dynamic Flash websites
 - modular content system
 - Google-indexed Flash content
-- content management for non-technical users
+- content management by non-technical users
+- PHP / HTML / Flash
 
 `2001-2002` PowderDB
 > SEO optimization software
 - approx. 400K pages indexed per site
 - 1000x average traffic boost
-
-[full CV here](CV.md)
+- PHP / HTML / CSS
 
 ---
 #### What I'm Like
