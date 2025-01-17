@@ -5,7 +5,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 
 ---
 
-| 2019/09-present | Svija | saas startup, Toulouse FR | [web site](https://svija.com) |
+| 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
 |-|-|-|-|
 > founder, developer & designer
 - development of Django-based user account solution 
@@ -54,8 +54,8 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 2012/01-2014/01 | Sabbatical | classical drawing, Toulouse FR | [drawings](https://www.flickr.com/photos/andrewcarrollswift/albums) |
-|-|-|-|-|
+| 2012/01-2014/01 | Sabbatical | classical drawing | [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums) |
+|-|-|-|
 > classical drawing in pencil and charcoal
 - Backend : bases de données, comptes client, catalogues de produits
 
