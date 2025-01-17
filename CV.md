@@ -3,6 +3,7 @@
 
 Toulouse, France · American and UK citizen · native English & fluent French
 
+---
 | Development | Design |
 |-|-|
 | Django and Python | Adobe Creative Suite |
