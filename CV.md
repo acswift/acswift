@@ -4,11 +4,11 @@
 Toulouse, France · American and UK citizen · native English & fluent French
 
 ---
-| Development | Design |
+| Development&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Design &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |-|-|
 | Django and Python | Adobe Creative Suite |
 | MySQL and PostgreSQL| information design|
-| CSS, HTML and Javascript&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | web design|
+| CSS, HTML and Javascript | web design|
 | Adobe CEP/Extendscript| wordpress theme creation|
 | Ubuntu Server maintenance| print design|
 | Apache, Nginx and uWSGI| packaging design|
