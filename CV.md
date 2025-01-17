@@ -5,17 +5,18 @@ born March 28th, 1965 · American and UK citizen
 
 ---
 
-|09.2019-present | Svija | saas startup · Toulouse | [web site](https://svija.com)|
+| 2019/09-present | Svija | saas startup · Toulouse | [web site](https://svija.com) |
 |-|-|-|-|
 
 > Founder
 - development of Django-based user account solution 
 - development of Adobe Illustrator plug-in in Javascript
 - oversaw development of macOS application in Swift
+- responsable for all graphic materials including pitch decks, web sites, promotional videos and images, and social media posts
 
-
-**03.1995-09.2019 : Ozaké** · agence de design · Boulder, Colorado, E.U. & Toulouse, France
-> Fondateur
+| 2015.10-2019/09 | Ozaké Communication | design agency | · Toulouse | [web site](https://ozake.com) |
+|-|-|-|-|
+> designer & web developer
 - Stratégies publicitaires
 - Création de publicité
 - Produits imprimés
