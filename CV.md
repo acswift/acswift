@@ -14,7 +14,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 | Apache, Nginx and uWSGI| packaging design|
 | bash, vim, git and Github| vehicle wrapping|
 
-- business English copywriting and editing
+*business English copywriting and editing*
 
 ---
 ### Experience
