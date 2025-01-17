@@ -242,10 +242,10 @@ mathematics
 - National Merit Scholar
 
 ---
-### Personnal Interests
+### Personal Interests
 
 - classical art
-- electric guitar and bass
+- rock guitar and bass
 - bicycle maintenance
 - woodworking
 
