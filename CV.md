@@ -95,7 +95,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 1995/03-2011/12 | Anaÿs Inc.| communications agency, Boulder US/Toulouse FR |
+| 1995/03-2011/12 | Anaÿs Inc.| communications agency, Boulder CO, US/Toulouse FR |
 |-|-|-|
 > web developer & designer
 - Stratégies publicitaires
@@ -156,7 +156,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder, US |
+| 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder CO, US |
 |-|-|-|-|
 > advertising designer
 - Design de publicités
@@ -181,7 +181,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 1990/02-1990/09 | The Colorado Daily | weekly newspaper | Boulder, US |
+| 1990/02-1990/09 | The Colorado Daily | weekly newspaper | Boulder CO, US |
 |-|-|-|-|
 > advertising designer
 - Design de publicité imprimée
@@ -222,21 +222,25 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-### Education & Training
+### Education
 
----
-- `1998-2000` Boulder School of Fine Arts  
-Maîtrise du dessin classique Boulder, Colorado · E.U.
-- `1998-1991` The Naropa Institute · master's program  
-Études de bouddhisme · inachevé Boulder, Colorado · E.U.
-- `1985-1987` Swarthmore College · bachelor's degree in philosophy  
-Mineure en composition de musique classique Swarthmore, Pennsylvania · E.U.
-- `1984-1985` Duke University · commputer science  
-Sciences informatiques Durham NC · E.U.  
-Composition de musique classique
-- `1983` University of Massachusetts   
-Sciences informatiques Amherst MA · E.U.  
-Mathématiques
+- `1998-2000` Boulder School of Fine Arts · Boulder CO, US  
+classical drawing and painting
+
+- `1998-1991` The Naropa Institute · Boulder CO, US  
+M.A. in buddhist studies (incomplete)
+
+- `1985-1987` Swarthmore College · Swarthmore PA, US  
+bachelor's degree in philosophy  
+minor in classical composition
+
+- `1984-1985` Duke University · Durham NC, US  
+computer science  
+classical composition
+
+- `1983` University of Massachusetts · Amherst MA, US    
+computer science  
+mathematics
 
 ---
 ### Distinctions
