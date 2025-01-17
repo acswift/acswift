@@ -5,16 +5,15 @@ Toulouse, France · American and UK citizen · native English & fluent French
 
 ---
 
-| 2019/09-present | Svija | saas startup · Toulouse | [web site](https://svija.com) |
+| 2019/09-present | Svija | saas startup, Toulouse FR | [web site](https://svija.com) |
 |-|-|-|-|
-
 > founder, developer & designer
 - development of Django-based user account solution 
 - development of Adobe Illustrator plug-in in Javascript
 - oversaw development of macOS application in Swift
 - responsable for all graphic materials including pitch decks, web sites, promotional videos and images, and social media posts
 
-<details><summary>Project Description</summary>
+<details><summary>Detailed Description</summary>
 &nbsp;
 
 Svija is a website builder that enables users to create web content using Adobe Illustrator.
@@ -29,7 +28,33 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 2015.10-2019/09 | Ozaké Communication | design agency · Toulouse | [web site](https://ozake.com) |
+| 2015.10-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
+|-|-|-|-|
+> designer & web developer
+- marketing strategy
+- advertising design
+- print design 
+- full-stack web development
+
+<details><summary>Detailed Description</summary>
+&nbsp;
+
+- Frontend : interfaces utilisateur, fidélisation, navigation
+- Backend : bases de données, comptes client, catalogues de produits
+
+Svija is a website builder that enables users to create web content using Adobe Illustrator.
+
+An Illustrator panel enables users to easily save pages as SVG files.
+
+A macOS app runs in the background to sync website content between the user's computer and the web server.
+
+A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
+
+Django Admin was extensively customized to provide each user with a control panel for their website.
+</details>
+
+---
+| 2015.10-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
 |-|-|-|-|
 > designer & web developer
 - Stratégies publicitaires
@@ -38,6 +63,20 @@ Django Admin was extensively customized to provide each user with a control pane
 - Réalisation de sites webs full stack
 - Frontend : interfaces utilisateur, fidélisation, navigation
 - Backend : bases de données, comptes client, catalogues de produits
+
+<details><summary>Project Description</summary>
+&nbsp;
+
+Svija is a website builder that enables users to create web content using Adobe Illustrator.
+
+An Illustrator panel enables users to easily save pages as SVG files.
+
+A macOS app runs in the background to sync website content between the user's computer and the web server.
+
+A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
+
+Django Admin was extensively customized to provide each user with a control panel for their website.
+</details>
 
 ---
 **2004-2010 : SchoolDirectory** · site de référencement d'universités · Capbreton (40) & Toulouse
