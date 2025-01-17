@@ -76,9 +76,9 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 2012/01-2014/01 | Sabbatical | Toulouse, FR | [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums) |
+| 2012/01-2014/01 | Sabbatical | Toulouse, FR | [drawing portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums) |
 |-|-|-|-|
-> classical drawing in pencil and charcoal
+> classical drawing in charcoal and pencil
 
 <details><summary>details</summary>
 &nbsp;
