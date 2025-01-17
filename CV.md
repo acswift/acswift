@@ -79,7 +79,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 1995/03-2011/12 | Anaÿs Inc.| communications agency, Seignosse/Toulouse FR |
+| 1995/03-2011/12 | Anaÿs Inc.| communications agency, Boulder US/Toulouse FR |
 |-|-|-|
 > web developer & designer
 - Stratégies publicitaires
@@ -140,7 +140,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder, U.S. |
+| 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder, US |
 |-|-|-|-|
 > advertising designer
 - Design de publicités
@@ -165,9 +165,9 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 1990/02-1990/09 | The Colorado Daily | journal hebdomadaire | Boulder, Colorado · E.U. |
+| 1990/02-1990/09 | The Colorado Daily | weekly newspaper | Boulder, US |
 |-|-|-|-|
-> Graphiste
+> advertising designer
 - Design de publicité imprimée
 
 <details><summary>details</summary>
