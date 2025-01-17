@@ -3,19 +3,22 @@
 
 Toulouse, France · American and UK citizen · native English & fluent French
 
-#### Informatique :
-- Adobe : Illustrator, Photoshop & Indesign
-- CLI & Serveur : Ubuntu, Bash, Vim, FTP & Rsync
+#### Development
+- Django and Python
+- MySQL and PostgreSQL
+- CSS, HTML and Javascript
+- Adobe CEP/Extendscript
+- Ubuntu Server maintenance
+- Apache, Nginx and uWSGI
+- bash, vim, git and Github
 
-#### Programmation :
-- Django, Python, PHP, ASP, Cold Fusion, Javascript, SVG, MySQL & PostgreSQL
-
-#### Compétences
-
-- développement de sites web : Django, Python, PHP, MySQL & PostgreSQL
-- graphisme · Adobe Creative Cloud · workflow de réalisations web & impression
-- stratégies de développement logiciels
-- management d'équipes
+#### Design
+- Adobe Creative Suite
+- web design
+- wordpress theme creation
+- print design
+- packaging design
+- vehicle wrapping
 
 ---
 ### Experience
@@ -31,6 +34,8 @@ Toulouse, France · American and UK citizen · native English & fluent French
 
 <details><summary>details</summary>
 &nbsp;
+
+- wordpress design & maintenance
 
 Svija is a website-building platform that enables users to create web content using Adobe Illustrator.
 
