@@ -1,14 +1,14 @@
 
 ### Andrew Swift
 
-Toulouse, France · American and UK citizen · native English & fluent French
+Toulouse, France · American/British citizen · native English & fluent French
 
 #### Development
 - Django and Python
 - MySQL and PostgreSQL
 - CSS, HTML, SVG and Javascript
 - Adobe CEP/Extendscript
-- Ubuntu Server maintenance
+- Ubuntu server maintenance
 - Apache, Nginx and uWSGI
 - bash, vim, git and Github
 
@@ -16,13 +16,13 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - Adobe Creative Suite
 - information design
 - web design
-- wordpress theme creation
+- Wordpress theme creation
 - print design
 - packaging design
 - vehicle wrapping
 
 #### Copywriting
-- business English copywriting and editing
+- business copywriting and editing in English
 
 ---
 ### Experience
