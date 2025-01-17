@@ -22,7 +22,7 @@ Toulouse, France · American/British citizen · native English & fluent French
 - vehicle wrapping
 
 #### Copywriting
-- business copywriting and editing in English
+- copywriting and editing in English
 
 ---
 ### Experience
@@ -31,11 +31,11 @@ Toulouse, France · American/British citizen · native English & fluent French
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
 |-|-|-|-|
 > founder, developer & designer
-- development of SVG page server · Django
-- development of web animation platform · Javascript
-- development of Adobe Illustrator plug-in · Javascript
+- web server for SVG pages · Django
+- SVG animation platform · Javascript
+- Adobe Illustrator plug-in · Javascript
 - oversaw development of macOS application · Swift
-- all design: software interfaces, pitch decks, web sites, promotional videos and images, and social media posts
+- design of software interfaces, pitch decks, web sites, promotional videos and images, and social media posts
 
 <details><summary>details</summary>
 &nbsp;
