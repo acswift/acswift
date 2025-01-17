@@ -1,7 +1,7 @@
 
-### Andrew Carroll Swift
+### Andrew Swift
 
-born March 28th, 1965 · American and UK citizen
+Toulouse, France · American and UK citizen · native English & fluent French
 
 ---
 
