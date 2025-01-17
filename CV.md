@@ -166,45 +166,29 @@ Django Admin was extensively customized to provide each user with a control pane
 | 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder CO, US |
 |-|-|-|-|
 > advertising designer
-- Design de publicités
-- Stratégies publicitaires
-- Collage d'éléments de publicité (paste-up)
-- Quark Xpress & Photoshop sur Macintosh
-- Sollicité régulièrement par les commerciaux pour des publicités originales
-- Gestion de la transition du collage de publicités à la PAO sur Macintosh
+- design and paste up
+- Quark Xpress & Photoshop
+- management of the transition from a dedicated typesetting computer to desktop publishing on the Mac
 
 <details><summary>details</summary>
 &nbsp;
 
-Svija is a website builder that enables users to create web content using Adobe Illustrator.
+- clients regularly requested that I be the one to design their ad
 
-An Illustrator panel enables users to easily save pages as SVG files.
-
-A macOS app runs in the background to sync website content between the user's computer and the web server.
-
-A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
-
-Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
 
 ---
 | 1990/02-1990/09 | The Colorado Daily | weekly newspaper | Boulder CO, US |
 |-|-|-|-|
 > advertising designer
-- Design de publicité imprimée
+- advertising design on Mac
+- Quark Xpress and Photoshop
 
 <details><summary>details</summary>
 &nbsp;
 
-Svija is a website builder that enables users to create web content using Adobe Illustrator.
+- clients regularly requested that I be the one to design their ad
 
-An Illustrator panel enables users to easily save pages as SVG files.
-
-A macOS app runs in the background to sync website content between the user's computer and the web server.
-
-A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
-
-Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
 
 ---
