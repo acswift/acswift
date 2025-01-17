@@ -4,6 +4,24 @@
 Toulouse, France · American and UK citizen · native English & fluent French
 
 ---
+#### Informatique :
+- Adobe : Illustrator, Photoshop & Indesign
+- CLI & Serveur : Ubuntu, Bash, Vim, FTP & Rsync
+
+---
+#### Programmation :
+- Django, Python, PHP, ASP, Cold Fusion, Javascript, SVG, MySQL & PostgreSQL
+
+---
+#### Compétences
+
+- développement de sites web : Django, Python, PHP, MySQL & PostgreSQL
+- graphisme · Adobe Creative Cloud · workflow de réalisations web & impression
+- stratégies de développement logiciels
+- management d'équipes
+
+---
+### Professional History
 
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
 |-|-|-|-|
@@ -222,19 +240,6 @@ Sciences informatiques Amherst MA · E.U.
 Mathématiques
 
 ---
-#### Langues :
-- Anglais & Français
-
----
-#### Informatique :
-- Adobe : Illustrator, Photoshop & Indesign
-- CLI & Serveur : Ubuntu, Bash, Vim, FTP & Rsync
-
----
-#### Programmation :
-- Django, Python, PHP, ASP, Cold Fusion, Javascript, SVG, MySQL & PostgreSQL
-
----
 #### Intérêts personnels :
 - Dessin classique et guitare basse
 
@@ -246,10 +251,3 @@ Mathématiques
 Récompense accordée aux lycéens ayant un niveau exceptionnel de lecture et d'écriture, mathématiques, et capacité de résolution de problèmes, en combinaison avec de très bonnes notes et des scores exceptionnels sur le test standardisé SAT.
 
 ---
-#### Compétences
-
-- développement de sites web : Django, Python, PHP, MySQL & PostgreSQL
-- graphisme · Adobe Creative Cloud · workflow de réalisations web & impression
-- stratégies de développement logiciels
-- management d'équipes
-
