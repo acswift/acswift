@@ -8,7 +8,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 | 2019/09-present | Svija | saas startup · Toulouse | [web site](https://svija.com) |
 |-|-|-|-|
 
-> Founder
+> founder, developer & designer
 - development of Django-based user account solution 
 - development of Adobe Illustrator plug-in in Javascript
 - oversaw development of macOS application in Swift
