@@ -13,7 +13,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - oversaw development of macOS application in Swift
 - responsable for all graphic materials including pitch decks, web sites, promotional videos and images, and social media posts
 
-<details><summary>Detailed Description</summary>
+<details><summary>details</summary>
 &nbsp;
 
 Svija is a website builder that enables users to create web content using Adobe Illustrator.
@@ -36,7 +36,7 @@ Django Admin was extensively customized to provide each user with a control pane
 - print design 
 - full-stack web development
 
-<details><summary>Detailed Description</summary>
+<details><summary>details</summary>
 &nbsp;
 
 - Frontend : interfaces utilisateur, fidélisation, navigation
@@ -64,7 +64,7 @@ Django Admin was extensively customized to provide each user with a control pane
 - Frontend : interfaces utilisateur, fidélisation, navigation
 - Backend : bases de données, comptes client, catalogues de produits
 
-<details><summary>Project Description</summary>
+<details><summary>details</summary>
 &nbsp;
 
 Svija is a website builder that enables users to create web content using Adobe Illustrator.
