@@ -6,7 +6,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 #### Development
 - Django and Python
 - MySQL and PostgreSQL
-- CSS, HTML and Javascript
+- CSS, HTML, SVG and Javascript
 - Adobe CEP/Extendscript
 - Ubuntu Server maintenance
 - Apache, Nginx and uWSGI
@@ -145,8 +145,8 @@ Django Admin was extensively customized to provide each user with a control pane
 > founder, developer & designer
 - design and development of dynamic website in PHP/MySQL
 - listings of secondary education degree programs in the US
-- revenues of 14-16K $/month
-- sold in 2011 for 1.5 M$
+- $14-16K revenue /month
+- sold in 2011 for $1.5M
 
 <details><summary>details</summary>
 &nbsp;
