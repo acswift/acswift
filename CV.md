@@ -168,7 +168,7 @@ Django Admin was extensively customized to provide each user with a control pane
 > advertising designer
 - graphic design and paste up
 - Quark Xpress & Photoshop
-- management of the transition from dedicated typesetting computers to desktop publishing on the Mac
+- management of transition from dedicated typesetting computers to desktop publishing on Mac
 - exceptionally effective advertising
 
 <details><summary>details</summary>
@@ -182,8 +182,7 @@ Django Admin was extensively customized to provide each user with a control pane
 | 1990/02-1990/09 | The Colorado Daily | weekly newspaper | Boulder CO, US |
 |-|-|-|-|
 > advertising designer
-- advertising design on Mac
-- Quark Xpress and Photoshop
+- Quark Xpress and Photoshop on Mac
 - exceptionally effective advertising
 
 <details><summary>details</summary>
