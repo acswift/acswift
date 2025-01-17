@@ -196,9 +196,9 @@ Django Admin was extensively customized to provide each user with a control pane
 ---
 | 1987/07-1989/08 | Whole Food Co. | organic supermarket chain | New Orleans, Louisianne · E.U. |
 |-|-|-|-|
-> Assistant au manager de rayon fruits & légumes
-- formation en management
-- augmentation du chiffre d'affaires par 5 en 2 ans
+> fruits and vegetables department, assistant manager
+- management training
+- 5x profit increase in two years
 
 <details><summary>details</summary>
 &nbsp;
