@@ -20,8 +20,8 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - packaging design
 - vehicle wrapping
 
-#### Commercial Copywriting
-- professional English copywriting and editing
+#### Copywriting
+- business English copywriting and editing
 
 ---
 ### Experience
