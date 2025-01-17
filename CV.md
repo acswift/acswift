@@ -30,7 +30,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - development of Django-based content server
 - development of Adobe Illustrator plug-in
 - oversaw development of macOS application
-- all design including product, pitch decks, web sites, promotional videos and images and social media posts
+- all design: software interfaces, pitch decks, web sites, promotional videos and images, and social media posts
 
 <details><summary>details</summary>
 &nbsp;
