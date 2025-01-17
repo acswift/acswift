@@ -143,8 +143,8 @@ Django Admin was extensively customized to provide each user with a control pane
 | 2003/07-2011/05 | School-Directory.net | lead-generation website | online |
 |-|-|-|-|
 > founder, developer & designer
-- design and development of dynamic website · PHP
-- information about secondary education degree programs in the US
+- design and development of dynamic website in PHP/MySQL
+- listings of secondary education degree programs in the US
 - revenues of 14-16K $/month
 - sold in 2011 for 1.5 M$
 
