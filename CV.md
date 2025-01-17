@@ -30,7 +30,7 @@ Django Admin was extensively customized to provide each user with a control pane
 ---
 | 2014/02-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
 |-|-|-|-|
-> designer & web developer
+> web developer & designer
 - marketing strategy
 - advertising design
 - print design 
@@ -54,7 +54,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 2012/01-2014/01 | Sabbatical | classical drawing | [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums) |
+| 2012/01-2014/01 | Sabbatical | classical drawing ([portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums)) |
 |-|-|-|
 > classical drawing in pencil and charcoal
 - Backend : bases de données, comptes client, catalogues de produits
