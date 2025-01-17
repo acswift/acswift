@@ -1,22 +1,17 @@
 
 ### Andrew Carroll Swift
 
-né le 28 mars 1965 · double nationalité anglo-américaine
+born March 28th, 1965 · American and UK citizen
 
 ---
 
-*Compétences :*
-- développement de sites web : Django, Python, PHP, MySQL & PostgreSQL
-- graphisme · Adobe Creative Cloud · workflow de réalisations web & impression
-- stratégies de développement logiciels
-- management d'équipes
+|09.2019-present | Svija | saas startup · Toulouse | [web site](https://svija.com)|
+|-|-|-|-|
 
----
-
-**09.2019-présent : Svija** · startup numérique · Clermont-Fd
-> Fondateur/CTO
-- Développement de l’offre de service
-- Gestion de l’architecture technique et fonctionnelle
+> Founder
+- development of Django-based user account solution 
+- development of Adobe Illustrator plug-in in Javascript
+- oversaw development of macOS application in Swift
 
 
 **03.1995-09.2019 : Ozaké** · agence de design · Boulder, Colorado, E.U. & Toulouse, France
@@ -106,3 +101,12 @@ Prix et distinctions :
 - ex-membre de Mensa
 - National Merit Scholar
 Récompense accordée aux lycéens ayant un niveau exceptionnel de lecture et d'écriture, mathématiques, et capacité de résolution de problèmes, en combinaison avec de très bonnes notes et des scores exceptionnels sur le test standardisé SAT.
+
+---
+
+*Compétences :*
+- développement de sites web : Django, Python, PHP, MySQL & PostgreSQL
+- graphisme · Adobe Creative Cloud · workflow de réalisations web & impression
+- stratégies de développement logiciels
+- management d'équipes
+
