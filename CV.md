@@ -220,10 +220,10 @@ Django Admin was extensively customized to provide each user with a control pane
 classical drawing and painting
 
 - `1998-1991` The Naropa Institute · Boulder CO, US  
-M.A. in buddhist studies (incomplete)
+M.A. in Buddhist studies (incomplete)
 
 - `1985-1987` Swarthmore College · Swarthmore PA, US  
-bachelor's degree in philosophy  
+Bachelor's degree in philosophy  
 minor in classical music composition
 
 - `1984-1985` Duke University · Durham NC, US  
