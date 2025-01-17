@@ -104,12 +104,10 @@ Django Admin was extensively customized to provide each user with a control pane
 | 1995/03-2011/12 | Anaÿs Inc.| communications agency, Boulder CO, US/Toulouse FR |
 |-|-|-|
 > web developer & designer
-- Stratégies publicitaires
-- Création de publicité
-- Produits imprimés
-- Réalisation de sites webs full stack
-- Frontend : interfaces utilisateur, fidélisation, navigation
-- Backend : bases de données, comptes client, catalogues de produits
+- full-stack web development
+- advertising design
+- print design 
+- branding
 
 <details><summary>details</summary>
 &nbsp;
