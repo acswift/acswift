@@ -14,6 +14,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 
 #### Design
 - Adobe Creative Suite
+- information design
 - web design
 - wordpress theme creation
 - print design
