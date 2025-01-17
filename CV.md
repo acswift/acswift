@@ -169,12 +169,12 @@ Django Admin was extensively customized to provide each user with a control pane
 - graphic design and paste up
 - Quark Xpress & Photoshop
 - management of transition from dedicated typesetting computers to desktop publishing on Mac
-- exceptionally effective advertising
 
 <details><summary>details</summary>
 &nbsp;
 
 - clients regularly requested that I be the one to design their ad
+- exceptionally effective advertising
 
 </details>
 
@@ -183,11 +183,11 @@ Django Admin was extensively customized to provide each user with a control pane
 |-|-|-|-|
 > advertising designer
 - Quark Xpress and Photoshop on Mac
-- exceptionally effective advertising
 
 <details><summary>details</summary>
 &nbsp;
 
+- exceptionally effective advertising
 - clients regularly requested that I be the one to design their ad
 
 </details>
