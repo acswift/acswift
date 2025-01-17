@@ -201,7 +201,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 1987/07-1989/08 | Whole Food Co. | chaine de supermarchés bio | New Orleans, Louisianne · E.U. |
+| 1987/07-1989/08 | Whole Food Co. | organic supermarket chain | New Orleans, Louisianne · E.U. |
 |-|-|-|-|
 > Assistant au manager de rayon fruits & légumes
 - formation en management
