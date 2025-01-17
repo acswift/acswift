@@ -27,7 +27,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
 |-|-|-|-|
 > founder, developer & designer
-- development of content server · Django
+- development of SVG page server · Django
 - development of web animation platform · Javascript
 - development of Adobe Illustrator plug-in · Javascript
 - oversaw development of macOS application · Swift
@@ -53,10 +53,10 @@ Django Admin was extensively customized to provide each user with a control pane
 | 2014/02-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
 |-|-|-|-|
 > web developer & designer
-- marketing strategy
+- full-stack web development
 - advertising design
 - print design 
-- full-stack web development
+- branding
 
 <details><summary>details</summary>
 &nbsp;
