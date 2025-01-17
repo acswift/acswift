@@ -3,16 +3,13 @@
 
 Toulouse, France · American and UK citizen · native English & fluent French
 
----
 #### Informatique :
 - Adobe : Illustrator, Photoshop & Indesign
 - CLI & Serveur : Ubuntu, Bash, Vim, FTP & Rsync
 
----
 #### Programmation :
 - Django, Python, PHP, ASP, Cold Fusion, Javascript, SVG, MySQL & PostgreSQL
 
----
 #### Compétences
 
 - développement de sites web : Django, Python, PHP, MySQL & PostgreSQL
@@ -21,7 +18,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - management d'équipes
 
 ---
-### Professional History
+#### Experience
 
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
 |-|-|-|-|
