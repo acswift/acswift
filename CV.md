@@ -106,6 +106,7 @@ Django Admin was extensively customized to provide each user with a control pane
 
 ---
 | 2004-2010 | SchoolDirectory.net | lead-generating website | online |
+|-|-|-|-|
 > Co-fondateur
 - Programmation & design de site web à base de données
 - Contenant des informations sur des universités payantes aux E.U.
