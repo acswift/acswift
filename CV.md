@@ -14,6 +14,19 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - oversaw development of macOS application in Swift
 - responsable for all graphic materials including pitch decks, web sites, promotional videos and images, and social media posts
 
+<details><summary>Project Description</summary>
+
+Svija is a website builder that enables users to create web content using Adobe Illustrator.
+
+An Illustrator panel enables users to easily save pages as SVG files.
+
+A macOS app runs in the background to sync website content between the user's computer and the web server.
+
+A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
+
+Django Admin was extensively customized to provide each user with a control panel for their website.
+
+</details>
 ---
 | 2015.10-2019/09 | Ozaké Communication | design agency · Toulouse | [web site](https://ozake.com) |
 |-|-|-|-|
