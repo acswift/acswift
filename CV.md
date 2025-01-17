@@ -81,7 +81,7 @@ Django Admin was extensively customized to provide each user with a control pane
 ---
 | 1995/03-2011/12 | Anaÿs Inc.| communications agency, Seignosse/Toulouse FR |
 |-|-|-|
-> designer & web developer
+> web developer & designer
 - Stratégies publicitaires
 - Création de publicité
 - Produits imprimés
