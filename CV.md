@@ -21,7 +21,6 @@ Toulouse, France · American and UK citizen · native English & fluent French
 ### Experience
 
 ---
-
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
 |-|-|-|-|
 > founder, developer & designer
@@ -225,6 +224,7 @@ Django Admin was extensively customized to provide each user with a control pane
 ---
 ### Education & Training
 
+---
 - Boulder School of Fine Arts · études libres 2002 › 2004
 Maîtrise du dessin classique Boulder, Colorado · E.U.
 - The Naropa Institute · master 1989 · 1991
@@ -239,14 +239,19 @@ Sciences informatiques Amherst MA · E.U.
 Mathématiques
 
 ---
-#### Intérêts personnels :
-- Dessin classique et guitare basse
+### Distinctions
 
 ---
-#### Prix et distinctions :
-
 - ex-membre de Mensa
 - National Merit Scholar
 Récompense accordée aux lycéens ayant un niveau exceptionnel de lecture et d'écriture, mathématiques, et capacité de résolution de problèmes, en combinaison avec de très bonnes notes et des scores exceptionnels sur le test standardisé SAT.
 
 ---
+### Personnal Interests
+
+---
+- classical art
+- electric guitar and bass
+- bicycle maintenance
+- woodworking
+
