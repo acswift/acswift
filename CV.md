@@ -15,6 +15,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - responsable for all graphic materials including pitch decks, web sites, promotional videos and images, and social media posts
 
 <details><summary>Project Description</summary>
+&nbsp;
 
 Svija is a website builder that enables users to create web content using Adobe Illustrator.
 
