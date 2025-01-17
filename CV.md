@@ -13,7 +13,7 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - oversaw development of macOS application in Swift
 - responsable for all graphic materials including pitch decks, web sites, promotional videos and images, and social media posts
 
-<details><summary>details</summary>
+<details><summary>`details`</summary>
 &nbsp;
 
 Svija is a website builder that enables users to create web content using Adobe Illustrator.
