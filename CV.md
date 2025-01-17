@@ -57,7 +57,6 @@ Django Admin was extensively customized to provide each user with a control pane
 | 2012/01-2014/01 | Sabbatical | classical drawing | [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums) |
 |-|-|-|-|
 > classical drawing in pencil and charcoal
-- Backend : bases de données, comptes client, catalogues de produits
 
 <details><summary>details</summary>
 &nbsp;
