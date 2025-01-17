@@ -225,31 +225,28 @@ Django Admin was extensively customized to provide each user with a control pane
 ### Education & Training
 
 ---
-- Boulder School of Fine Arts · études libres 2002 › 2004
+- `1998-2000` Boulder School of Fine Arts  
 Maîtrise du dessin classique Boulder, Colorado · E.U.
-- The Naropa Institute · master 1989 · 1991
+- `1998-1991` The Naropa Institute · master's program  
 Études de bouddhisme · inachevé Boulder, Colorado · E.U.
-- Swarthmore College · licence en philosophie 1985-1987
+- `1985-1987` Swarthmore College · bachelor's degree in philosophy  
 Mineure en composition de musique classique Swarthmore, Pennsylvania · E.U.
-- Duke University · license en sciences informatiques 1984-1985
-Sciences informatiques Durham NC · E.U.
+- `1984-1985` Duke University · commputer science  
+Sciences informatiques Durham NC · E.U.  
 Composition de musique classique
-- University of Massachusetts 1983
-Sciences informatiques Amherst MA · E.U.
+- `1983` University of Massachusetts   
+Sciences informatiques Amherst MA · E.U.  
 Mathématiques
 
 ---
 ### Distinctions
 
----
-- ex-membre de Mensa
+- ex-member of Mensa
 - National Merit Scholar
-Récompense accordée aux lycéens ayant un niveau exceptionnel de lecture et d'écriture, mathématiques, et capacité de résolution de problèmes, en combinaison avec de très bonnes notes et des scores exceptionnels sur le test standardisé SAT.
 
 ---
 ### Personnal Interests
 
----
 - classical art
 - electric guitar and bass
 - bicycle maintenance
