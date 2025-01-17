@@ -187,6 +187,7 @@ Django Admin was extensively customized to provide each user with a control pane
 
 ---
 | 1987/07-1989/08 | Whole Food Co. | chaine de supermarchés bio | New Orleans, Louisianne · E.U. |
+|-|-|-|-|
 > Assistant au manager de rayon fruits & légumes
 - formation en management
 - augmentation du chiffre d'affaires par 5 en 2 ans
@@ -205,7 +206,6 @@ A Django app on the server creates structured web content integrating the user's
 Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
 
----
 ---
 ### Education & Training
 
@@ -248,6 +248,7 @@ Récompense accordée aux lycéens ayant un niveau exceptionnel de lecture et d'
 
 ---
 #### Compétences
+
 - développement de sites web : Django, Python, PHP, MySQL & PostgreSQL
 - graphisme · Adobe Creative Cloud · workflow de réalisations web & impression
 - stratégies de développement logiciels
