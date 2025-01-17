@@ -54,18 +54,19 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 2012/01-2014/01 | Fine Art Sabbatical | classical drawing, Toulouse FR | [drawings]() |
+| 2012/01-2014/01 | Sabbatical | classical drawing, Toulouse FR | [drawings]() |
 |-|-|-|-|
-> designer & web developer
+> classical drawing in pencil and charcoal
+- Backend : bases de données, comptes client, catalogues de produits
+
+<details><summary>details</summary>
+&nbsp;
+
 - Stratégies publicitaires
 - Création de publicité
 - Produits imprimés
 - Réalisation de sites webs full stack
 - Frontend : interfaces utilisateur, fidélisation, navigation
-- Backend : bases de données, comptes client, catalogues de produits
-
-<details><summary>details</summary>
-&nbsp;
 
 Svija is a website builder that enables users to create web content using Adobe Illustrator.
 
@@ -104,7 +105,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-**2004-2010 : SchoolDirectory** · site de référencement d'universités · Capbreton (40) & Toulouse
+| 2004-2010 | SchoolDirectory.net | lead-generating website | online |
 > Co-fondateur
 - Programmation & design de site web à base de données
 - Contenant des informations sur des universités payantes aux E.U.
@@ -112,7 +113,21 @@ Django Admin was extensively customized to provide each user with a control pane
 - Revenus env. 14.000-16.000 €/mois
 - Vente de l'ensemble du projet pour 1,5M €
 
+<details><summary>details</summary>
+&nbsp;
 
+Svija is a website builder that enables users to create web content using Adobe Illustrator.
+
+An Illustrator panel enables users to easily save pages as SVG files.
+
+A macOS app runs in the background to sync website content between the user's computer and the web server.
+
+A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
+
+Django Admin was extensively customized to provide each user with a control panel for their website.
+</details>
+
+---
 **2002-2006 : Anaÿs** · outil de construction de sites web en Flash · Capbreton (40)
 > Fondateur
 - Système de contenus modulaires pour sites en Flash
