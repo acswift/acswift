@@ -232,11 +232,11 @@ M.A. in buddhist studies (incomplete)
 
 - `1985-1987` Swarthmore College · Swarthmore PA, US  
 bachelor's degree in philosophy  
-minor in classical composition
+minor in classical music composition
 
 - `1984-1985` Duke University · Durham NC, US  
 computer science  
-classical composition
+classical music composition
 
 - `1983` University of Massachusetts · Amherst MA, US    
 computer science  
