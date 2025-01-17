@@ -18,7 +18,9 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - management d'équipes
 
 ---
-#### Experience
+### Experience
+
+---
 
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
 |-|-|-|-|
