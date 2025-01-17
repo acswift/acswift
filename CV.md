@@ -13,10 +13,10 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - oversaw development of macOS application in Swift
 - responsable for all graphic materials including pitch decks, web sites, promotional videos and images, and social media posts
 
-<details><summary>`details`</summary>
+<details><summary>details</summary>
 &nbsp;
 
-Svija is a website builder that enables users to create web content using Adobe Illustrator.
+Svija is a website-building platform that enables users to create web content using Adobe Illustrator.
 
 An Illustrator panel enables users to easily save pages as SVG files.
 
@@ -28,7 +28,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 2015.10-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
+| 2014/02-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
 |-|-|-|-|
 > designer & web developer
 - marketing strategy
@@ -54,8 +54,33 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 2015.10-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
+| 2012/01-2014/01 | Fine Art Sabbatical | classical drawing, Toulouse FR | [drawings]() |
 |-|-|-|-|
+> designer & web developer
+- Stratégies publicitaires
+- Création de publicité
+- Produits imprimés
+- Réalisation de sites webs full stack
+- Frontend : interfaces utilisateur, fidélisation, navigation
+- Backend : bases de données, comptes client, catalogues de produits
+
+<details><summary>details</summary>
+&nbsp;
+
+Svija is a website builder that enables users to create web content using Adobe Illustrator.
+
+An Illustrator panel enables users to easily save pages as SVG files.
+
+A macOS app runs in the background to sync website content between the user's computer and the web server.
+
+A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
+
+Django Admin was extensively customized to provide each user with a control panel for their website.
+</details>
+
+---
+| 1995/03-2011/12 | Anaÿs Inc.| communications agency, Seignosse/Toulouse FR |
+|-|-|-|
 > designer & web developer
 - Stratégies publicitaires
 - Création de publicité
