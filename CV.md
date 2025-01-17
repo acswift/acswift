@@ -117,7 +117,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 2004-2010 | School-Directory.net | lead-generating website | online |
+| 2003/07-2011/05 | School-Directory.net | lead-generating website | online |
 |-|-|-|-|
 > Co-fondateur
 - Programmation & design de site web à base de données
@@ -141,8 +141,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-
-**1990-1995 : The Boulder Daily Camera** · journal quotidien · Boulder, Colorado · E.U.
+| 1990-1995 : The Boulder Daily Camera** · journal quotidien · Boulder, Colorado · E.U.
 > Graphiste
 - Design de publicités
 - Stratégies publicitaires
@@ -151,17 +150,63 @@ Django Admin was extensively customized to provide each user with a control pane
 - Sollicité régulièrement par les commerciaux pour des publicités originales
 - Gestion de la transition du collage de publicités à la PAO sur Macintosh
 
+<details><summary>details</summary>
+&nbsp;
 
-**1989-1990 : The Colorado Daily** · journal hebdomadaire · Boulder, Colorado · E.U.
+Svija is a website builder that enables users to create web content using Adobe Illustrator.
+
+An Illustrator panel enables users to easily save pages as SVG files.
+
+A macOS app runs in the background to sync website content between the user's computer and the web server.
+
+A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
+
+Django Admin was extensively customized to provide each user with a control panel for their website.
+</details>
+
+---
+
+| 1990/02-1990/09 | The Colorado Daily | journal hebdomadaire | Boulder, Colorado · E.U. |
+|-|-|-|-|
 > Graphiste
 - Design de publicité imprimée
 
+<details><summary>details</summary>
+&nbsp;
+
+Svija is a website builder that enables users to create web content using Adobe Illustrator.
+
+An Illustrator panel enables users to easily save pages as SVG files.
+
+A macOS app runs in the background to sync website content between the user's computer and the web server.
+
+A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
+
+Django Admin was extensively customized to provide each user with a control panel for their website.
+</details>
+
+---
 
 **1987-1989 : Whole Food Co.** · chaine de supermarchés bio · New Orleans, Louisianne · E.U.
 > Assistant au manager de rayon fruits & légumes
 - formation en management
 - augmentation du chiffre d'affaires par 5 en 2 ans
 
+<details><summary>details</summary>
+&nbsp;
+
+Svija is a website builder that enables users to create web content using Adobe Illustrator.
+
+An Illustrator panel enables users to easily save pages as SVG files.
+
+A macOS app runs in the background to sync website content between the user's computer and the web server.
+
+A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
+
+Django Admin was extensively customized to provide each user with a control panel for their website.
+</details>
+
+---
 ---
 
 Formations :
