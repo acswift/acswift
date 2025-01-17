@@ -20,6 +20,9 @@ Toulouse, France · American and UK citizen · native English & fluent French
 - packaging design
 - vehicle wrapping
 
+#### Commercial Copywriting
+- professional English copywriting and editing
+
 ---
 ### Experience
 
@@ -136,7 +139,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 2003/07-2011/05 | School-Directory.net | lead-generating website | online |
+| 2003/07-2011/05 | School-Directory.net | lead-generation website | online |
 |-|-|-|-|
 > founder, developer & designer
 - design and development of dynamic website · PHP
