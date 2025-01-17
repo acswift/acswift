@@ -93,6 +93,18 @@ Django Admin was extensively customized to provide each user with a control pane
 <details><summary>details</summary>
 &nbsp;
 
+**2002-2006 : Anaÿs** · outil de construction de sites web en Flash · Capbreton (40)
+> Fondateur
+- Système de contenus modulaires pour sites en Flash
+- Contenus complètement référençables par Google
+- Gestion de contenus par personnes non-techniques
+
+
+**2001-2002 : PowderDB** · outil d'optimisation pour moteurs de recherche · Capbreton (40), France
+> Fondateur
+- Environ 400K pages référencées par site
+- Trafic web boosté par 1000 fois en moyen
+
 Svija is a website builder that enables users to create web content using Adobe Illustrator.
 
 An Illustrator panel enables users to easily save pages as SVG files.
@@ -105,7 +117,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 2004-2010 | SchoolDirectory.net | lead-generating website | online |
+| 2004-2010 | School-Directory.net | lead-generating website | online |
 |-|-|-|-|
 > Co-fondateur
 - Programmation & design de site web à base de données
@@ -129,18 +141,6 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-**2002-2006 : Anaÿs** · outil de construction de sites web en Flash · Capbreton (40)
-> Fondateur
-- Système de contenus modulaires pour sites en Flash
-- Contenus complètement référençables par Google
-- Gestion de contenus par personnes non-techniques
-
-
-**2001-2002 : PowderDB** · outil d'optimisation pour moteurs de recherche · Capbreton (40), France
-> Fondateur
-- Environ 400K pages référencées par site
-- Trafic web boosté par 1000 fois en moyen
-
 
 **1990-1995 : The Boulder Daily Camera** · journal quotidien · Boulder, Colorado · E.U.
 > Graphiste
