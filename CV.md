@@ -141,7 +141,8 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 1990-1995 : The Boulder Daily Camera** · journal quotidien · Boulder, Colorado · E.U.
+| 1990/11-1995/03 | The Boulder Daily Camera | journal quotidien | Boulder, Colorado · E.U. |
+|-|-|-|-|
 > Graphiste
 - Design de publicités
 - Stratégies publicitaires
@@ -165,7 +166,6 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-
 | 1990/02-1990/09 | The Colorado Daily | journal hebdomadaire | Boulder, Colorado · E.U. |
 |-|-|-|-|
 > Graphiste
@@ -186,8 +186,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-
-**1987-1989 : Whole Food Co.** · chaine de supermarchés bio · New Orleans, Louisianne · E.U.
+| 1987/07-1989/08 | Whole Food Co. | chaine de supermarchés bio | New Orleans, Louisianne · E.U. |
 > Assistant au manager de rayon fruits & légumes
 - formation en management
 - augmentation du chiffre d'affaires par 5 en 2 ans
@@ -208,8 +207,7 @@ Django Admin was extensively customized to provide each user with a control pane
 
 ---
 ---
-
-Formations :
+### Education & Training
 
 - Boulder School of Fine Arts · études libres 2002 › 2004
 Maîtrise du dessin classique Boulder, Colorado · E.U.
@@ -224,28 +222,32 @@ Composition de musique classique
 Sciences informatiques Amherst MA · E.U.
 Mathématiques
 
-Langues :
+---
+#### Langues :
 - Anglais & Français
 
-Informatique :
+---
+#### Informatique :
 - Adobe : Illustrator, Photoshop & Indesign
 - CLI & Serveur : Ubuntu, Bash, Vim, FTP & Rsync
 
-Programmation :
+---
+#### Programmation :
 - Django, Python, PHP, ASP, Cold Fusion, Javascript, SVG, MySQL & PostgreSQL
 
-Intérêts personnels :
+---
+#### Intérêts personnels :
 - Dessin classique et guitare basse
 
-Prix et distinctions :
+---
+#### Prix et distinctions :
 
 - ex-membre de Mensa
 - National Merit Scholar
 Récompense accordée aux lycéens ayant un niveau exceptionnel de lecture et d'écriture, mathématiques, et capacité de résolution de problèmes, en combinaison avec de très bonnes notes et des scores exceptionnels sur le test standardisé SAT.
 
 ---
-
-*Compétences :*
+#### Compétences
 - développement de sites web : Django, Python, PHP, MySQL & PostgreSQL
 - graphisme · Adobe Creative Cloud · workflow de réalisations web & impression
 - stratégies de développement logiciels
