@@ -14,7 +14,7 @@ born March 28th, 1965 · American and UK citizen
 - oversaw development of macOS application in Swift
 - responsable for all graphic materials including pitch decks, web sites, promotional videos and images, and social media posts
 
-| 2015.10-2019/09 | Ozaké Communication | design agency | · Toulouse | [web site](https://ozake.com) |
+| 2015.10-2019/09 | Ozaké Communication | design agency · Toulouse | [web site](https://ozake.com) |
 |-|-|-|-|
 > designer & web developer
 - Stratégies publicitaires
