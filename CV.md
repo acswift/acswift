@@ -139,11 +139,10 @@ Django Admin was extensively customized to provide each user with a control pane
 | 2003/07-2011/05 | School-Directory.net | lead-generating website | online |
 |-|-|-|-|
 > founder, developer & designer
-- Programmation & design de site web à base de données
-- Contenant des informations sur des universités payantes aux E.U.
-- Rémunéré pour chaque client potentiel envoyé aux universités
-- Revenus env. 14.000-16.000 €/mois
-- Vente de l'ensemble du projet pour 1,5M €
+- design and development of dynamic website · PHP
+- information about secondary education degree programs in the US
+- revenues of 14-16K $/month
+- sold in 2011 for 1.5 M$
 
 <details><summary>details</summary>
 &nbsp;
