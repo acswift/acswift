@@ -140,9 +140,9 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-| 1990/11-1995/03 | The Boulder Daily Camera | journal quotidien | Boulder, Colorado · E.U. |
+| 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder, U.S. |
 |-|-|-|-|
-> Graphiste
+> advertising designer
 - Design de publicités
 - Stratégies publicitaires
 - Collage d'éléments de publicité (paste-up)
