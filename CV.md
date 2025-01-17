@@ -143,8 +143,8 @@ Django Admin was extensively customized to provide each user with a control pane
 | 2003/07-2011/05 | School-Directory.net | lead-generation website | online |
 |-|-|-|-|
 > founder, developer & designer
-- design and development of dynamic website in PHP/MySQL
 - listings of secondary education degree programs in the US
+- design and development of dynamic website in PHP/MySQL
 - $14-16K revenue /month
 - sold in 2011 for $1.5M
 
@@ -166,7 +166,7 @@ Django Admin was extensively customized to provide each user with a control pane
 | 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder CO, US |
 |-|-|-|-|
 > advertising designer
-- design and paste up
+- graphic design and paste up
 - Quark Xpress & Photoshop
 - management of the transition from dedicated typesetting computers to desktop publishing on the Mac
 - exceptionally effective advertising
