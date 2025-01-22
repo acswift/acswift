@@ -5,7 +5,7 @@
 
 I'm an American developer and designer who lives in Toulouse France.
 
-I'm always looking for interesting work.
+I'm always looking for interesting work ([cv's etc.](https://github.com/acswift/acswift)).
 
 #### Development
 - NginX, Python and Django
