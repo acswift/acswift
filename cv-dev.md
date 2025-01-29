@@ -3,7 +3,7 @@
 
 Toulouse, France · American/British citizen · native English/fluent French · 150 €/h
 
-I'm currently accepting work as a part-time Django/Python developer.
+I'm currently accepting part-time work as a back-end developer.
 
 ---
 ### overview
