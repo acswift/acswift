@@ -13,7 +13,7 @@ I'm currently accepting part-time work as a senior designer in branding, digital
 - I enjoy working with other people and get along well with almost everyone
 
 ---
-### skills/tools (15-20)
+### skills/tools
 
 tools:
 - Adobe Creative Cloud: Illustrator, Indesign, Photoshop

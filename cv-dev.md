@@ -13,7 +13,7 @@ I'm currently accepting work as a part-time Django/Python developer.
 - I enjoy working with other people and get along well with almost everyone
 
 ---
-### skills/tools (15-20)
+### skills/tools
 
 languages:
 - Django, Python, PHP
