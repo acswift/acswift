@@ -5,7 +5,6 @@ Toulouse, France · American/British citizen · native English/fluent French · 
 
 I'm currently accepting part-time work as a senior designer in branding, digital or print design.
 
-While I build out my [Bēhance](https://www.behance.net/andrewswift) portfolio you can see my work at [ozake.com](https://ozake.com).
 > andy⛭svija.com · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
 
 ---
@@ -18,6 +17,8 @@ While I build out my [Bēhance](https://www.behance.net/andrewswift) portfolio y
 `tools:` Adobe Creative Cloud (Illustrator, Indesign, Photoshop), HTML, CSS, Javascript, Wordpress, Elementor, Wix, Weebly, Garage Band, Final Cut Pro
 
 `skills:` digital design (presentations, reports, marketing email, social media), web design (ecommerce, dynamic sites, Wordpress templates, hosting, UI/UX/SEO), identity & branding (logos, letterheads, business cards), print design (magazines, advertising, posters, flyers, brochures), audio & video editing , copywriting (English), packaging & vehicle wraps, typography
+
+While I build out my [Bēhance](https://www.behance.net/andrewswift) portfolio you can see my work at [ozake.com](https://ozake.com).
 
 ---
 ### experience
