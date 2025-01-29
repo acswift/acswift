@@ -1,11 +1,11 @@
 <!-- [CV en français](CV%C2%A0(fran%C3%A7ais).md) · [biography](bio.md) -->
 <!-- https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/ -->
 
-## Andrew Swift
+### something
 
-I'm an American developer and designer who lives in Toulouse France.
+I'm always looking for interesting work as a designer or developer.
 
-I'm always looking for interesting work ([cv's etc.](https://github.com/acswift/acswift)).
+> [developer CV]() · [designer CV]()
 
 #### Development
 - NginX, Python and Django
