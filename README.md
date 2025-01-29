@@ -20,6 +20,8 @@ tol' ya
 </details>
 
 ---
-- 2019-present: I've been developing `Svija`, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com)
-- 2015-2019: I was an independent designer · [ozake.com](https://ozake.com)
-- 2012-2014: I took a couple of years to concentrate on classical drawing · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums)
+`2019-` I've been developing `Svija`, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com)
+
+`2015-2019` I was an independent designer · [ozake.com](https://ozake.com)
+
+`2012-2014` I took a couple of years to concentrate on classical drawing · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums)
