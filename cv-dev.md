@@ -1,7 +1,9 @@
 
 ### Andrew Swift · Freelance Developer
 
-Toulouse, France · American/British citizen · native English/fluent French
+Toulouse, France · American/British citizen · native English/fluent French · 150 €/h
+
+I'm currently looking for work as a part-time Django/Python developer.
 
 ---
 ### summary: knock them out

@@ -1,9 +1,9 @@
 
 ### Andrew Swift · Freelance Designer
 
-Toulouse, France · American/British citizen · native English/fluent French
+Toulouse, France · American/British citizen · native English/fluent French · 150 €/h
 
-Ditch the meaningless “I create bold experiences for a new world” copy at the top and replace it with something more direct like “I’m looking for a senior designer job at a publishing company” or “I’m looking for new clients who make sustainable vehicles” or something equally specific. If you want something, you gotta ask for it.
+I'm currently accepting part-time work as a senior designer in branding, digital or print design.
 
 ---
 ### summary: knock them out
