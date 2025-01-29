@@ -9,7 +9,7 @@ I'm currently accepting part-time work as a senior designer in branding, digital
 ### who am I?
 
 - I'm a print and web designer with more than 30 years' experience
-- I've run an independent communications agency since 1995 and finished thousands of projects to the clients' satisfaction
+- I've run an independent communications agency since 1995 and completed hundreds of successful projects
 - I enjoy working with other people and get along well with almost everyone
 
 ---
