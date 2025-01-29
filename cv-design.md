@@ -33,8 +33,8 @@ skills:
 ---
 ### experience
 
-`2019/09-present` Svija | SAAS startup, Toulouse FR | [web site](https://svija.com)
-
+`2019/09-present` — Svija — Toulouse FR — [web site](https://svija.com)
+| SAAS startup,
 > founder, developer & designer
 - web server for SVG pages · Django
 - SVG animation platform · Javascript
