@@ -48,12 +48,10 @@ Django Admin was extensively customized to provide each user with a control pane
 > web developer & designer
 - full-stack web development
 - advertising design
-- print design 
+- print design
 - branding
-
 - Front-end : interfaces utilisateur, fidélisation, navigation
 - Back-end : bases de données, comptes client, catalogues de produits
-
 - full-stack web development
 - advertising design
 - print design 
