@@ -5,6 +5,8 @@ Toulouse, France · American/British citizen · native English/fluent French · 
 
 I'm currently accepting part-time work as a senior designer in branding, digital or print design.
 
+While I build out my [Bēhance](https://www.behance.net/andrewswift) portfolio you can see my work at [ozake.com](https://ozake.com).
+
 ---
 ### overview
 
@@ -153,7 +155,6 @@ Django Admin was extensively customized to provide each user with a control pane
 
 
 
-I'm in the process of construction a portfolio at Behance, but meantime you can visit ozake.com to see my work.
 
 ---
 &nbsp;
