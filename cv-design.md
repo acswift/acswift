@@ -3,15 +3,6 @@
 
 Toulouse, France · American/British citizen · native English & fluent French
 
-#### Development
-- Django and Python
-- MySQL and PostgreSQL
-- CSS, HTML, SVG and Javascript
-- Adobe CEP/Extendscript
-- Ubuntu server maintenance
-- Apache, Nginx and uWSGI
-- bash, vim, git and Github
-
 #### Design
 - Adobe Creative Suite
 - information design
