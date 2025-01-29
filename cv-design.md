@@ -6,9 +6,9 @@ Toulouse, France · American/British citizen · native English/fluent French · 
 I'm currently accepting part-time work as a senior designer in branding, digital or print design.
 
 ---
-### who am I?
+### overview
 
-- I'm a print and web designer with more than 30 years' experience
+- I'm an independent print and web designer with more than 30 years' experience
 - I've run an independent communications agency since 1995 and completed hundreds of successful projects
 - I enjoy working with other people and get along well with almost everyone
 
@@ -31,6 +31,57 @@ skills:
 - typography
 
 ---
+### experience
+
+---
+### important projects
+
+
+---
+### Education
+
+- `1998-2000` Boulder School of Fine Arts · Boulder CO, US  
+classical drawing and painting
+
+- `1998-1991` The Naropa Institute · Boulder CO, US  
+M.A. in Buddhist studies (incomplete)
+
+- `1985-1987` Swarthmore College · Swarthmore PA, US  
+Bachelor's degree in philosophy  
+minor in classical music composition
+
+- `1984-1985` Duke University · Durham NC, US  
+computer science  
+classical music composition
+
+- `1983` University of Massachusetts · Amherst MA, US    
+computer science  
+mathematics
+
+---
+### Distinctions
+
+- ex-member of Mensa
+- National Merit Scholar
+
+---
+### Personal Interests
+
+- classical art
+- rock guitar and bass
+- bicycle maintenance
+- woodworking
+
+---
+# LEFTOVERS
+
+
+
+
+
+
+
+
 
 I'm in the process of construction a portfolio at Behance, but meantime you can visit ozake.com to see my work.
 #### Design
@@ -234,39 +285,4 @@ A Django app on the server creates structured web content integrating the user's
 
 Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
-
----
-### Education
-
-- `1998-2000` Boulder School of Fine Arts · Boulder CO, US  
-classical drawing and painting
-
-- `1998-1991` The Naropa Institute · Boulder CO, US  
-M.A. in Buddhist studies (incomplete)
-
-- `1985-1987` Swarthmore College · Swarthmore PA, US  
-Bachelor's degree in philosophy  
-minor in classical music composition
-
-- `1984-1985` Duke University · Durham NC, US  
-computer science  
-classical music composition
-
-- `1983` University of Massachusetts · Amherst MA, US    
-computer science  
-mathematics
-
----
-### Distinctions
-
-- ex-member of Mensa
-- National Merit Scholar
-
----
-### Personal Interests
-
-- classical art
-- rock guitar and bass
-- bicycle maintenance
-- woodworking
 
