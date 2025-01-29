@@ -1,6 +1,7 @@
 
 ### Andrew Swift · Freelance Designer
 
+*andy(a)svija.com · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)*  
 Toulouse, France · American/British citizen · native English/fluent French · 150 €/h
 
 I'm currently accepting part-time work as a senior designer in branding, digital or print design.
