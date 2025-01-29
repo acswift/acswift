@@ -19,7 +19,7 @@ languages:
 - Django, Python, PHP, Javascript, HTML, CSS
 
 skills:
-- Django web-app development, Ubuntu web hosting (Nginx, Apache), SVG creation & animation, Adobe scripting & plug-in development, git, Github, Vim, bash programming
+- Python & Django web-app development, Ubuntu web hosting (Nginx, Apache), SVG creation & animation, Adobe scripting & plug-in development, git, Github, Vim, bash programming
 
 ---
 ### experience
