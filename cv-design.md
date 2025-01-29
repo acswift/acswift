@@ -19,14 +19,7 @@ tools:
 - Adobe Creative Cloud: Illustrator, Indesign, Photoshop, HTML, CSS, Javascript, Wordpress, Elementor, Wix, Weebly, Garage Band, Final Cut Pro
 
 skills:
-- digital design: presentations, reports, marketing email, social media
-- web design: ecommerce, dynamic sites, Wordpress templates, hosting, UI/UX/SEO
-- identity & branding: logos, letterheads, business cards
-- print design: magazines, advertising, posters, flyers, brochures
-- audio & video editing 
-- copywriting (English)
-- packaging & vehicle wraps
-- typography
+- digital design: presentations, reports, marketing email, social media, web design: ecommerce, dynamic sites, Wordpress templates, hosting, UI/UX/SEO, identity & branding: logos, letterheads, business cards, print design: magazines, advertising, posters, flyers, brochures, audio & video editing , copywriting (English), packaging & vehicle wraps, typography
 
 ---
 ### experience
