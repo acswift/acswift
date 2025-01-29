@@ -2,9 +2,9 @@
 ### Andrew Swift · Freelance Developer
 
 Toulouse, France · American/British citizen · native English/fluent French · 150 €/h
-> *andy(a)svija.com · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)*
 
 I'm currently accepting part-time work as a back-end developer.
+> *andy(a)svija.com · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)*
 
 ---
 ### overview
