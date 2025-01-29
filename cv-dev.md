@@ -28,14 +28,37 @@ skills:
 - Vim, bash programming
 
 ---
+### experience
 
+---
+### important projects
 
+---
+### Education
 
+- `1998-2000` Boulder School of Fine Arts · Boulder CO, US · classical drawing
+- `1998-1991` The Naropa Institute · Boulder CO, US · Buddhist studies
+- `1985-1987` Swarthmore College · Swarthmore PA, US · Bachelor's degree
+- `1984-1985` Duke University · Durham NC, US · computer science  
+- `1983` University of Massachusetts · Amherst MA, US · computer science  
 
+---
+### Distinctions
 
+- ex-member of Mensa
+- National Merit Scholar
 
+---
+### Personal Interests
 
+- classical art
+- rock guitar and bass
+- bicycle maintenance
+- woodworking
 
+---
+
+# LEFTOVERS
 
 #### Development
 - Django and Python
