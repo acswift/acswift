@@ -5,7 +5,7 @@
 
 I'm always looking for interesting work as a designer or developer.
 
-> [developer CV](https://github.com/acswift/acswift/blob/main/cv-dev.md) · [designer CV](cv-design.md)
+> [developer CV](cv-dev.md) · [designer CV](cv-design.md)
 
 #### Development
 - NginX, Python and Django
