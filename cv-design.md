@@ -53,7 +53,7 @@ Django Admin was extensively customized to provide each user with a control pane
 - Back-end : bases de données, comptes client, catalogues de produits
 
 ---
-`Mar. 1995-Dec. 2011` — Anaÿs Inc. Boulder CO, USA & Toulouse France
+`Mar. 1995-Dec. 2011` — Anaÿs Inc., Boulder CO, USA & Toulouse France
 > web developer & designer
 - full-stack web development
 - advertising design
@@ -68,10 +68,8 @@ Django Admin was extensively customized to provide each user with a control pane
 - $14-16K revenue /month
 - sold in 2011 for $1.5M
 
-
 ---
-| 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder CO, US |
-|-|-|-|-|
+`Nov. 1990-Mar. 1995` — Boulder Daily Camera, Boulder CO, USA
 > advertising designer
 - graphic design and paste up
 - Quark Xpress & Photoshop
