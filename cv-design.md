@@ -42,7 +42,7 @@ A Django app on the server creates structured web content integrating the user's
 Django Admin was extensively customized to provide each user with a control panel for their website.
 
 ---
-`Febr. 2014-Sept. 2019` — [Ozaké Communication](https://ozake.com), Toulouse France
+`Feb. 2014-Sep. 2019` — [Ozaké Communication](https://ozake.com), Toulouse France
 > web developer & designer
 - full-stack web development
 - advertising design
@@ -52,22 +52,8 @@ Django Admin was extensively customized to provide each user with a control pane
 - Front-end : interfaces utilisateur, fidélisation, navigation
 - Back-end : bases de données, comptes client, catalogues de produits
 
-
 ---
-| 2012/01-2014/01 | Sabbatical | Toulouse, FR | [drawing portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums) |
-|-|-|-|-|
-> classical drawing in charcoal and pencil
-
-- Stratégies publicitaires
-- Création de publicité
-- Produits imprimés
-- Réalisation de sites webs full stack
-- Front-end : interfaces utilisateur, fidélisation, navigation
-
-
----
-| 1995/03-2011/12 | Anaÿs Inc.| communications agency, Boulder CO, US/Toulouse FR |
-|-|-|-|
+`Mar. 1995-Dec. 2011` — Anaÿs Inc. Boulder CO, USA & Toulouse France
 > web developer & designer
 - full-stack web development
 - advertising design
@@ -75,8 +61,7 @@ Django Admin was extensively customized to provide each user with a control pane
 - branding
 
 ---
-| 2003/07-2011/05 | School-Directory.net | lead-generation website | online |
-|-|-|-|-|
+`Jul. 2003-May 2011` — School-Directory.net, online 
 > founder, developer & designer
 - listings of secondary education degree programs in the US
 - design and development of dynamic website in PHP/MySQL
