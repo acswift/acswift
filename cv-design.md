@@ -3,12 +3,36 @@
 
 Toulouse, France · American/British citizen · native English/fluent French
 
----
-### summary & skills
-
-
+Ditch the meaningless “I create bold experiences for a new world” copy at the top and replace it with something more direct like “I’m looking for a senior designer job at a publishing company” or “I’m looking for new clients who make sustainable vehicles” or something equally specific. If you want something, you gotta ask for it.
 
 ---
+### summary: knock them out
+
+- I'm a print and web designer with more than 30 years' experience
+- I've run an independent communications agency since 1995 and finished thousands of projects to the clients' satisfaction
+- I enjoy working with other people and get along well with almost everyone
+
+---
+### skills/tools (15-20)
+
+tools:
+- Adobe Creative Cloud: Illustrator, Indesign, Photoshop
+- HTML, CSS, Javascript, Wordpress, Elementor, Wix, Weebly
+- Garage Band, Final Cut Pro
+
+skills:
+- digital design: presentations, reports, marketing email, social media
+- web design: ecommerce, dynamic sites, Wordpress templates, hosting, UI/UX/SEO
+- identity & branding: logos, letterheads, business cards
+- print design: magazines, advertising, posters, flyers, brochures
+- audio & video editing 
+- copywriting (English)
+- packaging & vehicle wraps
+- typography
+
+---
+
+I'm in the process of construction a portfolio at Behance, but meantime you can visit ozake.com to see my work.
 #### Design
 - Adobe Creative Suite
 - information design
