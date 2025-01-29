@@ -44,7 +44,7 @@ A Django app on the server creates structured web content integrating the user's
 Django Admin was extensively customized to provide each user with a control panel for their website.
 
 ---
-`Feb. 2014-Sep. 2019` — [Ozaké Communication](https://ozake.com), Toulouse France
+`Mar. 1995-Dec. 2011` & `Feb. 2014-Sep. 2019` — [Ozaké Communication](https://ozake.com), Toulouse France
 > web developer & designer
 - full-stack web development
 - advertising design
@@ -54,9 +54,6 @@ Django Admin was extensively customized to provide each user with a control pane
 - Front-end : interfaces utilisateur, fidélisation, navigation
 - Back-end : bases de données, comptes client, catalogues de produits
 
----
-`Mar. 1995-Dec. 2011` — Anaÿs Inc., Boulder CO, USA & Toulouse France
-> web developer & designer
 - full-stack web development
 - advertising design
 - print design 
