@@ -3,6 +3,8 @@
 
 Toulouse, France · American/British citizen · native English & fluent French
 
+i have good written communication CV
+
 #### Design
 - Adobe Creative Suite
 - information design
