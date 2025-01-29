@@ -33,16 +33,14 @@ skills:
 ---
 ### experience
 
-| 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
-|-|-|-|-|
+`2019/09-present` Svija | SAAS startup, Toulouse FR | [web site](https://svija.com)
+
 > founder, developer & designer
 - web server for SVG pages · Django
 - SVG animation platform · Javascript
 - Adobe Illustrator plug-in · Javascript
 - oversaw development of macOS application · Swift
 - design of software interfaces, pitch decks, web sites, promotional videos and images, and social media posts
-
-
 - wordpress design & maintenance
 
 Svija is a website-building platform that enables users to create web content using Adobe Illustrator.
