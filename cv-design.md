@@ -41,22 +41,10 @@ skills:
 ### Education
 
 - `1998-2000` Boulder School of Fine Arts · Boulder CO, US  
-classical drawing and painting
-
 - `1998-1991` The Naropa Institute · Boulder CO, US  
-M.A. in Buddhist studies (incomplete)
-
-- `1985-1987` Swarthmore College · Swarthmore PA, US  
-Bachelor's degree in philosophy  
-minor in classical music composition
-
-- `1984-1985` Duke University · Durham NC, US  
-computer science  
-classical music composition
-
-- `1983` University of Massachusetts · Amherst MA, US    
-computer science  
-mathematics
+- `1985-1987` Swarthmore College · Swarthmore PA, US · Bachelor's degree
+- `1984-1985` Duke University · Durham NC, US · computer science  
+- `1983` University of Massachusetts · Amherst MA, US · computer science  
 
 ---
 ### Distinctions
