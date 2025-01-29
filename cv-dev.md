@@ -12,12 +12,9 @@ I'm currently accepting part-time work as a back-end developer.
 - I've deployed dozens of web sites including ecommerce and dynamic sites with complex functionality
 - I enjoy collaborating with other people and get along well with almost everyone
 
----
-### skills/tools
+`languages:` Django, Python, PHP, Javascript, HTML, CSS
 
-`languages:`  Django, Python, PHP, Javascript, HTML, CSS
-
-`skills:`  Python & Django web-app development, Ubuntu web hosting (Nginx, Apache), SVG creation & animation, Adobe scripting & plug-in development, git, Github, Vim, bash programming
+`skills:` Python & Django web-app development, Ubuntu web hosting (Nginx, Apache), SVG creation & animation, Adobe scripting & plug-in development, git, Github, Vim, bash programming
 
 ---
 ### experience

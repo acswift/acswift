@@ -12,9 +12,6 @@ I'm currently accepting part-time work as a senior designer in branding, digital
 - I've run an independent communications agency since 1995 and completed hundreds of successful projects
 - I enjoy collaborating with other people and get along well with almost everyone
 
----
-### skills/tools
-
 `tools:` Adobe Creative Cloud (Illustrator, Indesign, Photoshop), HTML, CSS, Javascript, Wordpress, Elementor, Wix, Weebly, Garage Band, Final Cut Pro
 
 `skills:` digital design (presentations, reports, marketing email, social media), web design (ecommerce, dynamic sites, Wordpress templates, hosting, UI/UX/SEO), identity & branding (logos, letterheads, business cards), print design (magazines, advertising, posters, flyers, brochures), audio & video editing , copywriting (English), packaging & vehicle wraps, typography
