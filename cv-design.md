@@ -1,10 +1,14 @@
 
 ### Andrew Swift · Freelance Designer
 
-Toulouse, France · American/British citizen · native English & fluent French
+Toulouse, France · American/British citizen · native English/fluent French
 
-i have good written communication CV
+---
+### summary & skills
 
+
+
+---
 #### Design
 - Adobe Creative Suite
 - information design
@@ -16,6 +20,7 @@ i have good written communication CV
 
 #### Copywriting
 - copywriting and editing in English
+- strong written commmunication in French and English
 
 ---
 ### Experience

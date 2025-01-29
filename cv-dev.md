@@ -1,8 +1,14 @@
 
 ### Andrew Swift · Freelance Developer
 
-Toulouse, France · American/British citizen · native English & fluent French
+Toulouse, France · American/British citizen · native English/fluent French
 
+---
+### summary & skills
+
+
+
+---
 #### Development
 - Django and Python
 - MySQL and PostgreSQL
