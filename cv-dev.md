@@ -16,16 +16,10 @@ I'm currently accepting work as a part-time Django/Python developer.
 ### skills/tools
 
 languages:
-- Django, Python, PHP
-- Javascript, HTML, CSS
+- Django, Python, PHP, Javascript, HTML, CSS
 
 skills:
-- Django web-app development
-- Ubuntu web hosting: Nginx, Apache
-- SVG creation & animation
-- Adobe scripting & plug-in development
-- git, Github
-- Vim, bash programming
+- Django web-app development, Ubuntu web hosting (Nginx, Apache), SVG creation & animation, Adobe scripting & plug-in development, git, Github, Vim, bash programming
 
 ---
 ### experience
