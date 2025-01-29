@@ -22,12 +22,12 @@ tol' ya
 ---
 Since 2019, I've been developing **Svija**, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com)
 
-`2015-2019` I was an independent designer · [ozake.com](https://ozake.com)
+`1995-2019` an independent designer · [ozake.com](https://ozake.com)
 
-`2012-2014` I took a couple of years to concentrate on classical drawing · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums)
+`2012-2014` sabbatical to concentrate on classical drawing · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums)
 
 ---
-<details><summary>Online Presence</summary>
+<details><summary>online presence</summary>
 
 ---
 networking:
