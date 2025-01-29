@@ -18,7 +18,7 @@ I'm currently accepting part-time work as a senior designer in branding, digital
 
 `skills:` digital design (presentations, reports, marketing email, social media), web design (ecommerce, dynamic sites, Wordpress templates, hosting, UI/UX/SEO), identity & branding (logos, letterheads, business cards), print design (magazines, advertising, posters, flyers, brochures), audio & video editing , copywriting (English), packaging & vehicle wraps, typography
 
-While I build out my [Bēhance](https://www.behance.net/andrewswift) portfolio you can see my work at [ozake.com](https://ozake.com).
+`portfolio:` while I build out my [Bēhance](https://www.behance.net/andrewswift) portfolio you can see my work at [ozake.com](https://ozake.com).
 
 ---
 ### experience
