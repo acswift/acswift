@@ -10,7 +10,7 @@ I'm currently accepting work as a part-time Django/Python developer.
 
 - I studied CS at Duke University, and I've been a web developer since 1995
 - I've deployed dozens of web sites including ecommerce and dynamic sites with complex functionality
-- I enjoy working with other people and get along well with almost everyone
+- I enjoy collaborating with other people and get along well with almost everyone
 
 ---
 ### skills/tools
