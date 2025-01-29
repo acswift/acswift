@@ -6,9 +6,9 @@ Toulouse, France · American/British citizen · native English/fluent French · 
 I'm currently accepting work as a part-time Django/Python developer.
 
 ---
-### who am I?
+### overview
 
-- I studied CS at Duke University. I've been a web developer since 1995, full-stack since 2001
+- I studied CS at Duke University, and I've been a web developer since 1995
 - I've deployed dozens of web sites including ecommerce and dynamic sites with complex functionality
 - I enjoy working with other people and get along well with almost everyone
 
@@ -28,6 +28,15 @@ skills:
 - Vim, bash programming
 
 ---
+
+
+
+
+
+
+
+
+
 #### Development
 - Django and Python
 - MySQL and PostgreSQL
