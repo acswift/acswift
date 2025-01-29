@@ -20,7 +20,7 @@ tol' ya
 </details>
 
 ---
-`2019-` I've been developing `Svija`, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com)
+Since 2019, I've been developing **Svija**, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com)
 
 `2015-2019` I was an independent designer · [ozake.com](https://ozake.com)
 
