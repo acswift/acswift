@@ -53,8 +53,8 @@ Django Admin was extensively customized to provide each user with a control pane
 - print design 
 - branding
 
-- Frontend : interfaces utilisateur, fidélisation, navigation
-- Backend : bases de données, comptes client, catalogues de produits
+- Front-end : interfaces utilisateur, fidélisation, navigation
+- Back-end : bases de données, comptes client, catalogues de produits
 
 
 ---
@@ -66,7 +66,7 @@ Django Admin was extensively customized to provide each user with a control pane
 - Création de publicité
 - Produits imprimés
 - Réalisation de sites webs full stack
-- Frontend : interfaces utilisateur, fidélisation, navigation
+- Front-end : interfaces utilisateur, fidélisation, navigation
 
 
 ---
