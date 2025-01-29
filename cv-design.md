@@ -45,7 +45,7 @@ Django Admin was extensively customized to provide each user with a control pane
 
 ---
 `Mar. 1995-Dec. 2011` & `Feb. 2014-Sep. 2019` — [Ozaké Communication](https://ozake.com), Toulouse France
-> web developer & designer
+> design, communications & web development
 - full-stack web development
 - advertising design
 - print design
@@ -90,6 +90,7 @@ Django Admin was extensively customized to provide each user with a control pane
 ---
 ### distinctions
 
+- 1500 combined SAT score (99.89 percentile)
 - ex-member of Mensa
 - National Merit Scholar
 
@@ -102,33 +103,3 @@ Django Admin was extensively customized to provide each user with a control pane
 - woodworking
 
 ---
-
-# LEFTOVERS
-
-
-
-
-
-
-
-
-
-
----
-&nbsp;
-
-**2002-2006 : Anaÿs** · outil de construction de sites web en Flash · Capbreton (40)
-> Fondateur
-- Système de contenus modulaires pour sites en Flash
-- Contenus complètement référençables par Google
-- Gestion de contenus par personnes non-techniques
-
-
-**2001-2002 : PowderDB** · outil d'optimisation pour moteurs de recherche · Capbreton (40), France
-> Fondateur
-- Environ 400K pages référencées par site
-- Trafic web boosté par 1000 fois en moyen
-
-&nbsp;
-
-
