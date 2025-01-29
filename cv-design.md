@@ -33,49 +33,6 @@ skills:
 ---
 ### experience
 
-
-
----
-### important projects
-
----
-### Education
-
-- `1998-2000` Boulder School of Fine Arts · Boulder CO, US · classical drawing
-- `1998-1991` The Naropa Institute · Boulder CO, US · Buddhist studies
-- `1985-1987` Swarthmore College · Swarthmore PA, US · Bachelor's degree
-- `1984-1985` Duke University · Durham NC, US · computer science  
-- `1983` University of Massachusetts · Amherst MA, US · computer science  
-
----
-### Distinctions
-
-- ex-member of Mensa
-- National Merit Scholar
-
----
-### Personal Interests
-
-- classical art
-- rock guitar and bass
-- bicycle maintenance
-- woodworking
-
----
-
-# LEFTOVERS
-
-
-
-
-
-
-
-
-
-I'm in the process of construction a portfolio at Behance, but meantime you can visit ozake.com to see my work.
-
----
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
 |-|-|-|-|
 > founder, developer & designer
@@ -136,6 +93,49 @@ Django Admin was extensively customized to provide each user with a control pane
 - print design 
 - branding
 
+
+
+---
+### important projects
+
+---
+### education
+
+- `1998-2000` Boulder School of Fine Arts · Boulder CO, US · classical drawing
+- `1998-1991` The Naropa Institute · Boulder CO, US · Buddhist studies
+- `1985-1987` Swarthmore College · Swarthmore PA, US · Bachelor's degree
+- `1984-1985` Duke University · Durham NC, US · computer science  
+- `1983` University of Massachusetts · Amherst MA, US · computer science  
+
+---
+### distinctions
+
+- ex-member of Mensa
+- National Merit Scholar
+
+---
+### personal interests
+
+- classical art
+- rock guitar and bass
+- bicycle maintenance
+- woodworking
+
+---
+
+# LEFTOVERS
+
+
+
+
+
+
+
+
+
+I'm in the process of construction a portfolio at Behance, but meantime you can visit ozake.com to see my work.
+
+---
 &nbsp;
 
 **2002-2006 : Anaÿs** · outil de construction de sites web en Flash · Capbreton (40)
