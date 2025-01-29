@@ -16,7 +16,6 @@ tol' ya
 ---
 tol' ya
 
----
 </details>
 
 ---
