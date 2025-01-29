@@ -1,5 +1,5 @@
 
-### Andrew Swift
+### Andrew Swift · Freelance Designer
 
 Toulouse, France · American/British citizen · native English & fluent French
 
