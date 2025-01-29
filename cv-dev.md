@@ -1,5 +1,5 @@
 
-### Andrew Swift
+### Andrew Swift · Freelance Developer
 
 Toulouse, France · American/British citizen · native English & fluent French
 
