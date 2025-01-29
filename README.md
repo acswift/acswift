@@ -5,12 +5,14 @@ I'm always looking for interesting work as a designer or developer.
 
 <details><summary>developer CV</summary>
 
+---
 tol' ya
 
 </details>
 
 <details><summary>designer CV</summary>
 
+---
 tol' ya
 
 </details>
