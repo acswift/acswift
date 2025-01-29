@@ -8,6 +8,7 @@ I'm always looking for interesting work as a designer or developer.
 ---
 tol' ya
 
+---
 </details>
 
 <details><summary>designer CV</summary>
@@ -15,8 +16,12 @@ tol' ya
 ---
 tol' ya
 
+---
 </details>
 
-
 ---
+Since 2019, I've been developing `Svija`, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com).
 
+From 2015-2019, I was an independent designer · [ozake.com](https://ozake.com).
+
+From 2012-2014, I took a couple of years to concentrate on classical drawing · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums)
