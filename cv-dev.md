@@ -12,15 +12,6 @@ Toulouse, France · American/British citizen · native English & fluent French
 - Apache, Nginx and uWSGI
 - bash, vim, git and Github
 
-#### Design
-- Adobe Creative Suite
-- information design
-- web design
-- Wordpress theme creation
-- print design
-- packaging design
-- vehicle wrapping
-
 #### Copywriting
 - copywriting and editing in English
 
