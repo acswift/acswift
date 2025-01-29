@@ -3,8 +3,6 @@
 
 Toulouse, France · American/British citizen · native English & fluent French
 
-i have good written communication CV
-
 #### Development
 - Django and Python
 - MySQL and PostgreSQL
@@ -15,7 +13,7 @@ i have good written communication CV
 - bash, vim, git and Github
 
 #### Copywriting
-- copywriting and editing in English
+- strong written commmunication in French and English
 
 ---
 ### Experience
