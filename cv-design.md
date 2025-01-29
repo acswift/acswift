@@ -36,12 +36,11 @@ skills:
 ---
 ### important projects
 
-
 ---
 ### Education
 
-- `1998-2000` Boulder School of Fine Arts · Boulder CO, US  
-- `1998-1991` The Naropa Institute · Boulder CO, US  
+- `1998-2000` Boulder School of Fine Arts · Boulder CO, US · classical drawing
+- `1998-1991` The Naropa Institute · Boulder CO, US · Buddhist studies
 - `1985-1987` Swarthmore College · Swarthmore PA, US · Bachelor's degree
 - `1984-1985` Duke University · Durham NC, US · computer science  
 - `1983` University of Massachusetts · Amherst MA, US · computer science  
@@ -61,6 +60,7 @@ skills:
 - woodworking
 
 ---
+
 # LEFTOVERS
 
 
