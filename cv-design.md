@@ -19,9 +19,9 @@ I'm currently accepting part-time work as a senior designer in branding, digital
 ---
 ### experience
 
-`2019/09-present` — [Svija](https://svija.com), Toulouse France
-> SAAS startup,
-> founder, developer & designer
+`Sept. 2019-present` — [Svija](https://svija.com), Toulouse France
+> founder, web & digital designer
+- interface design
 - web server for SVG pages · Django
 - SVG animation platform · Javascript
 - Adobe Illustrator plug-in · Javascript
@@ -40,8 +40,7 @@ A Django app on the server creates structured web content integrating the user's
 Django Admin was extensively customized to provide each user with a control panel for their website.
 
 ---
-| 2014/02-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
-|-|-|-|-|
+`Febr. 2014-Sept. 2019` — [Ozaké Communication](https://ozake.com), Toulouse France
 > web developer & designer
 - full-stack web development
 - advertising design
