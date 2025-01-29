@@ -19,7 +19,7 @@ I'm currently accepting part-time work as a senior designer in branding, digital
 ---
 ### experience
 
-`2019/09-present` — Svija, Toulouse FR ([web site](https://svija.com))
+`2019/09-present` — Svija, Toulouse France — [site](https://svija.com)
 > SAAS startup,
 > founder, developer & designer
 - web server for SVG pages · Django
