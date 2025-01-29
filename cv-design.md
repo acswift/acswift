@@ -11,7 +11,7 @@ While I build out my [Bēhance](https://www.behance.net/andrewswift) portfolio y
 ---
 ### overview
 
-- I'm an independent print and web designer with more than 30 years' experience
+- I'm an digital, print and web designer with more than 30 years' experience
 - I've run an independent communications agency since 1995 and completed hundreds of successful projects
 - I enjoy collaborating with other people and get along well with almost everyone
 
