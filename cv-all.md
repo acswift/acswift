@@ -73,6 +73,31 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
+| 2012/01-2014/01 | Sabbatical | Toulouse, FR | [drawing portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums) |
+|-|-|-|-|
+> classical drawing in charcoal and pencil
+
+<details><summary>details</summary>
+&nbsp;
+
+- Stratégies publicitaires
+- Création de publicité
+- Produits imprimés
+- Réalisation de sites webs full stack
+- Frontend : interfaces utilisateur, fidélisation, navigation
+
+Svija is a website builder that enables users to create web content using Adobe Illustrator.
+
+An Illustrator panel enables users to easily save pages as SVG files.
+
+A macOS app runs in the background to sync website content between the user's computer and the web server.
+
+A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
+
+Django Admin was extensively customized to provide each user with a control panel for their website.
+</details>
+
+---
 | 1995/03-2011/12 | Anaÿs Inc.| communications agency, Boulder CO, US/Toulouse FR |
 |-|-|-|
 > web developer & designer
