@@ -64,8 +64,6 @@ Django Admin was extensively customized to provide each user with a control pane
 - print design 
 - branding
 
-&nbsp;
-
 - Frontend : interfaces utilisateur, fidélisation, navigation
 - Backend : bases de données, comptes client, catalogues de produits
 
@@ -74,8 +72,6 @@ Django Admin was extensively customized to provide each user with a control pane
 | 2012/01-2014/01 | Sabbatical | Toulouse, FR | [drawing portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums) |
 |-|-|-|-|
 > classical drawing in charcoal and pencil
-
-&nbsp;
 
 - Stratégies publicitaires
 - Création de publicité
@@ -92,6 +88,47 @@ Django Admin was extensively customized to provide each user with a control pane
 - advertising design
 - print design 
 - branding
+
+---
+| 2003/07-2011/05 | School-Directory.net | lead-generation website | online |
+|-|-|-|-|
+> founder, developer & designer
+- listings of secondary education degree programs in the US
+- design and development of dynamic website in PHP/MySQL
+- $14-16K revenue /month
+- sold in 2011 for $1.5M
+
+
+---
+| 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder CO, US |
+|-|-|-|-|
+> advertising designer
+- graphic design and paste up
+- Quark Xpress & Photoshop
+- management of transition from dedicated typesetting computers to desktop publishing on Mac
+
+- clients regularly requested that I be the one to design their ad
+- exceptionally effective advertising
+
+
+---
+| 1990/02-1990/09 | The Colorado Daily | weekly newspaper | Boulder CO, US |
+|-|-|-|-|
+> advertising designer
+- Quark Xpress and Photoshop on Mac
+
+&nbsp;
+
+- exceptionally effective advertising
+- clients regularly requested that I be the one to design their ad
+
+
+---
+| 1987/07-1989/08 | Whole Food Co. | organic supermarket chain | New Orleans, Louisianne · E.U. |
+|-|-|-|-|
+> fruits and vegetables department, assistant manager
+- management training
+- 5x profit increase in two years
 
 
 
@@ -149,51 +186,6 @@ I'm in the process of construction a portfolio at Behance, but meantime you can 
 > Fondateur
 - Environ 400K pages référencées par site
 - Trafic web boosté par 1000 fois en moyen
-
----
-| 2003/07-2011/05 | School-Directory.net | lead-generation website | online |
-|-|-|-|-|
-> founder, developer & designer
-- listings of secondary education degree programs in the US
-- design and development of dynamic website in PHP/MySQL
-- $14-16K revenue /month
-- sold in 2011 for $1.5M
-
-&nbsp;
-
-
----
-| 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder CO, US |
-|-|-|-|-|
-> advertising designer
-- graphic design and paste up
-- Quark Xpress & Photoshop
-- management of transition from dedicated typesetting computers to desktop publishing on Mac
-
-&nbsp;
-
-- clients regularly requested that I be the one to design their ad
-- exceptionally effective advertising
-
-
----
-| 1990/02-1990/09 | The Colorado Daily | weekly newspaper | Boulder CO, US |
-|-|-|-|-|
-> advertising designer
-- Quark Xpress and Photoshop on Mac
-
-&nbsp;
-
-- exceptionally effective advertising
-- clients regularly requested that I be the one to design their ad
-
-
----
-| 1987/07-1989/08 | Whole Food Co. | organic supermarket chain | New Orleans, Louisianne · E.U. |
-|-|-|-|-|
-> fruits and vegetables department, assistant manager
-- management training
-- 5x profit increase in two years
 
 &nbsp;
 
