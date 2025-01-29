@@ -4,9 +4,26 @@
 Toulouse, France · American/British citizen · native English/fluent French
 
 ---
-### summary & skills
+### summary: knock them out
 
+- I studied CS at Duke University. I've been a web developer since 1995, full-stack since 2001
+- I've deployed dozens of web sites including ecommerce and dynamic sites with complex functionality
+- I'm always ready to learn new tools; I adapt my tools to the project at hand
 
+---
+### skills/tools (15-20)
+
+languages:
+- Django, Python, PHP
+- Javascript, HTML, CSS
+
+skills:
+- Django web-app development
+- Ubuntu web hosting: Nginx, Apache
+- SVG creation & animation
+- Adobe scripting & plug-in development
+- git, Github
+- Vim, bash programming
 
 ---
 #### Development
