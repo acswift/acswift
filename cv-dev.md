@@ -3,10 +3,10 @@
 
 Toulouse, France · American/British citizen · native English/fluent French · 150 €/h
 
-I'm currently looking for work as a part-time Django/Python developer.
+I'm currently accepting work as a part-time Django/Python developer.
 
 ---
-### summary: knock them out
+### who am I?
 
 - I studied CS at Duke University. I've been a web developer since 1995, full-stack since 2001
 - I've deployed dozens of web sites including ecommerce and dynamic sites with complex functionality

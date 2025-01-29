@@ -6,7 +6,7 @@ Toulouse, France · American/British citizen · native English/fluent French · 
 I'm currently accepting part-time work as a senior designer in branding, digital or print design.
 
 ---
-### summary: knock them out
+### who am I?
 
 - I'm a print and web designer with more than 30 years' experience
 - I've run an independent communications agency since 1995 and finished thousands of projects to the clients' satisfaction
