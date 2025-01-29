@@ -16,9 +16,7 @@ I'm currently accepting part-time work as a senior designer in branding, digital
 ### skills/tools
 
 tools:
-- Adobe Creative Cloud: Illustrator, Indesign, Photoshop
-- HTML, CSS, Javascript, Wordpress, Elementor, Wix, Weebly
-- Garage Band, Final Cut Pro
+- Adobe Creative Cloud: Illustrator, Indesign, Photoshop, HTML, CSS, Javascript, Wordpress, Elementor, Wix, Weebly, Garage Band, Final Cut Pro
 
 skills:
 - digital design: presentations, reports, marketing email, social media
