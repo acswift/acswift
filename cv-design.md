@@ -10,7 +10,7 @@ I'm currently accepting part-time work as a senior designer in branding, digital
 ---
 ### overview
 
-- I'm an digital, print and web designer with more than 30 years' experience
+- I'm a digital, print and web designer with more than 30 years' experience
 - I've run an independent communications agency since 1995 and completed hundreds of successful projects
 - I enjoy collaborating with other people and get along well with almost everyone
 
@@ -44,7 +44,7 @@ A Django app on the server creates structured web content integrating the user's
 Django Admin was extensively customized to provide each user with a control panel for their website.
 
 ---
-`Mar. 1995-Dec. 2011` & `Feb. 2014-Sep. 2019` — [Ozaké Communication](https://ozake.com), Toulouse France
+`Mar. 1995-Dec. 2011` & `Feb. 2014-Sep. 2019` — [Freelance](https://ozake.com), Toulouse France
 > design, communications & web development
 - full-stack web development
 - advertising design
