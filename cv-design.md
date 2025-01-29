@@ -22,7 +22,7 @@ While I build out my [Bēhance](https://www.behance.net/andrewswift) portfolio y
 ### experience
 
 `Sept. 2019-present` — [Svija](https://svija.com), Toulouse France
-> founder, web & digital designer
+> founder, digital & web designer
 - interface design
 - web server for SVG pages · Django
 - SVG animation platform · Javascript
@@ -61,14 +61,6 @@ Django Admin was extensively customized to provide each user with a control pane
 - branding
 
 ---
-`Jul. 2003-May 2011` — School-Directory.net, online 
-> founder, developer & designer
-- listings of secondary education degree programs in the US
-- design and development of dynamic website in PHP/MySQL
-- $14-16K revenue /month
-- sold in 2011 for $1.5M
-
----
 `Nov. 1990-Mar. 1995` — Boulder Daily Camera, Boulder CO, USA
 > advertising designer
 - graphic design and paste up
@@ -80,28 +72,14 @@ Django Admin was extensively customized to provide each user with a control pane
 
 
 ---
-| 1990/02-1990/09 | The Colorado Daily | weekly newspaper | Boulder CO, US |
-|-|-|-|-|
-> advertising designer
-- Quark Xpress and Photoshop on Mac
-
-&nbsp;
-
-- exceptionally effective advertising
-- clients regularly requested that I be the one to design their ad
-
-
----
-| 1987/07-1989/08 | Whole Food Co. | organic supermarket chain | New Orleans, Louisianne · E.U. |
-|-|-|-|-|
-> fruits and vegetables department, assistant manager
-- management training
-- 5x profit increase in two years
-
-
-
----
 ### important projects
+
+`Jul. 2003-May 2011` — School-Directory.net, online 
+> founder, developer & designer
+- listings of secondary education degree programs in the US
+- design and development of dynamic website in PHP/MySQL
+- $14-16K revenue /month
+- sold in 2011 for $1.5M
 
 ---
 ### education
