@@ -44,7 +44,7 @@ A Django app on the server creates structured web content integrating the user's
 Django Admin was extensively customized to provide each user with a control panel for their website.
 
 ---
-`Mar. 1995-Dec. 2011` & `Feb. 2014-Sep. 2019` — [Freelance](https://ozake.com), Toulouse France
+`Mar. 1995-Dec. 2011` & `Feb. 2014-Sep. 2019` — [Freelance](https://ozake.com), Boulder, CO & Toulouse France
 > design, communications & web development
 - full-stack web development
 - advertising design
