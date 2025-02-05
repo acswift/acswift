@@ -166,7 +166,7 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
-`2019-pres.` developing **Svija**, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com)
+`2019-pres` developing **Svija**, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com)
 
 `1995-2019` independent web developer and designer · [ozake.com](https://ozake.com)
 
