@@ -8,7 +8,7 @@ I'm always looking for interesting work as a designer or developer.
 ---
 `2019-pres` developing **Svija**, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com)
 
-`1995-2019` independent web developer and designer · [ozake.com](https://ozake.com)
+`1995-2019` independent web developer and designer · [bēhance](https://www.behance.net/andrewswift "portfolio") · [ozake.com](https://ozake.com)
 
 `2012-2014` classical drawing sabbatical · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums)
 
@@ -43,7 +43,6 @@ social:
 
 inactive:
 [youtube](https://www.youtube.com/@andysvija "unused") ·
-[bēhance](https://www.behance.net/andrewswift "unused") ·
 [facebook](https://www.facebook.com/andrewcswift "unused") ·
 [tiktok](https://www.tiktok.com/@andysvija "unused")
 
