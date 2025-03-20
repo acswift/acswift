@@ -6,11 +6,11 @@ I'm always looking for interesting work as a designer or developer.
 [development CV](cv-dev.md) · [design CV](cv-design.md) · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
 
 ---
-`2019-pres` developing **Svija**, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com "Company Website")
+`2019-pres` SAAS development at **Svija**: building websites with Adobe Illustrator · [svija.com](https://svija.com "Company Website")
 
-`2012-2014` classical drawing sabbatical · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums "Flickr Portfolio")
+`2012-2014` classical drawing · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums "Flickr Portfolio")
 
-`1995-2019` independent web developer and designer · [portfolio](https://www.behance.net/andrewswift "Bēhance Portfolio") · [ozake.com](https://ozake.com "Design Agency Website")
+`1995-2019` full-stack web development and graphic design · [portfolio](https://www.behance.net/andrewswift "Bēhance Portfolio") · [ozake.com](https://ozake.com "Design Agency Website")
 
 ---
 <details><summary>online presence</summary>
