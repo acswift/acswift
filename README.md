@@ -3,7 +3,7 @@
 
 I'm always looking for interesting work as a designer or developer.
 
-[developer CV](https://github.com/acswift/acswift/blob/main/cv-dev.md) · [designer CV](https://github.com/acswift/acswift/blob/main/cv-design.md)
+[development CV](cv-dev.md) · [design CV](cv-design.md)
 
 ---
 `2019-pres` developing **Svija**, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com)
