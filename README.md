@@ -1,12 +1,12 @@
 <!-- [CV en français](CV%C2%A0(fran%C3%A7ais).md) · [biography](bio.md) -->
 <!-- https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/ -->
 
-I'm always looking for interesting work as a designer or developer.
+I'm always open to interesting work as a designer or developer.
 
 [development CV](cv-dev.md) · [design CV](cv-design.md) · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
 
 ---
-`2019-pres` SAAS development at **Svija**: building websites with Adobe Illustrator · [svija.com](https://svija.com "Company Website")
+`2019-pres` SAAS development at Svija, building websites with Adobe Illustrator · [svija.com](https://svija.com "Company Website")
 
 `2012-2014` classical drawing · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums "Flickr Portfolio")
 
