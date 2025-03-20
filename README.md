@@ -3,7 +3,7 @@
 
 I'm always open to interesting work as a designer or developer: **andy** at **svija** dot **com**
 
-[development CV](cv-dev.md) · [design CV](cv-design.md) · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
+[development CV](cv-development.md) · [design CV](cv-design.md) · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
 
 ---
 `2019-pres` SAAS development at Svija, building websites with Adobe Illustrator · [svija.com](https://svija.com "Company Website")
