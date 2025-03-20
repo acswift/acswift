@@ -1,7 +1,7 @@
 <!-- [CV en français](CV%C2%A0(fran%C3%A7ais).md) · [biography](bio.md) -->
 <!-- https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/ -->
 
-I'm always open to interesting work as a designer or developer: andy<sub>@</sub>svija<sub>.</sub>com
+I'm always open to interesting work as a designer or developer: andy<s>@</s>svija<s>.</s>com
 
 [development CV](cv-dev.md) · [design CV](cv-design.md) · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
 
