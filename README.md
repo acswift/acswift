@@ -3,7 +3,7 @@
 
 I'm always looking for interesting work as a designer or developer.
 
-[development CV](cv-dev.md) · [design CV](cv-design.md)
+[development CV](cv-dev.md) · [design CV](cv-design.md) · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
 
 ---
 `2019-pres` developing **Svija**, a way to build websites using Adobe Illustrator · [svija.com](https://svija.com "Company Website")
@@ -16,10 +16,9 @@ I'm always looking for interesting work as a designer or developer.
 <details><summary>online presence</summary>
 
 ---
-networking:
+<!-- networking:
 [freelancermap](https://www.freelancermap.com/profile/andrew-swift) ·
-[linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/) ·
-[upwork](https://www.upwork.com/freelancers/~01be05117193e5a372)
+[upwork](https://www.upwork.com/freelancers/~01be05117193e5a372) -->
 
 websites:
 [svija.com](https://svija.com "building websites with Adobe Illustrator") ·
