@@ -17,39 +17,6 @@ I'm currently accepting part-time work as a full-stack developer.
 
 `skills:` Python & Django web-app development, Ubuntu web hosting (Nginx, Apache), SVG creation & animation, Adobe scripting & plug-in development, git, Github, Vim, bash programming
 
----
-### experience
-
----
-### important projects
-
----
-### Education
-
-- `1998-2000` Boulder School of Fine Arts · Boulder CO, US · classical drawing
-- `1998-1991` The Naropa Institute · Boulder CO, US · Buddhist studies
-- `1985-1987` Swarthmore College · Swarthmore PA, US · Bachelor's degree
-- `1984-1985` Duke University · Durham NC, US · computer science  
-- `1983` University of Massachusetts · Amherst MA, US · computer science  
-
----
-### Distinctions
-
-- ex-member of Mensa
-- National Merit Scholar
-
----
-### Personal Interests
-
-- classical art
-- rock guitar and bass
-- bicycle maintenance
-- woodworking
-
----
-
-# LEFTOVERS
-
 #### Development
 - Django and Python
 - MySQL and PostgreSQL
@@ -61,6 +28,7 @@ I'm currently accepting part-time work as a full-stack developer.
 
 #### Copywriting
 - strong written commmunication in French and English
+
 
 ---
 ### Experience
@@ -227,25 +195,16 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 ---
+### important projects
+
+---
 ### Education
 
-- `1998-2000` Boulder School of Fine Arts · Boulder CO, US  
-classical drawing and painting
-
-- `1998-1991` The Naropa Institute · Boulder CO, US  
-M.A. in Buddhist studies (incomplete)
-
-- `1985-1987` Swarthmore College · Swarthmore PA, US  
-Bachelor's degree in philosophy  
-minor in classical music composition
-
-- `1984-1985` Duke University · Durham NC, US  
-computer science  
-classical music composition
-
-- `1983` University of Massachusetts · Amherst MA, US    
-computer science  
-mathematics
+- `1998-2000` Boulder School of Fine Arts · Boulder CO, US · classical drawing
+- `1998-1991` The Naropa Institute · Boulder CO, US · Buddhist studies
+- `1985-1987` Swarthmore College · Swarthmore PA, US · Bachelor's degree
+- `1984-1985` Duke University · Durham NC, US · computer science  
+- `1983` University of Massachusetts · Amherst MA, US · computer science  
 
 ---
 ### Distinctions
@@ -257,7 +216,5 @@ mathematics
 ### Personal Interests
 
 - classical art
-- rock guitar and bass
+- electric guitar and bass
 - bicycle maintenance
-- woodworking
-
