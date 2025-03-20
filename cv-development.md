@@ -3,14 +3,13 @@
 
 Toulouse, France · American/British citizen · native English/fluent French · 150 €/h
 
-I'm currently accepting part-time work as a full-stack developer.
-> andy⛭svija.com · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
+I'm always open to interesting work as a developer: andy⛭svija.com
 
 ---
 ### overview
 
 - I studied CS at Duke University, and I've been a web developer since 1995
-- I've deployed dozens of web sites including ecommerce and dynamic sites with complex functionality
+- I've deployed dozens of web sites including ecommerce sites and other dynamic content with complex functionality
 - I enjoy collaborating with other people and get along well with almost everyone
 
 `languages:` Django, Python, PHP, Javascript, HTML, CSS
