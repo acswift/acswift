@@ -14,12 +14,41 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 `  languages` Django, Python, PostgreSQL, MySQL, PHP, Javascript, HTML, CSS, SVG  
 `environment` Ubuntu, Nginx, Apache, git, bash programming  
+`  wordpress` site building and maintenance, theme creation, Elementor
 `    graphic` SVG animation, Adobe scripting & plug-in development
 
 - strong written commmunication in French and English
 
 ---
-### experience
+### important projects
+
+svija cloud
+svija vibe
+svija tools
+svija sync
+school-directory.net
+text-file based flash sites
+powder DB
+
+
+`2004-2010` : School Directory
+> lead-generating website with partner  
+> design & development
+- 14,000-16,000 € monthly revenue
+- sold for 1.5 M€
+
+`2002-2006` : Anaÿs
+> software enabling dynamic Flash websites
+- modular content system
+- Google-indexed Flash content
+- content management for non-technical users
+
+`2001-2002` : PowderDB
+> SEO optimization software
+- approx. 400K pages indexed per site
+- 1000x average traffic boost
+---
+### work experience
 
 ---
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
@@ -181,9 +210,6 @@ A Django app on the server creates structured web content integrating the user's
 
 Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
-
----
-### important projects
 
 ---
 ### Education
