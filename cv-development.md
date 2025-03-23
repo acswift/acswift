@@ -14,7 +14,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 `  languages` Django, Python, PostgreSQL, MySQL, PHP, Javascript, HTML, CSS, SVG  
 `environment` Ubuntu, Nginx, Apache, git, bash programming  
-`  wordpress` site building and maintenance, theme creation, Elementor
+`  wordpress` site building and maintenance, theme creation, Elementor  
 `    graphic` SVG animation, Adobe scripting & plug-in development
 
 - strong written commmunication in French and English
