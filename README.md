@@ -1,9 +1,9 @@
 <!-- [CV en français](CV%C2%A0(fran%C3%A7ais).md) · [biography](bio.md) -->
 <!-- https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/ -->
 
-I'm always open to interesting work as a designer or developer: andy ⛭ svija.com
+I'm always open to interesting work as a designer or developer: andy⛭svija.com
 
-[development CV](cv-development.md) · [design CV](cv-design.md) · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
+[CV development](cv-development.md) · [CV design](cv-design.md) · [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
 
 ---
 `2019-pres` SAAS development at Svija, building websites with Adobe Illustrator · [svija.com](https://svija.com "Company Website")
