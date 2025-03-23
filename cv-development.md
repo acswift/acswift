@@ -22,9 +22,9 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 ### projects
 
-2020-pres · **Svija Cloud** · *web application using NginX/Django/PostgreSQL*
 
-<details><summary>User-facing Django application to publish immersive web content based on files exported from Adobe Illustrator</summary>
+
+<details><summary>2020-pres · **Svija Cloud** · *web application using NginX/Django/PostgreSQL</summary>
 <br>
 
 - User-facing Django application with admin interface
@@ -33,6 +33,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 ---
 </details>
+- *User-facing Django application to publish immersive web content based on files exported from Adobe Illustrator
 
 2022-pres · **Svija Vibe** · *SVG animation in Javascript*
 <details><summary> Web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention</summary>
