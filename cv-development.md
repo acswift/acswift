@@ -12,11 +12,12 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - I've deployed dozens of web sites including ecommerce sites and other dynamic content with complex functionality
 - I enjoy collaborating with other people and get along well with almost everyone
 
-`languages:` Django, Python, PHP, Javascript, HTML, CSS
+`programming languages` Django, Python, PHP, Javascript, HTML, CSS  
+`server maintenance`  Ubuntu, Nginx, Apache  
+`graphic tools` SVG animation, Adobe scripting & plug-in development  
 
-`skills:` Python & Django web-app development, Ubuntu web hosting (Nginx, Apache), SVG creation & animation, Adobe scripting & plug-in development, git, Github, Vim, bash programming
+ git, Github, Vim, bash programming
 
-#### Development
 - Django and Python
 - MySQL and PostgreSQL
 - CSS, HTML, SVG and Javascript
@@ -25,7 +26,6 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - Apache, Nginx and uWSGI
 - bash, vim, git and Github
 
-#### Copywriting
 - strong written commmunication in French and English
 
 
