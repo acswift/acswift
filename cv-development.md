@@ -23,7 +23,12 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ### projects
 
 2020-pres · **Svija Cloud** · *web application using NginX/Django/PostgreSQL*
-- User-facing Django application with admin interface wraps SVG files in HTML to publish immersive web content based on files exported from Adobe Illustrator
+
+<details><summary>- User-facing Django application to publish immersive web content based on files exported from Adobe Illustrator</summary>
+
+- User-facing Django application with admin interface; combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator; combine and reuse content blocks, manage site map, page titles and other content
+
+</details>
 
 2022-pres · **Svija Vibe** · *SVG animation in Javascript*
 - Web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention
