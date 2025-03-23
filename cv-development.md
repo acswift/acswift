@@ -35,20 +35,72 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 </details>
 
 2022-pres · **Svija Vibe** · *SVG animation in Javascript*
-- Web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention
+<details><summary> Web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention</summary>
+<br>
+
+- User-facing Django application with admin interface
+- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
+-  combine and reuse content blocks, manage site map, page titles and other content
+
+---
+</details>
 
 2021-pres · **Svija Tools** · Adobe Illustrator panel in Javascript
+<details><summary>lead-generating website with one partner, design & development (PHP),  14,000-16,000 € monthly revenue, sold for 1.5 M€</summary>
+<br>
+
+- User-facing Django application with admin interface
+- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
+-  combine and reuse content blocks, manage site map, page titles and other content
+
+---
+</details>
 
 2021-pres · **Svija Sync** · macOS application in Swift
+<details><summary>lead-generating website with one partner, design & development (PHP),  14,000-16,000 € monthly revenue, sold for 1.5 M€</summary>
+<br>
+
+- User-facing Django application with admin interface
+- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
+-  combine and reuse content blocks, manage site map, page titles and other content
+
+---
+</details>
 
 2004-2010 · **SchoolDirectory.net** · database-driven lead referral website based on PHP/MySQL
-- lead-generating website with one partner, design & development (PHP),  14,000-16,000 € monthly revenue, sold for 1.5 M€
+<details><summary>lead-generating website with one partner, design & development (PHP),  14,000-16,000 € monthly revenue, sold for 1.5 M€</summary>
+<br>
+
+- User-facing Django application with admin interface
+- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
+-  combine and reuse content blocks, manage site map, page titles and other content
+
+---
+</details>
 
 2002-2006 · **Anaÿs** · software enabling dynamic Flash websites in PHP on Apache
-- modular content system,  Google-indexed Flash content, content management by non-technical users, PHP / HTML / Flash
+<details><summary>modular content system,  Google-indexed Flash content, content management by non-technical users, PHP / HTML / Flash</summary>
+<br>
+
+- User-facing Django application with admin interface
+- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
+-  combine and reuse content blocks, manage site map, page titles and other content
+
+---
+</details>
+
 
 2001-2002 · **PowderDB** · SEO optimization software in PHP
-- ~400K pages indexed per site, ~1000x average traffic boost
+<details><summary>~400K pages indexed per site, ~1000x average traffic boost</summary>
+<br>
+
+- User-facing Django application with admin interface
+- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
+-  combine and reuse content blocks, manage site map, page titles and other content
+
+---
+</details>
+
 
 ---
 ### work experience
