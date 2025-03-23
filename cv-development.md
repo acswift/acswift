@@ -20,25 +20,25 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - strong written commmunication in French and English
 
 ---
-### main projects
+### projects
 
-2020-pres · **Svija Cloud** · web application using NginX/Django/PostgreSQL  
+2020-pres · **Svija Cloud** · *web application using NginX/Django/PostgreSQL*
 - User-facing Django application with admin interface wraps SVG files in HTML to publish immersive web content based on files exported from Adobe Illustrator
 
-`2022-pres` **Svija Vibe · SVG animation in Javascript**
+2022-pres · **Svija Vibe** · *SVG animation in Javascript*
 - Web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention
 
-`2021-pres` **Svija Tools · Adobe Illustrator panel in Javascript**
+2021-pres · **Svija Tools** · Adobe Illustrator panel in Javascript
 
-`2021-pres` **Svija Sync · macOS application in Swift**
+2021-pres · **Svija Sync** · macOS application in Swift
 
-`2004-2010` **SchoolDirectory.net · database-driven lead referral website based on PHP/MySQL**
+2004-2010 · **SchoolDirectory.net** · database-driven lead referral website based on PHP/MySQL
 - lead-generating website with one partner, design & development (PHP),  14,000-16,000 € monthly revenue, sold for 1.5 M€
 
-`2002-2006` **Anaÿs · software enabling dynamic Flash websites in PHP on Apache**
+2002-2006 · **Anaÿs** · software enabling dynamic Flash websites in PHP on Apache
 - modular content system,  Google-indexed Flash content, content management by non-technical users, PHP / HTML / Flash
 
-`2001-2002` **PowderDB · SEO optimization software in PHP**
+2001-2002 · **PowderDB** · SEO optimization software in PHP
 - ~400K pages indexed per site, ~1000x average traffic boost
 
 ---
