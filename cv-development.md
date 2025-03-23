@@ -22,27 +22,33 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 ### main projects
 
-`2020-pres` **Svija Cloud** · NginX/Django/PostgreSQL
+`2020-pres` **Svija Cloud** · web application using NginX/Django/PostgreSQL
 > web application to serve websites based on SVG files exported from Adobe Illustrator
 
-`2022-pres` **Svija Vibe** · SVG animation IDE in Javascript
+---
+`2022-pres` **Svija Vibe** · SVG animation in Javascript
 
+---
 `2021-pres` **Svija Tools** · Adobe Illustrator panel in Javascript
 
+---
 `2021-pres` **Svija Sync** · macOS application in Swift
 
+---
 `2004-2010` SchoolDirectory.net
 > lead-generating website with one partner  
 - design & development (PHP)
 - 14,000-16,000 € monthly revenue
 - sold for 1.5 M€
 
+---
 `2003-2011` School-Directory.net
 > lead-generating website with partner  
 > design & development
 - 14,000-16,000 € monthly revenue
 - sold for 1.5 M€
 
+---
 `2002-2006` Anaÿs
 > software enabling dynamic Flash websites (PHP)
 - modular content system
@@ -50,6 +56,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - content management by non-technical users
 - PHP / HTML / Flash
 
+---
 `2001-2002` PowderDB
 > SEO optimization software (PHP)
 - ~400K pages indexed per site
