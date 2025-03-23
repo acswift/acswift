@@ -22,13 +22,14 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 ### main projects
 
-`2020-pres` Svija Cloud
+`2020-pres` **Svija Cloud** · NginX/Django/PostgreSQL
+> web application to serve websites based on SVG files exported from Adobe Illustrator
 
-`2022-pres` Svija Vibe
+`2022-pres` **Svija Vibe** · SVG animation IDE in Javascript
 
-`2021-pres`Svija Tools
+`2021-pres` **Svija Tools** · Adobe Illustrator panel in Javascript
 
-`2021-pres` Svija Sync
+`2021-pres` **Svija Sync** · macOS application in Swift
 
 `2004-2010` SchoolDirectory.net
 > lead-generating website with one partner  
