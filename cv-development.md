@@ -22,7 +22,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 ### main projects
 
-`2020-pres` **Svija Cloud · web application using NginX/Django/PostgreSQL**  
+**Svija Cloud** `2020-pres` **web application using NginX/Django/PostgreSQL**  
 - User-facing Django application with admin interface wraps SVG files in HTML to publish immersive web content based on files exported from Adobe Illustrator
 
 `2022-pres` **Svija Vibe · SVG animation in Javascript**
