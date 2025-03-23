@@ -23,7 +23,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ### main projects
 
 `2020-pres` **Svija Cloud** · web application using NginX/Django/PostgreSQL  
-web application to serve websites based on SVG files exported from Adobe Illustrator
+Complex user-facing application to wrap SVG files in HTML. For building websites based on SVG files exported from Adobe Illustrator. User-facing admin interface.
 
 `2022-pres` **Svija Vibe** · SVG animation in Javascript
 
