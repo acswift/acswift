@@ -15,7 +15,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 `  languages` Django, Python, PostgreSQL, MySQL, PHP, Javascript, HTML, CSS, SVG  
 `environment` Ubuntu, Nginx, Apache, git, bash programming  
 `  wordpress` website building and maintenance, theme creation, Elementor  
-`    graphic` SVG animation, Adobe scripting & plug-in development
+`    graphic` SVG animation, Adobe scripting & plug-in developmet, GSAP
 
 - strong written commmunication in French and English
 
@@ -23,9 +23,10 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ### main projects
 
 `2020-pres` **Svija Cloud · web application using NginX/Django/PostgreSQL**  
-Complex user-facing application to wrap SVG files in HTML. For building websites based on SVG files exported from Adobe Illustrator. User-facing admin interface.
+User-facing Django application with admin interface; wrap SVG files in HTML enabling building websites based on files exported from Adobe Illustrator
 
 `2022-pres` **Svija Vibe** · SVG animation in Javascript
+Web animation program
 
 `2021-pres` **Svija Tools** · Adobe Illustrator panel in Javascript
 
