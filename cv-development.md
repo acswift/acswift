@@ -24,8 +24,9 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 
 
-<details><summary>2020-pres · **Svija<br>
-- Cloud** · *web application using NginX/Django/PostgreSQL*</summary>
+<details><summary>2020-pres · <b>Svija<br>
+
+- Cloud</b> · *web application using NginX/Django/PostgreSQL*</summary>
 <br>
 
 - User-facing Django application with admin interface
