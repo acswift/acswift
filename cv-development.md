@@ -25,9 +25,9 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 
 <details><summary>2020-pres · <b>Svija Cloud</b><br>
-*User-facing Django application to publish immersive web content based on files exported from Adobe Illustrator*
+<i>User-facing Django application to publish immersive web content based on files exported from Adobe Illustrator</i>
 </summary>
-
+<br>
 - web application using NginX/Django/PostgreSQL
 - User-facing Django application with admin interface
 - combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
