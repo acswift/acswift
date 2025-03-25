@@ -42,7 +42,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-<details><summary><b>2021-present · Svija Tools</br> · Adobe Illustrator panel in Javascript</summary><br>
+<details><summary><b>2021-present · Svija Tools</b> · Adobe Illustrator panel in Javascript</summary><br>
 
 - User-facing Django application with admin interface
 - combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
