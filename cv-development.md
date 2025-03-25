@@ -109,20 +109,10 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 <details><summary><b>03.1995-09.2019 · Independent Developer & Designer</b> · Toulouse FR · <a href=https://ozake.com>ozake.com</a></summary><br>
 
-- web developer & designer
-- full-stack web development
-- advertising design
-- print design 
-- branding
-- Frontend : interfaces utilisateur, fidélisation, navigation
-- Backend : bases de données, comptes client, catalogues de produits
-- web developer & designer
-- full-stack web development
-- advertising design
-- print design 
-- branding
+- **Full-stack web development** in PHP, ASP, Cold Fusion and Perl
+- Identity and branding, advertising strategy and design, print design 
 
-* 1995-2004: Andrew Swift Communications · 2004-2014: Anays inc · 2014-2019: Ozake Communications *
+* 1995-2003: Andrew Swift Communications / 2004-2014: Anays Inc / 2014-2019: Ozaké Communications *
 
 </details>
 
