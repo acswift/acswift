@@ -90,7 +90,6 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - Delivered a **1000x average traffic increase** for clients by optimizing content structure and keyword relevance
 - Generated **realistic-looking content** with **configurable keyword density**, relevant images, and SEO-friendly HTML tagging
 
----
 </details>
 
 
