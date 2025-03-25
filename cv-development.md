@@ -21,7 +21,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - strong written commmunication in French and English
 
 ---
-**MAJOR PROJECTS** *Click to expand…*
+**MAJOR PROJECTS** *click to expand…*
 
 <details><summary><b>2020-present · Svija Cloud</b> · Django application to publish Adobe Illustrator SVG files as web content</summary><br>
 
@@ -68,7 +68,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - Developed and maintained **school-directory.net**, a database-driven lead referral website using PHP and MySQL  
 - Managed all technical aspects, including backend development, database administration, and search engine optimization (SEO)
 - Designed a dynamic search system allowing users to filter schools by criteria such as subject, location, and degree type
-- Contributed to the site's profitability, generating **$16,000–$20,000 per month**, leading to its **$1.5 million acquisition by QuinStreet in 2012**
+- Contributed to the site's profitability, generating **$16–$20K per month**, leading to a **$1.5M acquisition by QuinStreet in 2010**
 
 ---
 </details>
