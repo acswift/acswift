@@ -23,18 +23,12 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ### projects
 
 
-
-<details><summary>2020-pres · <b>Svija Cloud</b> · <i>Django application to publish Adobe Illustrator SVG files as web content </i>
-</summary>
-<br>
-
-- web application using NginX/Django/PostgreSQL
-- User-facing Django application with admin interface
-- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
-- combine and reuse content blocks, manage site map, page titles and other content
-
----
-</details>
+2020-present · <b>Svija Cloud</b> · <i>Django application to publish Adobe Illustrator SVG files as web content </i>  
+*a Django-based web application to publish and manage Adobe Illustrator SVG files as immersive web content*  
+- Developed Svija Cloud – a Django-based web application that publishes Adobe Illustrator SVG files as immersive web content, managing their presentation and placement
+- Multi-instance Architecture – Each client gets a dedicated instance, handling site management tasks like sitemap organization, page titles, SEO, and script management
+- User-Friendly Admin Interface – Leveraged Django's admin tools to provide users control over site content, including Illustrator file assignments, embedded media, and additional scripts
+- Content Management Features – Enables combining and reusing content blocks, embedding YouTube videos, and integrating animations (e.g., Svija Vibe) for dynamic web experiences.
 
 2022-pres · **Svija Vibe** · *SVG animation in Javascript*
 <details><summary> Web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention</summary>
@@ -90,7 +84,6 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 ---
 </details>
-
 
 2001-2002 · **PowderDB** · SEO optimization software in PHP
 <details><summary>~400K pages indexed per site, ~1000x average traffic boost</summary>
@@ -286,7 +279,7 @@ Django Admin was extensively customized to provide each user with a control pane
 ---
 ### Personal Interests
 
-- AI generated artwork with Stable Diffusion
+- AI-generated artwork with Stable Diffusion
 - classical art
 - electric guitar and bass
 - bicycle maintenance
