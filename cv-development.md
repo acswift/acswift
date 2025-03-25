@@ -21,7 +21,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - strong written commmunication in French and English
 
 ---
-**MAJOR PROJECTS** *click to expand…*
+**SOFTWARE PROJECTS** *click to expand…*
 
 <details><summary><b>2020-present · Svija Cloud</b> · Django application to publish Adobe Illustrator SVG files as web content</summary><br>
 
@@ -95,7 +95,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 
 ---
-**WORK EXPERIENCE** *click to expand…*
+**EMPLOYMENT** *click to expand…*
 
 <details><summary><b>09.2019-present · Svija SAS</b> · SaaS startup, Toulouse FR · <a href=https://svija.com>svija.com</a></summary><br>
 
@@ -107,27 +107,22 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-<details><summary><b>03.1995-09.2019 · Ozaké Communications</b> · SAAS startup, Toulouse FR · <a href=https://ozake.com>ozake.com</a></summary><br>
-03.1995-09.2019/09 Ozaké Communication · communications agency, Toulouse FR
+<details><summary><b>03.1995-09.2019 · Independent Developer & Designer</b> · Toulouse FR · <a href=https://ozake.com>ozake.com</a></summary><br>
 
-> web developer & designer
+- web developer & designer
 - full-stack web development
 - advertising design
 - print design 
 - branding
-
 - Frontend : interfaces utilisateur, fidélisation, navigation
 - Backend : bases de données, comptes client, catalogues de produits
-
-| 1995/03-2011/12 | Anaÿs Inc.| communications agency, Boulder CO, US/Toulouse FR |
-|-|-|-|
-> web developer & designer
+- web developer & designer
 - full-stack web development
 - advertising design
 - print design 
 - branding
 
-*— Previously named Anays Inc and Andrew Swift communications —*
+*— 1995-2004: Andrew Swift Communications · 2004-2014: Anays inc · 2014-2019: Ozake Communications —*
 
 </details>
 
