@@ -126,7 +126,7 @@ Django Admin was extensively customized to provide each user with a control pane
 ---
 </details>
 
-<details><summary><b>03.1995-09.2019· Ozaké Communications</b> · SAAS startup, Toulouse FR · <a href=https://ozake.com>ozake.com</a></summary><br>
+<details><summary><b>03.1995-09.2019 · Ozaké Communications</b> · SAAS startup, Toulouse FR · <a href=https://ozake.com>ozake.com</a></summary><br>
 03.1995-09.2019/09 Ozaké Communication · communications agency, Toulouse FR
 
 > web developer & designer
@@ -150,52 +150,32 @@ Django Admin was extensively customized to provide each user with a control pane
 
 </details>
 
-<details><summary>camera</summary>
-| 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder CO, US |
-|-|-|-|-|
-> advertising designer
+<details><summary>11.1990/11-03.1995/03 · Boulder Daily Camera · daily newspaper · Boulder CO, US</summary><br>
+
+- advertising designer
 - graphic design and paste up
 - Quark Xpress & Photoshop
 - management of transition from dedicated typesetting computers to desktop publishing on Mac
-
-&nbsp;
-
 - clients regularly requested that I be the one to design their ad
 - exceptionally effective advertising
 
 </details>
 
-<details><summary>colorado daily</summary>
-| 1990/02-1990/09 | The Colorado Daily | weekly newspaper | Boulder CO, US |
-|-|-|-|-|
-> advertising designer
+<details><summary>02.1990-09.1990/09 · The Colorado Daily · weekly newspaper · Boulder CO, US</summary><br>
+
+- advertising designer
 - Quark Xpress and Photoshop on Mac
-
-&nbsp;
-
 - exceptionally effective advertising
 - clients regularly requested that I be the one to design their ad
 
 </details>
 
-<details><summary>whole foods</summary>
-| 1987/07-1989/08 | Whole Food Co. | organic supermarket chain | New Orleans, Louisianne · E.U. |
-|-|-|-|-|
-> fruits and vegetables department, assistant manager
+<details><summary>1987/07-1989/08 · Whole Food Co. · organic supermarket chain · New Orleans, Louisianne · E.U.</summary><br>
+
+- fruits and vegetables department, assistant manager
 - management training
 - 5x profit increase in two years
 
-&nbsp;
-
-Svija is a website builder that enables users to create web content using Adobe Illustrator.
-
-An Illustrator panel enables users to easily save pages as SVG files.
-
-A macOS app runs in the background to sync website content between the user's computer and the web server.
-
-A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
-
-Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
 
 
