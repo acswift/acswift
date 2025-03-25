@@ -150,7 +150,7 @@ Django Admin was extensively customized to provide each user with a control pane
 
 </details>
 
-<details><summary>11.1990/11-03.1995/03 · Boulder Daily Camera · daily newspaper · Boulder CO, US</summary><br>
+<details><summary><b>11.1990-03.1995 · Boulder Daily Camera</b> · daily newspaper · Boulder CO, US</summary><br>
 
 - advertising designer
 - graphic design and paste up
@@ -161,7 +161,7 @@ Django Admin was extensively customized to provide each user with a control pane
 
 </details>
 
-<details><summary>02.1990-09.1990/09 · The Colorado Daily · weekly newspaper · Boulder CO, US</summary><br>
+<details><summary><b>02.1990-09.1990 · The Colorado Daily</b> · weekly newspaper · Boulder CO, US</summary><br>
 
 - advertising designer
 - Quark Xpress and Photoshop on Mac
@@ -170,7 +170,7 @@ Django Admin was extensively customized to provide each user with a control pane
 
 </details>
 
-<details><summary>1987/07-1989/08 · Whole Food Co. · organic supermarket chain · New Orleans, Louisianne · E.U.</summary><br>
+<details><summary><b>07.1987-08.1989 · Whole Food Co.</b> · organic supermarket chain · New Orleans, Louisianne · E.U.</summary><br>
 
 - fruits and vegetables department, assistant manager
 - management training
