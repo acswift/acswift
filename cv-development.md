@@ -7,7 +7,7 @@ American/British citizen · native English/fluent French
 I'm always open to interesting work as a developer: andy⛭svija.com
 
 ---
-### OVERVIEW
+#### OVERVIEW
 
 - CS at Duke University, web developer since 1995
 - deployed dozens of web sites including ecommerce sites and other dynamic content with complex functionality
@@ -21,7 +21,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - strong written commmunication in French and English
 
 ---
-### MAJOR PROJECTS
+#### MAJOR PROJECTS
 
 *Click to expand…*
 
