@@ -114,6 +114,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 *1995-2003: Andrew Swift Communications / 2004-2014: Anaÿs Inc / 2014-2019: Ozaké Communication*
 
+---
 </details>
 
 
