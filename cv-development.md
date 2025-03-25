@@ -286,6 +286,7 @@ Django Admin was extensively customized to provide each user with a control pane
 ---
 ### Personal Interests
 
+- AI generated artwork with Stable Diffusion
 - classical art
 - electric guitar and bass
 - bicycle maintenance
