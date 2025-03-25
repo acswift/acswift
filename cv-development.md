@@ -7,7 +7,7 @@ Toulouse, France · American/British citizen · native English/fluent French · 
 I'm always open to interesting work as a developer: andy⛭svija.com
 
 ---
-🔺 OVERVIEW
+### OVERVIEW
 
 - CS at Duke University, web developer since 1995
 - deployed dozens of web sites including ecommerce sites and other dynamic content with complex functionality
@@ -21,9 +21,9 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - strong written commmunication in French and English
 
 ---
-#### MAJOR PROJECTS
+### MAJOR PROJECTS
 
-*click to expand…*
+*Click to expand…*
 
 <details><summary><b>2020-present · Svija Cloud</b> · Django application to publish Adobe Illustrator SVG files as web content</summary><br>
 
@@ -93,7 +93,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 
 ---
-🔺 WORK EXPERIENCE
+### WORK EXPERIENCE
 
 ---
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
