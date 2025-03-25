@@ -33,20 +33,20 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-<details><summary><b>2022-present · Svija Vibe</b> · web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention</summary><br>
-
-- User-facing Django application with admin interface
-- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
--  combine and reuse content blocks, manage site map, page titles and other content
-
----
-</details>
-
 <details><summary><b>2021-present · Svija Tools</b> · Adobe Illustrator panel in Javascript</summary><br>
 
 - User-facing Django application with admin interface
 - combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
 - combine and reuse content blocks, manage site map, page titles and other content
+
+---
+</details>
+
+<details><summary><b>2022-present · Svija Vibe</b> · web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention</summary><br>
+
+- User-facing Django application with admin interface
+- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
+-  combine and reuse content blocks, manage site map, page titles and other content
 
 ---
 </details>
