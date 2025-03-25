@@ -67,8 +67,8 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 - Developed and maintained **school-directory.net**, a database-driven lead referral website using PHP and MySQL  
 - Contributed to the site's profitability, generating **$16–$20K per month**, leading to a **$1.5M acquisition by QuinStreet in 2010**
-- Managed all technical aspects, including backend development, database administration, and search engine optimization (SEO)
-- Designed a dynamic search system allowing users to filter schools by criteria such as subject, location, and degree type
+- **Managed all technical aspects**, including backend development, database administration, and search engine optimization (SEO)
+- Designed a **dynamic search system** allowing users to filter schools by criteria such as subject, location, and degree type
 
 ---
 </details>
