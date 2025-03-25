@@ -112,7 +112,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - **Full-stack web development** in PHP, ASP, Cold Fusion and Perl
 - Identity and branding, advertising strategy and design, print design 
 
-* 1995-2003: Andrew Swift Communications / 2004-2014: Anays Inc / 2014-2019: Ozaké Communications *
+*1995-2003: Andrew Swift Communications / 2004-2014: Anays Inc / 2014-2019: Ozaké Communications*
 
 </details>
 
