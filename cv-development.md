@@ -1,3 +1,4 @@
+<!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
 ### Andrew Swift · Freelance Developer
 
@@ -6,7 +7,7 @@ Toulouse, France · American/British citizen · native English/fluent French · 
 I'm always open to interesting work as a developer: andy⛭svija.com
 
 ---
-▶ OVERVIEW
+📘 OVERVIEW
 
 - CS at Duke University, web developer since 1995
 - deployed dozens of web sites including ecommerce sites and other dynamic content with complex functionality
@@ -20,7 +21,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - strong written commmunication in French and English
 
 ---
-▶ MAIN PROJECTS
+📗 MAIN PROJECTS
 
 
 <b>2020-present · Svija Cloud</b> · Django application to publish Adobe Illustrator SVG files as web content 
