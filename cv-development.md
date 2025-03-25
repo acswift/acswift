@@ -1,6 +1,6 @@
 <!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
-### Andrew Swift · Toulouse, France
+## Andrew Swift · Toulouse, France
 
 American/British citizen · native English/fluent French
 
