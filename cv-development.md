@@ -26,7 +26,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 <details><summary><b>2020-present · Svija Cloud</b> · Django application to publish Adobe Illustrator SVG files as web content</summary><br>
 
 - **Developed a Django-based web application** that publishes Adobe Illustrator SVG files as immersive web content, managing presentation and placement
-- **Multi-instance Architecture** – one  dedicated instance per client handles site management tasks including sitemap organization, page titles, SEO, and script management
+- **Multi-instance Architecture** – one dedicated instance per client handles site management tasks including sitemap organization, page titles, SEO, and script management
 - **User-Friendly Admin Interface** – heavily-modified Django admin provides users control over site content, including Illustrator file assignments, embedded media, and additional scripts
 - **Content Management Features** – enabled combining and reusing content blocks, embedding YouTube videos, and integrating animations (e.g., Svija Vibe) for dynamic web experiences.
 
@@ -35,9 +35,10 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 <details><summary><b>2021-present · Svija Tools</b> · Adobe Illustrator panel in Javascript</summary><br>
 
-- User-facing Django application with admin interface
-- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
-- combine and reuse content blocks, manage site map, page titles and other content
+- **Developed an Adobe Illustrator panel** written in JavaScript, using AJAX for dynamic functionality updates
+- **SVG Export & Site Management** – enables users to save web content as SVG files directly from Illustrator and manage a local copy of their website.
+- **Content Harmonization & Automation** – includes tools for synchronizing content across pages and performing frequently needed operations
+- **Enhanced Usability** – provides shortcuts to source files, verifies potential issues (e.g., missing images, unsupported techniques), and includes a direct link to tech support.
 
 ---
 </details>
