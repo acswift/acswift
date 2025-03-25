@@ -98,7 +98,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 
 ---
-▶ WORK EXPERIENCE
+📙 WORK EXPERIENCE
 
 ---
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
