@@ -97,7 +97,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 **WORK EXPERIENCE** *click to expand…*
 
-<details><summary><b>09.2019-present · Svija SAS</b> · SAAS startup, Toulouse FR · <a href=https://svija.com>web site</a></summary><br>
+<details><summary><b>09.2019-present · Svija SAS</b> · SAAS startup, Toulouse FR · <a href=https://svija.com>svija.com</a></summary><br>
 
 
 | 2019/09-present | Svija | SAAS startup, Toulouse FR |  |
@@ -126,7 +126,7 @@ Django Admin was extensively customized to provide each user with a control pane
 ---
 </details>
 
-<details><summary>ozaké</summary>
+<details><summary><b>03.1995-09.2019· Ozaké Communications</b> · SAAS startup, Toulouse FR · <a href=https://ozake.com>ozake.com</a></summary><br>
 | 2014/02-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
 |-|-|-|-|
 > web developer & designer
