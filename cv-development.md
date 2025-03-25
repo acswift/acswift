@@ -63,12 +63,12 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-<details><summary><b>2004-2010 · SchoolDirectory.net</b> · database-driven lead referral website based on PHP/MySQL</summary><br>
+<details><summary><b>2004-2010 · school-directory.net</b> · database-driven lead referral website based on PHP/MySQL</summary><br>
 
-- Developed and maintained **school-directory.net**, a database-driven lead referral website using **PHP** and **MySQL**.  
-- Managed all technical aspects, including backend development, database administration, and search engine optimization (SEO).  
-- Designed a dynamic search system allowing users to filter schools by criteria such as subject, location, and degree type.  
-- Contributed to the site's profitability, generating **$16,000–$20,000 per month**, leading to its **$1.5 million acquisition by QuinStreet in 2012**.  
+- Developed and maintained **school-directory.net**, a database-driven lead referral website using PHP and MySQL  
+- Managed all technical aspects, including backend development, database administration, and search engine optimization (SEO)
+- Designed a dynamic search system allowing users to filter schools by criteria such as subject, location, and degree type
+- Contributed to the site's profitability, generating **$16,000–$20,000 per month**, leading to its **$1.5 million acquisition by QuinStreet in 2012**
 
 ---
 </details>
