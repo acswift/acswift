@@ -99,10 +99,10 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 <details><summary><b>09.2019-present · Svija SAS</b> · SaaS startup, Toulouse FR · <a href=https://svija.com>svija.com</a></summary><br>
 
-- Founder & Lead Developer of Svija, a SaaS startup enabling the creation of SVG-based websites based on files exported from Adobe Illustrator
-- Sole developer of three software projects, including a Django web server, JavaScript SVG animation library, and an Adobe Illustrator plug-in
-- Built and managed three custom WordPress websites, handled UI/UX design, and created marketing materials (pitch decks, videos, images, and social media content)
-- Oversaw macOS app development, including extensive modifications in Xcode and App Store submission
+- **Founder & Lead Developer** of **Svija**, a SaaS startup enabling the creation of **SVG-based websites** based on files exported from Adobe Illustrator
+- Sole developer of **three software projects**, including a **Django web server**, **JavaScript SVG animation library**, and an **Adobe Illustrator plug-in**
+- Oversaw **macOS app development**, including extensive modifications in Xcode and App Store submission
+- Built and managed **three custom WordPress websites**, handled **UI/UX design**, and created all **marketing materials** (pitch decks, videos, images, and social media content)
 
 ---
 </details>
