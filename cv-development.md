@@ -33,9 +33,9 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-<details><summary><b>2021-present · Svija Tools</b> · Adobe Illustrator panel in Javascript/AJAX</summary><br>
+<details><summary><b>2021-present · Svija Tools</b> · Adobe Illustrator plug-in in Javascript/AJAX</summary><br>
 
-- **Developed an Adobe Illustrator panel** in JavaScript, using AJAX for dynamic functionality updates
+- **Developed an Adobe Illustrator plug-in** in JavaScript, using AJAX for dynamic functionality updates
 - **SVG Export & Site Management** – save web content as SVG files and manage a local copy of the user's website
 - **Content Harmonization and Verification** – tools for synchronizing content across pages and for verification of potential issues (e.g., missing images, unsupported techniques)
 - **Usability Enhancements** – shortcuts to source files and rapid access to frequently needed operations
@@ -99,18 +99,10 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 <details><summary><b>09.2019-present · Svija SAS</b> · SAAS startup, Toulouse FR · <a href=https://svija.com>svija.com</a></summary><br>
 
-- founder, developer & designer
-- web server for SVG pages · Django
-- SVG animation platform · Javascript
-- Adobe Illustrator plug-in · Javascript
-- oversaw development of macOS application · Swift
-- design of software interfaces, pitch decks, web sites, promotional videos and images, and social media posts
-- wordpress design & maintenance
-- Svija is a website-building platform that enables users to create web content using Adobe Illustrator.
-- An Illustrator panel enables users to easily save pages as SVG files.
-- A macOS app runs in the background to sync website content between the user's computer and the web server.
-- A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
-- Django Admin was extensively customized to provide each user with a control panel for their website.
+- **Founder & Lead Developer** of **Svija**, a SaaS startup enabling website creation from **Adobe Illustrator** using **SVG files**
+- Solely developed and maintained **four software projects**, including a **Django web server**, **JavaScript SVG animation library**, **Adobe Illustrator plug-in**, and a **macOS app in Swift**
+- Built and managed **three custom WordPress websites**, handled **UI/UX design**, and created **marketing materials** (pitch decks, videos, images, and social media content)
+- Oversaw **macOS app development**, including **Xcode maintenance** and **App Store submission**, ensuring seamless **SVG content syncing** between **Illustrator and web servers**
 
 ---
 </details>
