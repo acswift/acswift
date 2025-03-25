@@ -73,11 +73,12 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-<details><summary><b>2002-2006 · Anays</b> · software enabling dynamic Flash websites in PHP on Apache</summary><br>
+<details><summary><b>2002-2006 · Anays</b> · indexable and maintainable Flash-based websites in PHP</summary><br>
 
-- modular content system
-- Google-indexed Flash content
-- content management by non-technical users, PHP / HTML / Flash
+- Designed and developed **Anays**, a modular system enabling **search engine indexability** and **easy content updates** for Flash websites.  
+- Implemented a **PHP-based backend** and a **Flash engine** that dynamically populated site content from an **HTML wrapper**.  
+- Enabled **Google-indexed Flash content**, solving a key SEO issue while allowing **non-technical users** to manage website content.  
+- Built using **PHP, HTML, and Flash**, integrating **server-side includes** to streamline content updates without specialized software.  
 
 ---
 </details>
