@@ -27,8 +27,8 @@ oujours ouvert à des opportunités intéressantes en tant que développeur : an
 
 - **Développement d'une application web Django** permettant de publier des fichiers SVG d'Adobe Illustrator sous forme de contenu web interactif  
 - **Architecture multi-instance** – une instance dédiée par client pour gérer l’organisation du site, les titres de pages, le SEO et la gestion des scripts  
-- **Interface d’administration optimisée** – amélioration de l’admin Django pour permettre aux utilisateurs de gérer leurs fichiers Illustrator, médias et scripts intégrés  
-- **Fonctionnalités de gestion de contenu** – intégration de vidéos YouTube, réutilisation de blocs de contenu et animations interactives (ex: Svija Vibe)  
+- **Interface d’administration intuitive** – amélioration de l’admin Django pour permettre aux utilisateurs de gérer leurs fichiers Illustrator, médias et scripts intégrés  
+- **Fonctionnalités de gestion de contenu** – réutilisation de blocs de contenu, animations interactives (ex: Svija Vibe) et intégration de vidéos YouTube
 
 ---  
 </details>  
