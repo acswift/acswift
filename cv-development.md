@@ -87,7 +87,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 - Developed PowderDB, **SEO optimization software written in PHP** to enhance website visibility and indexing
 - Enabled the creation of **~400,000 indexed pages per site**, significantly improving search engine presence
-- Delivered an **average 1000x traffic increase** for clients by optimizing content structure and keyword relevance
+- Delivered a **1000x average traffic increase** for clients by optimizing content structure and keyword relevance
 - Generated **realistic-looking content** with **configurable keyword density**, relevant images, and SEO-friendly HTML tagging
 
 ---
