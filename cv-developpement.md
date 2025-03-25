@@ -1,26 +1,27 @@
+<!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
 ## Andrew Swift · Toulouse, France  
 
 Citoyen américain/britannique · Anglais natif / Français courant  
 
-Je suis toujours ouvert à des opportunités intéressantes en tant que développeur : andy⛭svija.com  
+oujours ouvert à des opportunités intéressantes en tant que développeur : andy⛭svija.com  
 
 ---  
 **APERÇU**  
 
 - Informatique à Duke University, développeur web depuis 1995  
 - Déploiement de dizaines de sites web, y compris des sites e-commerce et des plateformes dynamiques avec des fonctionnalités complexes  
-- Apprécie le travail en équipe et s'entend bien avec presque tout le monde  
+- J'apprécie le travail en équipe et m'entend bien avec la plupart des gens
 
-`  langages` Django, Python, PostgreSQL, MySQL, PHP, JavaScript, HTML, CSS, SVG  
-`  environnement` Ubuntu, Nginx, Apache, Git, Bash, Xcode  
-`  wordpress` création et maintenance de sites web, création de thèmes, Elementor  
-`  graphisme` animation SVG, développement de scripts/plugins Adobe, GSAP, Stable Diffusion, A1111  
+`      Langages` Django, Python, PostgreSQL, MySQL, PHP, JavaScript, HTML, CSS, SVG  
+`Environnements` Ubuntu, NginX, Apache, Git, Bash, Xcode  
+`     Wordpress` création et maintenance de sites web, création de thèmes, Elementor  
+`     Graphisme` animation SVG, développement de scripts/plugins Adobe, GSAP, Stable Diffusion, A1111  
 
-- Excellente communication écrite en français et en anglais  
+- Compétences en communication écrite en français et en anglais
 
 ---  
-**PROJETS LOGICIELS** *cliquez pour développer…*  
+**PROJETS INFORMATIQUES** *cliquez pour développer…*  
 
 <details><summary><b>2020-présent · Svija Cloud</b> · Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web</summary><br>  
 

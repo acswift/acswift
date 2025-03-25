@@ -11,12 +11,12 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 - CS at Duke University, web developer since 1995
 - deployed dozens of web sites including ecommerce sites and other dynamic content with complex functionality
-- enjoys collaborating with other people and gets along well with almost everyone
+- I enjoy collaborating with other people and gets along well with almost everyone
 
-`  languages` Django, Python, PostgreSQL, MySQL, PHP, Javascript, HTML, CSS, SVG  
-`environment` Ubuntu, Nginx, Apache, Git, Bash, Xcode
-`  wordpress` website building and maintenance, theme creation, Elementor  
-`    graphic` SVG animation, Adobe scripting/plug-in development, GSAP, Stable Diffusion, A1111
+`   languages` Django, Python, PostgreSQL, MySQL, PHP, Javascript, HTML, CSS, SVG  
+`environments` Ubuntu, NginX, Apache, Git, Bash, Xcode
+`   wordpress` website building and maintenance, theme creation, Elementor  
+`    graphics` SVG animation, Adobe scripting/plug-in development, GSAP, Stable Diffusion, A1111
 
 - strong written commmunication in French and English
 
