@@ -1,8 +1,8 @@
 <!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
-### Andrew Swift · Freelance Developer
+### Andrew Swift · Toulouse, France
 
-Toulouse, France · American/British citizen · native English/fluent French · 150 €/h
+American/British citizen · native English/fluent French
 
 I'm always open to interesting work as a developer: andy⛭svija.com
 
