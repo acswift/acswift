@@ -55,8 +55,8 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 <details><summary><b>2021-2023 · Svija Sync</b> · macOS application in Swift (modifications & App Store submission)</summary><br>
 
-- **Enhanced Svija Sync** – extensively modified a lightweight macOS application in Swift, originally developed by a subcontractor
-- **Automated Website Synchronization** – uses the RSYNC daemon to update website files every three seconds, ensuring local and remote versions stay in sync
+- **Enhanced Svija Sync** – extensively modified a macOS application in Swift (originally developed by a subcontractor)
+- **Automated Website Synchronization** – an RSYNC daemon runs every three seconds, synchronizing local and remote versions
 - **Multi-site Management** – supports managing up to 100 websites, with easy access to local files and Svija Cloud admin pages
 - **App Store Submission** – handled the submission process for Svija Sync on the Mac App Store
 
