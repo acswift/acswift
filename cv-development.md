@@ -97,6 +97,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 **WORK EXPERIENCE** *click to expand…*
 
+<details><summary>svija</summary>
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
 |-|-|-|-|
 > founder, developer & designer
@@ -106,7 +107,6 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - oversaw development of macOS application · Swift
 - design of software interfaces, pitch decks, web sites, promotional videos and images, and social media posts
 
-<details><summary>details</summary>
 &nbsp;
 
 - wordpress design & maintenance
@@ -122,7 +122,7 @@ A Django app on the server creates structured web content integrating the user's
 Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
 
----
+<details><summary>ozaké</summary>
 | 2014/02-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
 |-|-|-|-|
 > web developer & designer
@@ -131,7 +131,6 @@ Django Admin was extensively customized to provide each user with a control pane
 - print design 
 - branding
 
-<details><summary>details</summary>
 &nbsp;
 
 - Frontend : interfaces utilisateur, fidélisation, navigation
@@ -148,7 +147,7 @@ A Django app on the server creates structured web content integrating the user's
 Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
 
----
+<details><summary>anaÿs</summary>
 | 1995/03-2011/12 | Anaÿs Inc.| communications agency, Boulder CO, US/Toulouse FR |
 |-|-|-|
 > web developer & designer
@@ -157,7 +156,6 @@ Django Admin was extensively customized to provide each user with a control pane
 - print design 
 - branding
 
-<details><summary>details</summary>
 &nbsp;
 
 **2002-2006 : Anaÿs** · outil de construction de sites web en Flash · Capbreton (40)
@@ -183,30 +181,7 @@ A Django app on the server creates structured web content integrating the user's
 Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
 
----
-| 2003/07-2011/05 | School-Directory.net | lead-generation website | online |
-|-|-|-|-|
-> founder, developer & designer
-- listings of secondary education degree programs in the US
-- design and development of dynamic website in PHP/MySQL
-- $14-16K revenue /month
-- sold in 2011 for $1.5M
-
-<details><summary>details</summary>
-&nbsp;
-
-Svija is a website builder that enables users to create web content using Adobe Illustrator.
-
-An Illustrator panel enables users to easily save pages as SVG files.
-
-A macOS app runs in the background to sync website content between the user's computer and the web server.
-
-A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
-
-Django Admin was extensively customized to provide each user with a control panel for their website.
-</details>
-
----
+<details><summary>camera</summary>
 | 1990/11-1995/03 | Boulder Daily Camera | daily newspaper | Boulder CO, US |
 |-|-|-|-|
 > advertising designer
@@ -214,7 +189,6 @@ Django Admin was extensively customized to provide each user with a control pane
 - Quark Xpress & Photoshop
 - management of transition from dedicated typesetting computers to desktop publishing on Mac
 
-<details><summary>details</summary>
 &nbsp;
 
 - clients regularly requested that I be the one to design their ad
@@ -222,13 +196,12 @@ Django Admin was extensively customized to provide each user with a control pane
 
 </details>
 
----
+<details><summary>colorado daily</summary>
 | 1990/02-1990/09 | The Colorado Daily | weekly newspaper | Boulder CO, US |
 |-|-|-|-|
 > advertising designer
 - Quark Xpress and Photoshop on Mac
 
-<details><summary>details</summary>
 &nbsp;
 
 - exceptionally effective advertising
@@ -236,14 +209,13 @@ Django Admin was extensively customized to provide each user with a control pane
 
 </details>
 
----
+<details><summary>whole foods</summary>
 | 1987/07-1989/08 | Whole Food Co. | organic supermarket chain | New Orleans, Louisianne · E.U. |
 |-|-|-|-|
 > fruits and vegetables department, assistant manager
 - management training
 - 5x profit increase in two years
 
-<details><summary>details</summary>
 &nbsp;
 
 Svija is a website builder that enables users to create web content using Adobe Illustrator.
@@ -256,6 +228,7 @@ A Django app on the server creates structured web content integrating the user's
 
 Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
+
 
 ---
 ### Education
