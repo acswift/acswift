@@ -24,7 +24,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 📗 MAIN PROJECTS
 
 
-<blockquote><details><summary><b>2020-present · Svija Cloud</b> · Django application to publish Adobe Illustrator SVG files as web content</summary> 
+<details><summary><b>2020-present · Svija Cloud</b> · Django application to publish Adobe Illustrator SVG files as web content</summary> 
 <br>
 
 - **Developed a Django-based web application** that publishes Adobe Illustrator SVG files as immersive web content, managing presentation and placement
@@ -33,7 +33,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - **Content Management Features** – enabled combining and reusing content blocks, embedding YouTube videos, and integrating animations (e.g., Svija Vibe) for dynamic web experiences.
 
 ---
-</details></blockquote>
+</details>
 
 2022-pres · **Svija Vibe** · *SVG animation in Javascript*
 <details><summary> Web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention</summary>
