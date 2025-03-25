@@ -63,22 +63,22 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-<details><summary><b>2004-2010 · school-directory.net</b> · database-driven lead referral website based on PHP/MySQL</summary><br>
+<details><summary><b>2004-2010 · school-directory.net</b> · database-driven lead referral website in PHP/MySQL</summary><br>
 
 - Developed and maintained **school-directory.net**, a database-driven lead referral website using PHP and MySQL  
 - Contributed to the site's profitability, generating **$16–$20K per month**, leading to a **$1.5M acquisition by QuinStreet in 2010**
-- **Managed all technical aspects**, including backend development, database administration, and search engine optimization (SEO)
+- **Managed all technical aspects**, including backend development, database administration, and SEO
 - Designed a **dynamic search system** allowing users to filter schools by criteria such as subject, location, and degree type
 
 ---
 </details>
 
-<details><summary><b>2002-2006 · Anays</b> · indexable and maintainable Flash-based websites in PHP</summary><br>
+<details><summary><b>2002-2006 · Anays</b> · indexable and easily maintainable Flash-based websites in PHP</summary><br>
 
-- Designed and developed **Anays**, a modular system enabling **search engine indexability** and **easy content updates** for Flash websites.  
-- Implemented a **PHP-based backend** and a **Flash engine** that dynamically populated site content from an **HTML wrapper**.  
-- Enabled **Google-indexed Flash content**, solving a key SEO issue while allowing **non-technical users** to manage website content.  
-- Built using **PHP, HTML, and Flash**, integrating **server-side includes** to streamline content updates without specialized software.  
+- **Designed and developed a modular system** enabling search engine indexing and rapid content updates for Flash websites
+- **Implemented a PHP-based backend** and a **Flash engine** that dynamically populated site content from an HTML wrapper
+- Solved a key SEO issue by **enabling Google-indexed Flash content**
+- Text-file based content **eliminated the need for proprietary software** in maintaining a Flash-based site
 
 ---
 </details>
