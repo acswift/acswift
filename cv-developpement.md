@@ -111,16 +111,18 @@ Toujours ouvert à des opportunités intéressantes en tant que développeur : a
 
 *1995-2003: Andrew Swift Communications / 2004-2014: Anaÿs Inc / 2014-2019: Ozaké Communication*  
 
+---
 </details>  
+
 
 ---  
 ### Formation  
 
-- `1998-2000` Boulder School of Fine Arts · Boulder CO, US · études de figure au crayon  
-- `1998-1991` The Naropa Institute · Boulder CO, US · études bouddhistes  
-- `1985-1987` Swarthmore College · Swarthmore PA, US · Licence  
-- `1984-1985` Duke University · Durham NC, US · informatique  
-- `1983` University of Massachusetts · Amherst MA, US · informatique  
+- `1998-2000` Boulder School of Fine Arts · Boulder CO, EU · études de figure au crayon  
+- `1998-1991` The Naropa Institute · Boulder CO, EU · études bouddhistes  
+- `1985-1987` Swarthmore College · Swarthmore PA, EU · Licence  
+- `1984-1985` Duke University · Durham NC, EU · informatique  
+- `1983` University of Massachusetts · Amherst MA, EU · informatique  
 
 ---  
 ### Distinctions  
@@ -131,7 +133,7 @@ Toujours ouvert à des opportunités intéressantes en tant que développeur : a
 ---  
 ### Centres d’intérêt  
 
-- Art numérique avec Stable Diffusion  
+- Art I.A. avec Stable Diffusion  
 - Art classique  
 - Guitare et basse électriques  
 - Réparation de vélos  
