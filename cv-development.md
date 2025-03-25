@@ -33,12 +33,12 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-<details><summary><b>2021-present · Svija Tools</b> · Adobe Illustrator panel in Javascript</summary><br>
+<details><summary><b>2021-present · Svija Tools</b> · Adobe Illustrator panel in Javascript/AJAX</summary><br>
 
-- **Developed an Adobe Illustrator panel** written in JavaScript, using AJAX for dynamic functionality updates
-- **SVG Export & Site Management** – enables users to save web content as SVG files directly from Illustrator and manage a local copy of their website.
-- **Content Harmonization & Automation** – includes tools for synchronizing content across pages and performing frequently needed operations
-- **Enhanced Usability** – provides shortcuts to source files, verifies potential issues (e.g., missing images, unsupported techniques), and includes a direct link to tech support.
+- Developed an Adobe Illustrator panel written in JavaScript, using AJAX for dynamic functionality updates
+- SVG Export & Site Management – save web content as SVG files and manage a local copy of the user's website
+- Content Harmonization and Verification – tools for synchronizing content across pages and for verification of potential issues (e.g., missing images, unsupported techniques)
+- Enhanced Usability – shortcuts to source files and rapid access to frequently needed operations
 
 ---
 </details>
