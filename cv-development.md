@@ -127,31 +127,17 @@ Django Admin was extensively customized to provide each user with a control pane
 </details>
 
 <details><summary><b>03.1995-09.2019· Ozaké Communications</b> · SAAS startup, Toulouse FR · <a href=https://ozake.com>ozake.com</a></summary><br>
-| 2014/02-2019/09 | Ozaké Communication | communications agency, Toulouse FR | [web site](https://ozake.com) |
-|-|-|-|-|
+03.1995-09.2019/09 Ozaké Communication · communications agency, Toulouse FR
+
 > web developer & designer
 - full-stack web development
 - advertising design
 - print design 
 - branding
 
-&nbsp;
-
 - Frontend : interfaces utilisateur, fidélisation, navigation
 - Backend : bases de données, comptes client, catalogues de produits
 
-Svija is a website builder that enables users to create web content using Adobe Illustrator.
-
-An Illustrator panel enables users to easily save pages as SVG files.
-
-A macOS app runs in the background to sync website content between the user's computer and the web server.
-
-A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
-
-Django Admin was extensively customized to provide each user with a control panel for their website.
-</details>
-
-<details><summary>anaÿs</summary>
 | 1995/03-2011/12 | Anaÿs Inc.| communications agency, Boulder CO, US/Toulouse FR |
 |-|-|-|
 > web developer & designer
@@ -160,29 +146,8 @@ Django Admin was extensively customized to provide each user with a control pane
 - print design 
 - branding
 
-&nbsp;
+*— Previously named Anays Inc and Andrew Swift communications —*
 
-**2002-2006 : Anaÿs** · outil de construction de sites web en Flash · Capbreton (40)
-> Fondateur
-- Système de contenus modulaires pour sites en Flash
-- Contenus complètement référençables par Google
-- Gestion de contenus par personnes non-techniques
-
-
-**2001-2002 : PowderDB** · outil d'optimisation pour moteurs de recherche · Capbreton (40), France
-> Fondateur
-- Environ 400K pages référencées par site
-- Trafic web boosté par 1000 fois en moyen
-
-Svija is a website builder that enables users to create web content using Adobe Illustrator.
-
-An Illustrator panel enables users to easily save pages as SVG files.
-
-A macOS app runs in the background to sync website content between the user's computer and the web server.
-
-A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
-
-Django Admin was extensively customized to provide each user with a control panel for their website.
 </details>
 
 <details><summary>camera</summary>
