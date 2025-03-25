@@ -110,9 +110,9 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 <details><summary><b>03.1995-09.2019 · Independent Developer & Designer</b> · Toulouse FR · <a href=https://ozake.com>ozake.com</a></summary><br>
 
 - **Full-stack web development** in PHP, ASP, Cold Fusion and Perl
-- Identity and branding, advertising strategy and design, print design 
+- **Identity and branding**, **advertising strategy** and design, **print design** 
 
-*1995-2003: Andrew Swift Communications / 2004-2014: Anays Inc / 2014-2019: Ozaké Communications*
+*1995-2003: Andrew Swift Communications / 2004-2014: Anaÿs Inc / 2014-2019: Ozaké Communication*
 
 </details>
 
@@ -120,7 +120,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 ### Education
 
-- `1998-2000` Boulder School of Fine Arts · Boulder CO, US · classical drawing
+- `1998-2000` Boulder School of Fine Arts · Boulder CO, US · figure studies in pencil
 - `1998-1991` The Naropa Institute · Boulder CO, US · Buddhist studies
 - `1985-1987` Swarthmore College · Swarthmore PA, US · Bachelor's degree
 - `1984-1985` Duke University · Durham NC, US · computer science  
