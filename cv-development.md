@@ -8,9 +8,9 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 ▶ OVERVIEW
 
-- I studied CS at Duke University, and I've been a web developer since 1995
-- I've deployed dozens of web sites including ecommerce sites and other dynamic content with complex functionality
-- I enjoy collaborating with other people and get along well with almost everyone
+- CS at Duke University, web developer since 1995
+- deployed dozens of web sites including ecommerce sites and other dynamic content with complex functionality
+- enjoys collaborating with other people and gets along well with almost everyone
 
 `  languages` Django, Python, PostgreSQL, MySQL, PHP, Javascript, HTML, CSS, SVG  
 `environment` Ubuntu, Nginx, Apache, Git, Bash, Xcode
