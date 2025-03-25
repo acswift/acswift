@@ -20,10 +20,10 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - strong written commmunication in French and English
 
 ---
-### projects
+*main projects*
 
 
-2020-present · <b>Svija Cloud</b> · <i>Django application to publish Adobe Illustrator SVG files as web content </i>  
+<b>2020-present · Svija Cloud</b> · <i>Django application to publish Adobe Illustrator SVG files as web content </i>  
 *a Django-based web application to publish and manage Adobe Illustrator SVG files as immersive web content*  
 - Developed Svija Cloud – a Django-based web application that publishes Adobe Illustrator SVG files as immersive web content, managing their presentation and placement
 - Multi-instance Architecture – Each client gets a dedicated instance, handling site management tasks like sitemap organization, page titles, SEO, and script management
