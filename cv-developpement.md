@@ -1,8 +1,9 @@
+
 ## Andrew Swift · Toulouse, France  
 
 Citoyen américain/britannique · Anglais natif / Français courant  
 
-Toujours ouvert à des opportunités intéressantes en tant que développeur : andy⛭svija.com  
+Je suis toujours ouvert à des opportunités intéressantes en tant que développeur : andy⛭svija.com  
 
 ---  
 **APERÇU**  
@@ -88,8 +89,8 @@ Toujours ouvert à des opportunités intéressantes en tant que développeur : a
 - **Augmentation du trafic x1000** en optimisant la structure du contenu et la pertinence des mots-clés  
 - Génération de **contenu réaliste**, avec une **densité de mots-clés configurable**, des images pertinentes et un balisage HTML optimisé pour le SEO  
 
----  
 </details>  
+
 
 ---  
 **EXPÉRIENCE PROFESSIONNELLE** *cliquez pour développer…*  
@@ -111,7 +112,6 @@ Toujours ouvert à des opportunités intéressantes en tant que développeur : a
 
 *1995-2003: Andrew Swift Communications / 2004-2014: Anaÿs Inc / 2014-2019: Ozaké Communication*  
 
----
 </details>  
 
 
