@@ -23,8 +23,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 *main projects*
 
 
-<b>2020-present · Svija Cloud</b> · <i>Django application to publish Adobe Illustrator SVG files as web content </i>  
-*a Django-based web application to publish and manage Adobe Illustrator SVG files as immersive web content*  
+<b>2020-present · Svija Cloud</b> · Django application to publish Adobe Illustrator SVG files as web content 
 - Developed Svija Cloud – a Django-based web application that publishes Adobe Illustrator SVG files as immersive web content, managing their presentation and placement
 - Multi-instance Architecture – Each client gets a dedicated instance, handling site management tasks like sitemap organization, page titles, SEO, and script management
 - User-Friendly Admin Interface – Leveraged Django's admin tools to provide users control over site content, including Illustrator file assignments, embedded media, and additional scripts
