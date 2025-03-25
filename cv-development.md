@@ -43,11 +43,12 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-<details><summary><b>2022-present · Svija Vibe</b> · web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention</summary><br>
+<details><summary><b>2022-present · Svija Vibe</b> · Javascript library for SVG animation</summary><br>
 
-- User-facing Django application with admin interface
-- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
--  combine and reuse content blocks, manage site map, page titles and other content
+- **Developed Svija Vibe** – an animation tool enabling complex SVG animation through an object-naming convention in Adobe Illustrator
+- **GSAP-Powered Animation** – utilizes the GSAP JavaScript library to create lightweight but rich web animation
+- **Trigger/Event-Based System** – user interaction with a trigger object causes the transformation of an event object or group of objects
+- **No-Code Animation Workflow** – allows designers to create dynamic animations entirely within Illustrator, radically simplifying web animation production
 
 ---
 </details>
