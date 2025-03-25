@@ -97,8 +97,10 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 **WORK EXPERIENCE** *click to expand…*
 
-<details><summary>svija</summary>
-| 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
+<details><summary>**2019/09-present · Svija SAS** · SAAS startup, Toulouse FR · [web site](https://svija.com)</summary><br>
+
+
+| 2019/09-present | Svija | SAAS startup, Toulouse FR |  |
 |-|-|-|-|
 > founder, developer & designer
 - web server for SVG pages · Django
@@ -120,6 +122,8 @@ A macOS app runs in the background to sync website content between the user's co
 A Django app on the server creates structured web content integrating the user's SVG files, and manages the site map, page titles, SEO content etc.
 
 Django Admin was extensively customized to provide each user with a control panel for their website.
+
+---
 </details>
 
 <details><summary>ozaké</summary>
@@ -248,7 +252,7 @@ Django Admin was extensively customized to provide each user with a control pane
 ---
 ### Personal Interests
 
-- AI-generated artwork with Stable Diffusion
+- AI artwork with Stable Diffusion
 - classical art
 - electric guitar and bass
 - bicycle maintenance
