@@ -53,11 +53,12 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-<details><summary><b>2021-present · Svija Sync</b> · macOS application in Swift</summary><br>
+<details><summary><b>2021-2023 · Svija Sync</b> · macOS application in Swift (modifications & App Store submission)</summary><br>
 
-- User-facing Django application with admin interface
-- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
--  combine and reuse content blocks, manage site map, page titles and other content
+- **Enhanced Svija Sync** – extensively modified a lightweight macOS application in Swift, originally developed by a subcontractor
+- **Automated Website Synchronization** – uses the RSYNC daemon to update website files every three seconds, ensuring local and remote versions stay in sync
+- **Multi-site Management** – supports managing up to 100 websites, with easy access to local files and Svija Cloud admin pages
+- **App Store Submission** – handled the submission process for Svija Sync on the Mac App Store
 
 ---
 </details>
@@ -87,7 +88,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 
 ---
-⚠️ WORK EXPERIENCE
+🔺 WORK EXPERIENCE
 
 ---
 | 2019/09-present | Svija | SAAS startup, Toulouse FR | [web site](https://svija.com) |
