@@ -4,7 +4,7 @@
 
 Citoyen américain/britannique · Anglais natif / Français courant  
 
-oujours ouvert à des opportunités intéressantes en tant que développeur : andy⛭svija.com  
+Je suis toujours ouvert à des opportunités intéressantes en tant que développeur : andy⛭svija.com  
 
 ---  
 **APERÇU**  
@@ -28,7 +28,7 @@ oujours ouvert à des opportunités intéressantes en tant que développeur : an
 - **Développement d'une application web Django** permettant de publier des fichiers SVG d'Adobe Illustrator sous forme de contenu web interactif  
 - **Architecture multi-instance** – une instance dédiée par client pour gérer l’organisation du site, les titres de pages, le SEO et la gestion des scripts  
 - **Interface d’administration intuitive** – amélioration de l’admin Django pour permettre aux utilisateurs de gérer leurs fichiers Illustrator, médias et scripts intégrés  
-- **Fonctionnalités de gestion de contenu** – réutilisation de blocs de contenu, animations interactives (ex: Svija Vibe) et intégration de vidéos YouTube
+- **Fonctionnalités de gestion de contenu** – réutilisation de blocs de contenu, intégration d'animations interactives (Svija Vibe) et intégration de vidéos YouTube
 
 ---  
 </details>  
@@ -37,7 +37,7 @@ oujours ouvert à des opportunités intéressantes en tant que développeur : an
 
 - **Développement d’un plugin Adobe Illustrator** en JavaScript, utilisant AJAX pour la mise à jour dynamique des fonctionnalités  
 - **Exportation SVG & Gestion de site** – permet d’enregistrer du contenu web sous forme de fichiers SVG et de gérer une copie locale du site  
-- **Harmonisation et vérification de contenu** – outils de synchronisation du contenu sur plusieurs pages et détection d'erreurs (ex: images manquantes, techniques non prises en charge)  
+- **Harmonisation et vérification de contenu** – outils de synchronisation du contenu sur plusieurs pages et détection d'erreurs (images manquantes, techniques non prises en charge)  
 - **Améliorations UX** – raccourcis vers les fichiers sources et accès rapide aux opérations fréquentes  
 
 ---  

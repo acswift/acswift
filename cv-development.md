@@ -37,7 +37,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 
 - **Developed an Adobe Illustrator plug-in** in JavaScript, using AJAX for dynamic functionality updates
 - **SVG Export & Site Management** – save web content as SVG files and manage a local copy of the user's website
-- **Content Harmonization and Verification** – tools for synchronizing content across pages and for verification of potential issues (e.g., missing images, unsupported techniques)
+- **Content Harmonization and Verification** – tools for synchronizing content across pages and for verification of potential issues (missing images, unsupported techniques)
 - **Usability Enhancements** – shortcuts to source files and rapid access to frequently needed operations
 
 ---
