@@ -42,20 +42,16 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-2021-pres · **Svija Tools** · Adobe Illustrator panel in Javascript
-<details><summary>lead-generating website with one partner, design & development (PHP),  14,000-16,000 € monthly revenue, sold for 1.5 M€</summary>
-<br>
+<details><summary><b>2021-present · Svija Tools</br> · Adobe Illustrator panel in Javascript</summary><br>
 
 - User-facing Django application with admin interface
 - combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
--  combine and reuse content blocks, manage site map, page titles and other content
+- combine and reuse content blocks, manage site map, page titles and other content
 
 ---
 </details>
 
-2021-pres · **Svija Sync** · macOS application in Swift
-<details><summary>lead-generating website with one partner, design & development (PHP),  14,000-16,000 € monthly revenue, sold for 1.5 M€</summary>
-<br>
+<details><summary><b>2021-present · Svija Sync</b> · macOS application in Swift</summary><br>
 
 - User-facing Django application with admin interface
 - combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
