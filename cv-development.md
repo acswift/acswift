@@ -60,35 +60,25 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-2004-2010 · **SchoolDirectory.net** · database-driven lead referral website based on PHP/MySQL
-<details><summary>lead-generating website with one partner, design & development (PHP),  14,000-16,000 € monthly revenue, sold for 1.5 M€</summary>
-<br>
+<details><summary><b>2004-2010 · SchoolDirectory.net</b> · database-driven lead referral website based on PHP/MySQL</summary><br>
 
-- User-facing Django application with admin interface
-- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
--  combine and reuse content blocks, manage site map, page titles and other content
+- lead-generating website with one partner, design & development (PHP),  14,000-16,000 € monthly revenue, sold for 1.5 M€
 
 ---
 </details>
 
-2002-2006 · **Anaÿs** · software enabling dynamic Flash websites in PHP on Apache
-<details><summary>modular content system,  Google-indexed Flash content, content management by non-technical users, PHP / HTML / Flash</summary>
-<br>
+<details><summary><b>2002-2006 · Anays</b> · software enabling dynamic Flash websites in PHP on Apache</summary><br>
 
-- User-facing Django application with admin interface
-- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
--  combine and reuse content blocks, manage site map, page titles and other content
+- modular content system
+- Google-indexed Flash content
+- content management by non-technical users, PHP / HTML / Flash
 
 ---
 </details>
 
-2001-2002 · **PowderDB** · SEO optimization software in PHP
-<details><summary>~400K pages indexed per site, ~1000x average traffic boost</summary>
-<br>
+<details><summary><b>2001-2002 · PowderDB</b> · SEO optimization software in PHP</summary><br>
 
-- User-facing Django application with admin interface
-- combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
--  combine and reuse content blocks, manage site map, page titles and other content
+- ~400K pages indexed per site, ~1000x average traffic boost
 
 ---
 </details>
