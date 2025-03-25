@@ -33,9 +33,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 ---
 </details>
 
-2022-pres · **Svija Vibe** · *SVG animation in Javascript*
-<details><summary> Web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention</summary>
-<br>
+<details><summary><b>2022-present · Svija Vibe</b> · web animation program enabling rich, immersive SVG animation simply via an Adobe Illustrator naming convention</summary><br>
 
 - User-facing Django application with admin interface
 - combine SVG files, wrap them in HTML to publish immersive web content based on files exported from Adobe Illustrator
