@@ -122,35 +122,7 @@ I'm always open to interesting work as a developer: andy⛭svija.com
 - print design 
 - branding
 
-*— 1995-2004: Andrew Swift Communications · 2004-2014: Anays inc · 2014-2019: Ozake Communications —*
-
-</details>
-
-<details><summary><b>11.1990-03.1995 · Boulder Daily Camera</b> · daily newspaper · Boulder CO, US</summary><br>
-
-- advertising designer
-- graphic design and paste up
-- Quark Xpress & Photoshop
-- management of transition from dedicated typesetting computers to desktop publishing on Mac
-- clients regularly requested that I be the one to design their ad
-- exceptionally effective advertising
-
-</details>
-
-<details><summary><b>02.1990-09.1990 · The Colorado Daily</b> · weekly newspaper · Boulder CO, US</summary><br>
-
-- advertising designer
-- Quark Xpress and Photoshop on Mac
-- exceptionally effective advertising
-- clients regularly requested that I be the one to design their ad
-
-</details>
-
-<details><summary><b>07.1987-08.1989 · Whole Food Co.</b> · organic supermarket chain · New Orleans, Louisianne · E.U.</summary><br>
-
-- fruits and vegetables department, assistant manager
-- management training
-- 5x profit increase in two years
+* 1995-2004: Andrew Swift Communications · 2004-2014: Anays inc · 2014-2019: Ozake Communications *
 
 </details>
 
