@@ -3,7 +3,7 @@
 
 Double nationalité : américaine et britannique · Langues : Anglais (natif), Français (courant)
 
-Ouvert aux opportunités intéressantes : andy⛭svija.com  
+06 18 26 09 61 · andy⛭svija.com · 11 av du Petit Prince, 31400 Toulouse
 
 ---  
 ### 🌀 APERÇU
@@ -17,8 +17,8 @@ Langages et Environnements :
 
 - **Langages de programmation** : Django, Python, PostgreSQL, MySQL, PHP, JavaScript, HTML, CSS, SVG
 - **Environnements** : Ubuntu, NginX, Apache, Shell, Git, Xcode
-- **WordPress** : Création et maintenance de sites web, développement de thèmes, utilisation d'Elementor
-- **Graphisme** : Animation SVG, développement de scripts/plugins Adobe, GSAP, Stable Diffusion, A1111
+- **WordPress** : Déploiment et maintenance, développement de thèmes, utilisation d'Elementor
+- **Graphisme** : Animation SVG, développement de scripts/plugins Adobe, GSAP, Stable Diffusion
 
 ---  
 ### 🌀 PROJETS INFORMATIQUES
