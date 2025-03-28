@@ -25,15 +25,17 @@ Langages et Environnements :
 
 **2020-présent · Svija Cloud** · Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web  
 
+J'ai fait un truc énorme : j'ai développé seul une application complèxe qui servait les sites web et via une interface admin permettait à nos clients de paramètre tous aspects de leur site
+
 - **Développement d'une application web Django** permettant de publier des fichiers SVG d'Adobe Illustrator sous forme de contenu web interactif  
 - **Architecture multi-instance** – une instance dédiée par client pour gérer l’organisation du site, les titres de pages, le SEO et la gestion des scripts  
 - **Interface d’administration intuitive** – amélioration de l’admin Django pour permettre aux utilisateurs de gérer leurs fichiers Illustrator, médias et scripts intégrés  
 - **Fonctionnalités de gestion de contenu** – réutilisation de blocs de contenu, intégration d'animations interactives (Svija Vibe) et intégration de vidéos YouTube
 
 ---  
-  
-
 **2021-présent · Svija Tools** · Plugin Adobe Illustrator en JavaScript/AJAX  
+
+J'ai fait un truc énorme : J'ai pu exploiter les subtilités de programmation Extendscript pour rendre Illustrator (une application intimidante) beaucoup plus accueilaant et facile à utiliser pour nos clients.
 
 - **Développement d’un plugin Adobe Illustrator** en JavaScript, utilisant AJAX pour la mise à jour dynamique des fonctionnalités  
 - **Exportation SVG & Gestion de site** – permet d’enregistrer du contenu web sous forme de fichiers SVG et de gérer une copie locale du site  
@@ -42,6 +44,8 @@ Langages et Environnements :
 
 ---  
 **2022-présent · Svija Vibe** · Bibliothèque JavaScript pour l'animation SVG  
+
+J'ai fait un truc énorme : 
 
 - **Développement de Svija Vibe** – outil d’animation permettant de créer des animations SVG complexes via un système de nommage dans Adobe Illustrator  
 - **Animation basée sur GSAP** – utilise la bibliothèque GSAP pour créer des animations web fluides et légères  
@@ -53,6 +57,8 @@ Langages et Environnements :
 
 **2021-2023 · Svija Sync** · Application macOS en Swift (modifications & soumission à l'App Store)  
 
+J'ai fait un truc énorme : 
+
 - **Amélioration de Svija Sync** – modifications approfondies d’une application macOS en Swift (initialement développée par un sous-traitant)  
 - **Synchronisation automatique des sites web** – un dæmon RSYNC s'exécute toutes les trois secondes pour synchroniser les versions locale et distante  
 - **Gestion multi-sites** – permet de gérer jusqu’à 100 sites web avec un accès rapide aux fichiers locaux et aux pages admin de Svija Cloud  
@@ -62,6 +68,8 @@ Langages et Environnements :
   
 
 **2007-2012 · euro4x4parts.com** · Site e-commerce multilingue basé sur PHP/MySQL
+
+J'ai fait un truc énorme : 
 
 Développement et maintenance d'un site e-commerce spécialisé dans la vente de pièces détachées automobiles
 
@@ -73,6 +81,8 @@ Développement et maintenance d'un site e-commerce spécialisé dans la vente de
 ---
 **2004-2010 · school-directory.net** · Site de génération de leads basé sur PHP/MySQL  
 
+J'ai fait un truc énorme : 
+
 - Développement et maintenance de un site de génération de leads basé sur PHP et MySQL  
 - Contribution à la rentabilité du site, générant **16–20K$ par mois**, menant à son **acquisition pour 1,5M$ par QuinStreet en 2010**  
 - **Gestion de tous les aspects techniques**, incluant le développement backend, l’administration de bases de données et le SEO  
@@ -80,6 +90,8 @@ Développement et maintenance d'un site e-commerce spécialisé dans la vente de
 
 ---  
 **2002-2006 · Anays** · Sites Flash indexables et faciles à maintenir en PHP  
+
+J'ai fait un truc énorme : 
 
 - **Développement d’un système modulaire** permettant d’indexer les sites Flash dans les moteurs de recherche et de simplifier leur mise à jour  
 - **Backend en PHP** et moteur Flash lisant dynamiquement le contenu à partir d’une page HTML  
@@ -90,6 +102,8 @@ Développement et maintenance d'un site e-commerce spécialisé dans la vente de
   
 
 **2001-2002 · PowderDB** · Application d’optimisation SEO en PHP  
+
+J'ai fait un truc énorme : 
 
 - Développement de **PowderDB**, logiciel d’optimisation SEO en **PHP** pour améliorer la visibilité et l’indexation des sites web  
 - Génération d’environ **400 000 pages indexées par site**, améliorant considérablement le référencement  
