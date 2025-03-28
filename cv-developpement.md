@@ -1,7 +1,7 @@
 
 ## Andrew Swift · Toulouse, France  
 
-Double nationalité : américaine et britannique · Langues : Anglais (natif), Français (courant)
+Double nationalité : américaine et britannique · Anglais (natif) · Français (courant)
 
 06 18 26 09 61 · andy⛭svija.com · 11 av du Petit Prince, 31400 Toulouse
 
@@ -25,9 +25,8 @@ Langages et Environnements :
 
 **2020-présent · Svija Cloud** · Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web  
 
-J'ai fait un truc énorme : j'ai développé seul une application complèxe qui modifiait des fichiers SVG et en faisait des sites web, avec une interface admin permettant à nos clients de paramètre tous aspects de leur site. Avec la possibilité de déployer rapidement des sites, de faire des mises à jour etc.
+J'ai développé seul une application website builder qui transformait des fichiers SVG en sites web complets, avec une interface admin permettant de paramètre tous les aspects de leur site
 
-- **Développement d'une application web Django** permettant de publier des fichiers SVG d'Adobe Illustrator sous forme de contenu web interactif  
 - **Architecture multi-instance** – une instance dédiée par client pour gérer l’organisation du site, les titres de pages, le SEO et la gestion des scripts  
 - **Interface d’administration intuitive** – amélioration de l’admin Django pour permettre aux utilisateurs de gérer leurs fichiers Illustrator, médias et scripts intégrés  
 - **Fonctionnalités de gestion de contenu** – réutilisation de blocs de contenu, intégration d'animations interactives (Svija Vibe) et intégration de vidéos YouTube
@@ -35,9 +34,8 @@ J'ai fait un truc énorme : j'ai développé seul une application complèxe qui 
 ---  
 **2021-présent · Svija Tools** · Plugin Adobe Illustrator en JavaScript/AJAX  
 
-J'ai fait un truc énorme : J'ai pu exploiter les subtilités de programmation Extendscript pour radicalmeent faciliter la créationj de pages SVG dans Illsutraotr, avec plusieurs functionnements supplémentaires pour améliorer l'expérience de nos clients
+J'ai pu exploiter les subtilités de programmation Extendscript pour radicalement faciliter la création de contenus SVG dans Illustrator, avec plusieurs functionnements supplémentaires pour améliorer l'expérience de nos clients
 
-- **Développement d’un plugin Adobe Illustrator** en JavaScript, utilisant AJAX pour la mise à jour dynamique des fonctionnalités  
 - **Exportation SVG & Gestion de site** – permet d’enregistrer du contenu web sous forme de fichiers SVG et de gérer une copie locale du site  
 - **Harmonisation et vérification de contenu** – outils de synchronisation du contenu sur plusieurs pages et détection d'erreurs (images manquantes, techniques non prises en charge)  
 - **Améliorations UX** – raccourcis vers les fichiers sources et accès rapide aux opérations fréquentes  
@@ -45,22 +43,18 @@ J'ai fait un truc énorme : J'ai pu exploiter les subtilités de programmation E
 ---  
 **2022-présent · Svija Vibe** · Bibliothèque JavaScript pour l'animation SVG  
 
-J'ai fait un truc énorme : j'ai pu exploiter toute la puissance de la library Javascript GSAP en interpretant les noms des objets Illustrator, ainsi permettant à des novices de graphisme de faire des animations SVG très élaborées
+J'ai exploité la puissance de la library Javascript GSAP en la connectant avec des objets Illustrator, ainsi permettant à des novices de graphisme de faire des animations SVG très élaborées
 
-- **Développement de Svija Vibe** – outil d’animation permettant de créer des animations SVG complexes via un système de nommage dans Adobe Illustrator  
 - **Animation basée sur GSAP** – utilise la bibliothèque GSAP pour créer des animations web fluides et légères  
 - **Système d’événements et de déclencheurs** – l’interaction avec un objet déclenche la transformation d’un autre objet ou groupe d’objets  
 - **Animation sans code** – permet aux designers de créer des animations interactives directement dans Illustrator, simplifiant radicalement la production  
 
 ---  
-  
-
 **2021-2023 · Svija Sync** · Application macOS en Swift (modifications & soumission à l'App Store)  
 
-J'ai fait un truc énorme : ou normalemnet on se serviriat de FTP, j'ai opté pour Rsync pour synchorniser nos sites. Rapide et leger, cette application rend transparent la synchronisation d'un dossier local avec le dossier distant, ainsi permettant à l'utilisateur de se concrntrer sur la conception des contenus d'une richeesse inouïe
+J'ai éliminé toute la complexité des solutions courantes FTP en optant d'intégrer Rsync dans une application macOS. Rapide et leger, l'application rend transparent la synchronisation d'un dossier local avec le dossier distant, ainsi permettant à l'utilisateur de se concentrer sur la conception des contenus
 
 - **Amélioration de Svija Sync** – modifications approfondies d’une application macOS en Swift (initialement développée par un sous-traitant)  
-- **Synchronisation automatique des sites web** – un dæmon RSYNC s'exécute toutes les trois secondes pour synchroniser les versions locale et distante  
 - **Gestion multi-sites** – permet de gérer jusqu’à 100 sites web avec un accès rapide aux fichiers locaux et aux pages admin de Svija Cloud  
 - **Soumission à l’App Store** – gestion du processus de publication sur le Mac App Store  
 
@@ -69,21 +63,17 @@ J'ai fait un truc énorme : ou normalemnet on se serviriat de FTP, j'ai opté po
 
 **2007-2012 · euro4x4parts.com** · Site e-commerce multilingue basé sur PHP/MySQL
 
-J'ai fait un truc énorme : j'ai transformé l'entreprise qui avait un vieux system ASP avec quelques dizaines de pages référencées en français à une entreprise moderne avec un site ultra moderne avec 30 000 références, toutes bien référnecées dans trois langues
-
-Développement et maintenance d'un site e-commerce spécialisé dans la vente de pièces détachées automobiles
+J'ai transformé un vieux system ASP avec quelques dizaines de pages référencées en français à un site moderne avec 30 000 références, toutes bien référencées dans trois langues, dépassant largément les attentes du client
 
 - Augmentation significative du nombre de pages référencées (~1000x) grâce à une gestion SEO en trois langues
 - Création d'un programme PHP sur mesure pour gérer efficacement plus de 30 000 références
-- Centralisation des informations produits dans trois langues
 - Gestion du SEO, de l'inventaire et des mises à jour depuis une interface unique
 
 ---
 **2004-2010 · school-directory.net** · Site de génération de leads basé sur PHP/MySQL  
 
-J'ai fait un truc énorme : j'ai créé seul un site de génération de leads ultra rentable menant a une acquistion pour 1,5M$
+j'ai créé seul un site de génération de leads ultra-rentable menant a une acquistion pour 1,5M$
 
-- Développement et maintenance de un site de génération de leads basé sur PHP et MySQL  
 - Contribution à la rentabilité du site, générant **16–20K$ par mois**, menant à son **acquisition pour 1,5M$ par QuinStreet en 2010**  
 - **Gestion de tous les aspects techniques**, incluant le développement backend, l’administration de bases de données et le SEO  
 - Conception d’un **système de recherche dynamique** permettant aux utilisateurs de filtrer les écoles selon plusieurs critères  
@@ -91,11 +81,10 @@ J'ai fait un truc énorme : j'ai créé seul un site de génération de leads ul
 ---  
 **2002-2006 · Anays** · Sites Flash indexables et faciles à maintenir en PHP  
 
-J'ai fait un truc énorme : j'ai pu combler les deux grandes lacunes de Flash, invisibilité aux moteurs de recheche et nécessité de maintenir le site dcans un logiciel specialisé, et rendre l'entretien de sites flash bien référencées dans un éditeur de texte.
+J'ai pu combler les deux grandes lacunes de Flash (invisibilité SEO et nécessité d'un logiciel propriétaire) et rendre l'entretien de sites flash bien référencées possible dans un éditeur de texte
 
 - **Développement d’un système modulaire** permettant d’indexer les sites Flash dans les moteurs de recherche et de simplifier leur mise à jour  
 - **Backend en PHP** et moteur Flash lisant dynamiquement le contenu à partir d’une page HTML  
-- Résolution d’un problème clé de SEO en **rendant le contenu Flash indexable par Google**  
 - **Gestion de contenu basée sur des fichiers texte**, supprimant le besoin de logiciels propriétaires pour les mises à jour  
 
 ---  
@@ -103,40 +92,34 @@ J'ai fait un truc énorme : j'ai pu combler les deux grandes lacunes de Flash, i
 
 **2001-2002 · PowderDB** · Application d’optimisation SEO en PHP  
 
-J'ai fait un truc énorme : en combinant plusieurs sources de textes et d'imagerie, j'ai pu créer des résultats SEO inouïs via des centaines de milliers de pages fantômes
+En combinant plusieurs sources de textes et d'imagerie, j'ai pu créer des résultats SEO incroyables par le biais des centaines de milliers de pages fantômes
 
-- Développement de **PowderDB**, logiciel d’optimisation SEO en **PHP** pour améliorer la visibilité et l’indexation des sites web  
 - Génération d’environ **400 000 pages indexées par site**, améliorant considérablement le référencement  
 - **Augmentation du trafic x1000** en optimisant la structure du contenu et la pertinence des mots-clés  
 - Génération de **contenu réaliste**, avec une **densité de mots-clés configurable**, des images pertinentes et un balisage HTML optimisé pour le SEO  
 
-  
+---
 
-
----  
 ### 🌀 EXPÉRIENCE PROFESSIONNELLE
 
 **09.2019-présent · Svija SAS** · Startup SaaS, Toulouse FR · <a href=https://svija.com>svija.com</a>  
 
-Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svija
+J'ai géré les quatre projets informatiques mentionnés ci-dessus pour fournir une solution harmonieuse et bien fonctionnant pour nos clients, en allant du fonctionnement à la conception UX/UI
 
 - **Fondateur & Développeur principal** de **Svija**, une plateforme SaaS permettant de créer des sites web **à partir de fichiers SVG Adobe Illustrator**  
-- Développement et maintenance de **trois logiciels décrits ci-dessus**, incluant un **serveur web Django**, une **bibliothèque d’animation SVG en JavaScript**, et un **plugin Illustrator**  
-- Supervision du développement d’une **application macOS**, modifications avancées sous Xcode et soumission à l’App Store  
-- Création et gestion de **trois sites WordPress personnalisés**, conception UX/UI et production de **contenus marketing** (pitch decks, vidéos, images et publications sur les réseaux sociaux)  
+- Responsable de gestion de projets informatiques, publicitaires et levée de fonds
+- Création et gestion de **trois sites WordPress personnalisés**
+- Production de **contenus marketing** (pitch decks, vidéos, images et publications sur les réseaux sociaux)  
 
 ---  
-  
-
 **03.1995-09.2019 · Développeur & Designer** · Indépendant, Toulouse FR · <a href=https://ozake.com>ozake.com</a>  
+
+J'ai lancé des dizaines de sites web en plusieurs langues, en faisant du développement full-stack et faisant la conception graphique en même temps
 
 - **Développement web full-stack** en PHP, ASP, Cold Fusion et Perl  
 - **Identité visuelle, stratégie publicitaire, design print**  
 
-*1995-2003: Andrew Swift Communications / 2004-2014: Anaÿs Inc / 2014-2019: Ozaké Communication*  
-
-  
-
+*1995-2003 : Andrew Swift Communications / 2004-2014 : Anaÿs Inc / 2014-2019 : Ozaké Communication*  
 
 ---  
 ### 🌀 FORMATION  
@@ -154,7 +137,7 @@ Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svi
 - National Merit Scholar  
 
 ---  
-### 🌀 CENTRES D’INTÉRÊT  
+### 🌀 CENTRES D’INTÉRÊT
 
 - Exploration des nouvelles formes d'art numérique avec Stable Diffusion
 - Musique funk et rock (guitare et basse électriques)
