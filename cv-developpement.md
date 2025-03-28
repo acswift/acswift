@@ -16,7 +16,7 @@ Ouvert aux opportunités intéressantes : andy⛭svija.com
 Langages et Environnements :
 
 - **Langages de programmation** : Django, Python, PostgreSQL, MySQL, PHP, JavaScript, HTML, CSS, SVG
-- **Environnements** : Ubuntu, NginX, Apache, Git, Bash, Xcode
+- **Environnements** : Ubuntu, NginX, Apache, Shell, Git, Xcode
 - **WordPress** : Création et maintenance de sites web, développement de thèmes, utilisation d'Elementor
 - **Graphisme** : Animation SVG, développement de scripts/plugins Adobe, GSAP, Stable Diffusion, A1111
 
@@ -121,18 +121,11 @@ Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svi
 ---  
 ### 🌀 FORMATION  
 
-# Les startups apprécient l'originalité et les compétences humaines : ajoute une phrase pour expliquer l'impact ou la pertinence de tes études artistiques ou bouddhistes sur ton approche professionnelle.
-
-- **1998-2000 Boulder School of Fine Arts** · Boulder CO, EU · études de figure au crayon  
-    Ces études m'ont appris l'importance d'un long travail de perfectionnement pour avoir un résultat satisfaisant
-- **1998-1991 The Naropa Institute** · Boulder CO, EU · études bouddhistes  
-    sous-description
-- **1985-1987 Swarthmore College** · Swarthmore PA, EU · Licence  
-    sous-description
-- **1984-1985 Duke University** · Durham NC, EU · informatique  
-    sous-description
-- **1983 University of Massachusetts** · Amherst MA, EU · informatique  
-    sous-description
+- **1998-2000 Boulder School of Fine Arts** · Boulder CO, EU · études de figure au crayon
+- **1998-1991 The Naropa Institute** · Boulder CO, EU · études bouddhistes
+- **1985-1987 Swarthmore College** · Swarthmore PA, EU · Licence en philosophie
+- **1984-1985 Duke University** · Durham NC, EU · informatique
+- **1983 University of Massachusetts** · Amherst MA, EU · informatique
 
 ---  
 ### 🌀 DISTINCTIONS  
