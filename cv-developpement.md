@@ -23,7 +23,7 @@ Langages et Environnements :
 ---  
 ### 🌀 PROJETS INFORMATIQUES
 
-<b>2020-présent · Svija Cloud</b> · Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web<br>  
+**2020-présent · Svija Cloud** · Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web  
 
 - **Développement d'une application web Django** permettant de publier des fichiers SVG d'Adobe Illustrator sous forme de contenu web interactif  
 - **Architecture multi-instance** – une instance dédiée par client pour gérer l’organisation du site, les titres de pages, le SEO et la gestion des scripts  
@@ -33,7 +33,7 @@ Langages et Environnements :
 ---  
   
 
-<b>2021-présent · Svija Tools</b> · Plugin Adobe Illustrator en JavaScript/AJAX<br>  
+**2021-présent · Svija Tools** · Plugin Adobe Illustrator en JavaScript/AJAX  
 
 - **Développement d’un plugin Adobe Illustrator** en JavaScript, utilisant AJAX pour la mise à jour dynamique des fonctionnalités  
 - **Exportation SVG & Gestion de site** – permet d’enregistrer du contenu web sous forme de fichiers SVG et de gérer une copie locale du site  
@@ -41,9 +41,8 @@ Langages et Environnements :
 - **Améliorations UX** – raccourcis vers les fichiers sources et accès rapide aux opérations fréquentes  
 
 ---  
-  
 
-<b>2022-présent · Svija Vibe</b> · Bibliothèque JavaScript pour l'animation SVG<br>  
+**2022-présent · Svija Vibe** · Bibliothèque JavaScript pour l'animation SVG  
 
 - **Développement de Svija Vibe** – outil d’animation permettant de créer des animations SVG complexes via un système de nommage dans Adobe Illustrator  
 - **Animation basée sur GSAP** – utilise la bibliothèque GSAP pour créer des animations web fluides et légères  
@@ -53,7 +52,7 @@ Langages et Environnements :
 ---  
   
 
-<b>2021-2023 · Svija Sync</b> · Application macOS en Swift (modifications & soumission à l'App Store)<br>  
+**2021-2023 · Svija Sync** · Application macOS en Swift (modifications & soumission à l'App Store)  
 
 - **Amélioration de Svija Sync** – modifications approfondies d’une application macOS en Swift (initialement développée par un sous-traitant)  
 - **Synchronisation automatique des sites web** – un dæmon RSYNC s'exécute toutes les trois secondes pour synchroniser les versions locale et distante  
@@ -63,18 +62,18 @@ Langages et Environnements :
 ---  
   
 
-<b>2007-2012 · euro4x4parts.com</b> · Site multi-langue ecommerce basé sur PHP/MySQL<br>  
+**2007-2012 · euro4x4parts.com** · Site e-commerce multilingue basé sur PHP/MySQL
 
-- Développement et maintenance d'un site ecommerce vendant des pièces détaches d'automobile
-- Augmentation du nombre de pages référencées ~1000x
-- Gestion de SEO en trois langues
-- Développpemnt du thème
-- programme PHP custom pour gérer de manière efficace un stock de plus de trente mille références
-- toutes informations renseignées dans trois langues
-- le programme PHP gérait le site, le SEO et le stock/inventaire
+Développement et maintenance d'un site e-commerce spécialisé dans la vente de pièces détachées automobiles.  
+Augmentation significative du nombre de pages référencées (~1000x) grâce à une gestion SEO en trois langues.
+
+- Développement du thème du site et des interfaces utilisateur
+- Création d'un programme PHP sur mesure pour gérer efficacement plus de 30 000 références
+- Centralisation des informations produits dans trois langues
+- Gestion du SEO, de l'inventaire et des mises à jour depuis une interface unique
 
 ---
-<b>2004-2010 · school-directory.net</b> · Site de génération de leads basé sur PHP/MySQL<br>  
+**2004-2010 · school-directory.net** · Site de génération de leads basé sur PHP/MySQL  
 
 - Développement et maintenance de un site de génération de leads basé sur PHP et MySQL  
 - Contribution à la rentabilité du site, générant **16–20K$ par mois**, menant à son **acquisition pour 1,5M$ par QuinStreet en 2010**  
@@ -82,9 +81,7 @@ Langages et Environnements :
 - Conception d’un **système de recherche dynamique** permettant aux utilisateurs de filtrer les écoles selon plusieurs critères  
 
 ---  
-  
-
-<b>2002-2006 · Anays</b> · Sites Flash indexables et faciles à maintenir en PHP<br>  
+**2002-2006 · Anays** · Sites Flash indexables et faciles à maintenir en PHP  
 
 - **Développement d’un système modulaire** permettant d’indexer les sites Flash dans les moteurs de recherche et de simplifier leur mise à jour  
 - **Backend en PHP** et moteur Flash lisant dynamiquement le contenu à partir d’une page HTML  
@@ -94,7 +91,7 @@ Langages et Environnements :
 ---  
   
 
-<b>2001-2002 · PowderDB</b> · Application d’optimisation SEO en PHP<br>  
+**2001-2002 · PowderDB** · Application d’optimisation SEO en PHP  
 
 - Développement de **PowderDB**, logiciel d’optimisation SEO en **PHP** pour améliorer la visibilité et l’indexation des sites web  
 - Génération d’environ **400 000 pages indexées par site**, améliorant considérablement le référencement  
@@ -107,7 +104,7 @@ Langages et Environnements :
 ---  
 ### 🌀 EXPÉRIENCE PROFESSIONNELLE
 
-<b>09.2019-présent · Svija SAS</b> · Startup SaaS, Toulouse FR · <a href=https://svija.com>svija.com</a><br>  
+**09.2019-présent · Svija SAS** · Startup SaaS, Toulouse FR · <a href=https://svija.com>svija.com</a>  
 
 Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svija.
 
@@ -119,7 +116,7 @@ Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svi
 ---  
   
 
-<b>03.1995-09.2019 · Développeur & Designer</b> · Indépendant, Toulouse FR · <a href=https://ozake.com>ozake.com</a><br>  
+**03.1995-09.2019 · Développeur & Designer** · Indépendant, Toulouse FR · <a href=https://ozake.com>ozake.com</a>  
 
 - **Développement web full-stack** en PHP, ASP, Cold Fusion et Perl  
 - **Identité visuelle, stratégie publicitaire, design print**  
