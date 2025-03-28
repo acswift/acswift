@@ -46,7 +46,7 @@ J'ai exploité les subtilités de programmation d'Extendscript pour faciliter ra
 J'ai exploité la puissance de la bibliothèque JavaScript GSAP en la connectant à des objets Illustrator, permettant ainsi à des novices en graphisme de créer des animations SVG très élaborées
 
 - **Animation basée sur GSAP** – utilise la bibliothèque GSAP pour créer des animations web fluides et légères  
-- **Système d’événements et de déclencheurs** – l’interaction avec un objet déclenche la transformation d’un autre objet ou groupe d’objets  
+- **Système de déclencheurs et d’événements** – l’interaction avec un objet déclenche la transformation d’un autre objet ou groupe d’objets  
 - **Animation sans code** – permet aux designers de créer des animations interactives directement dans Illustrator, simplifiant radicalement la production  
 
 ---  
@@ -65,26 +65,26 @@ J'ai simplifié la synchronisation FTP en intégrant Rsync dans une application 
 
 J'ai transformé un ancien système ASP avec quelques dizaines de pages référencées en français à un site moderne avec 30 000 références, toutes bien référencées dans trois langues, dépassant largement les attentes du client
 
-- Augmentation significative du nombre de pages référencées (~1000x) grâce à une gestion SEO en trois langues
-- Création d'un programme PHP sur mesure pour gérer efficacement plus de 30 000 références
-- Gestion du SEO, de l'inventaire et des mises à jour depuis une interface unique
+- Augmentation significative du **nombre de pages référencées** (+1000x) grâce à une gestion SEO en trois langues
+- Création d'un **programme PHP sur mesure** pour gérer efficacement plus de 30 000 références
+- Gestion du **SEO**, de **l'inventaire** et des **mises à jour** depuis une interface unique
 
 ---
 **2004-2010 • school-directory.net** • Site de génération de leads basé sur PHP/MySQL  
 
-j'ai créé seul un site de génération de leads ultra-rentable menant a une acquistion pour 1,5M$
+J'ai créé seul un site de génération de leads ultra-rentable menant a une acquistion pour 1,5M$
 
 - Contribution à la rentabilité du site, générant **16–20K$ par mois**, menant à son **acquisition pour 1,5M$ par QuinStreet en 2010**  
 - **Gestion de tous les aspects techniques**, incluant le développement backend, l’administration de bases de données et le SEO  
 - Conception d’un **système de recherche dynamique** permettant aux utilisateurs de filtrer les écoles selon plusieurs critères  
 
 ---  
-**2002-2006 • Anays** • Sites Flash indexables et faciles à maintenir en PHP  
+**2002-2006 • Anaÿs** • Sites Flash indexables et faciles à maintenir en PHP  
 
 J'ai résolu les deux principales lacunes de Flash (invisibilité SEO et nécessité d'un logiciel propriétaire) et rendre l'entretien de sites flash bien référencés possible dans un éditeur de texte
 
 - **Développement d’un système modulaire** permettant d’indexer les sites Flash dans les moteurs de recherche et de simplifier leur mise à jour  
-- **Backend en PHP** et moteur Flash lisant dynamiquement le contenu à partir d’une page HTML  
+- **Backend en PHP et moteur Flash** lisant dynamiquement le contenu à partir d’une page HTML  
 - **Gestion de contenu basée sur des fichiers texte**, supprimant le besoin de logiciels propriétaires pour les mises à jour  
 
 ---  
@@ -95,8 +95,8 @@ J'ai résolu les deux principales lacunes de Flash (invisibilité SEO et nécess
 En combinant plusieurs sources de textes et d'imagerie, j'ai créé des résultats SEO incroyables par le biais des centaines de milliers de pages fantômes
 
 - Génération d’environ **400 000 pages indexées par site**, améliorant considérablement le référencement  
-- **Augmentation du trafic x1000** en optimisant la structure du contenu et la pertinence des mots-clés  
-- Génération de **contenu réaliste**, avec une **densité de mots-clés configurable**, des images pertinentes et un balisage HTML optimisé pour le SEO  
+- **Augmentation du trafic +1000x** en optimisant la structure du contenu et la pertinence des mots-clés  
+- Génération de **contenu réaliste**, avec une **densité de mots-clés configurable**, des **images pertinentes** et un **balisage HTML optimisé pour le SEO**  
 
 ---
 
@@ -107,7 +107,7 @@ En combinant plusieurs sources de textes et d'imagerie, j'ai créé des résulta
 J'ai géré les quatre projets informatiques mentionnés ci-dessus pour fournir une solution harmonieuse et bien fonctionnelle pour nos clients, en passant par le développement jusqu'à la conception UX/UI
 
 - **Fondateur & Développeur principal** de **Svija**, une plateforme SaaS permettant de créer des sites web **à partir de fichiers SVG Adobe Illustrator**  
-- Responsable de gestion de projets informatiques, publicitaires et levée de fonds
+- Responsable de gestion de projets **informatiques**, **publicitaires** et **levée de fonds**
 - Conception et gestion de **trois sites WordPress personnalisés**
 - Production de **contenus marketing** (pitch decks, vidéos, images et publications sur les réseaux sociaux)  
 
