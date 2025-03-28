@@ -25,7 +25,7 @@ Langages et Environnements :
 
 **2020-présent · Svija Cloud** · Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web  
 
-J'ai fait un truc énorme : j'ai développé seul une application complèxe qui servait les sites web et via une interface admin permettait à nos clients de paramètre tous aspects de leur site
+J'ai fait un truc énorme : j'ai développé seul une application complèxe qui modifiait des fichiers SVG et en faisait des sites web, avec une interface admin permettant à nos clients de paramètre tous aspects de leur site. Avec la possibilité de déployer rapidement des sites, de faire des mises à jour etc.
 
 - **Développement d'une application web Django** permettant de publier des fichiers SVG d'Adobe Illustrator sous forme de contenu web interactif  
 - **Architecture multi-instance** – une instance dédiée par client pour gérer l’organisation du site, les titres de pages, le SEO et la gestion des scripts  
@@ -35,7 +35,7 @@ J'ai fait un truc énorme : j'ai développé seul une application complèxe qui 
 ---  
 **2021-présent · Svija Tools** · Plugin Adobe Illustrator en JavaScript/AJAX  
 
-J'ai fait un truc énorme : J'ai pu exploiter les subtilités de programmation Extendscript pour rendre Illustrator (une application intimidante) beaucoup plus accueilaant et facile à utiliser pour nos clients.
+J'ai fait un truc énorme : J'ai pu exploiter les subtilités de programmation Extendscript pour radicalmeent faciliter la créationj de pages SVG dans Illsutraotr, avec plusieurs functionnements supplémentaires pour améliorer l'expérience de nos clients
 
 - **Développement d’un plugin Adobe Illustrator** en JavaScript, utilisant AJAX pour la mise à jour dynamique des fonctionnalités  
 - **Exportation SVG & Gestion de site** – permet d’enregistrer du contenu web sous forme de fichiers SVG et de gérer une copie locale du site  
@@ -45,7 +45,7 @@ J'ai fait un truc énorme : J'ai pu exploiter les subtilités de programmation E
 ---  
 **2022-présent · Svija Vibe** · Bibliothèque JavaScript pour l'animation SVG  
 
-J'ai fait un truc énorme : 
+J'ai fait un truc énorme : j'ai pu exploiter toute la puissance de la library Javascript GSAP en interpretant les noms des objets Illustrator, ainsi permettant à des novices de graphisme de faire des animations SVG très élaborées
 
 - **Développement de Svija Vibe** – outil d’animation permettant de créer des animations SVG complexes via un système de nommage dans Adobe Illustrator  
 - **Animation basée sur GSAP** – utilise la bibliothèque GSAP pour créer des animations web fluides et légères  
@@ -57,7 +57,7 @@ J'ai fait un truc énorme :
 
 **2021-2023 · Svija Sync** · Application macOS en Swift (modifications & soumission à l'App Store)  
 
-J'ai fait un truc énorme : 
+J'ai fait un truc énorme : ou normalemnet on se serviriat de FTP, j'ai opté pour Rsync pour synchorniser nos sites. Rapide et leger, cette application rend transparent la synchronisation d'un dossier local avec le dossier distant, ainsi permettant à l'utilisateur de se concrntrer sur la conception des contenus d'une richeesse inouïe
 
 - **Amélioration de Svija Sync** – modifications approfondies d’une application macOS en Swift (initialement développée par un sous-traitant)  
 - **Synchronisation automatique des sites web** – un dæmon RSYNC s'exécute toutes les trois secondes pour synchroniser les versions locale et distante  
@@ -69,7 +69,7 @@ J'ai fait un truc énorme :
 
 **2007-2012 · euro4x4parts.com** · Site e-commerce multilingue basé sur PHP/MySQL
 
-J'ai fait un truc énorme : 
+J'ai fait un truc énorme : j'ai transformé l'entreprise qui avait un vieux system ASP avec quelques dizaines de pages référencées en français à une entreprise moderne avec un site ultra moderne avec 30 000 références, toutes bien référnecées dans trois langues
 
 Développement et maintenance d'un site e-commerce spécialisé dans la vente de pièces détachées automobiles
 
@@ -81,7 +81,7 @@ Développement et maintenance d'un site e-commerce spécialisé dans la vente de
 ---
 **2004-2010 · school-directory.net** · Site de génération de leads basé sur PHP/MySQL  
 
-J'ai fait un truc énorme : 
+J'ai fait un truc énorme : j'ai créé seul un site de génération de leads ultra rentable menant a une acquistion pour 1,5M$
 
 - Développement et maintenance de un site de génération de leads basé sur PHP et MySQL  
 - Contribution à la rentabilité du site, générant **16–20K$ par mois**, menant à son **acquisition pour 1,5M$ par QuinStreet en 2010**  
@@ -91,7 +91,7 @@ J'ai fait un truc énorme :
 ---  
 **2002-2006 · Anays** · Sites Flash indexables et faciles à maintenir en PHP  
 
-J'ai fait un truc énorme : 
+J'ai fait un truc énorme : j'ai pu combler les deux grandes lacunes de Flash, invisibilité aux moteurs de recheche et nécessité de maintenir le site dcans un logiciel specialisé, et rendre l'entretien de sites flash bien référencées dans un éditeur de texte.
 
 - **Développement d’un système modulaire** permettant d’indexer les sites Flash dans les moteurs de recherche et de simplifier leur mise à jour  
 - **Backend en PHP** et moteur Flash lisant dynamiquement le contenu à partir d’une page HTML  
@@ -103,7 +103,7 @@ J'ai fait un truc énorme :
 
 **2001-2002 · PowderDB** · Application d’optimisation SEO en PHP  
 
-J'ai fait un truc énorme : 
+J'ai fait un truc énorme : en combinant plusieurs sources de textes et d'imagerie, j'ai pu créer des résultats SEO inouïs via des centaines de milliers de pages fantômes
 
 - Développement de **PowderDB**, logiciel d’optimisation SEO en **PHP** pour améliorer la visibilité et l’indexation des sites web  
 - Génération d’environ **400 000 pages indexées par site**, améliorant considérablement le référencement  
