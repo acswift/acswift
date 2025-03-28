@@ -25,7 +25,7 @@ Langages et Environnements :
 
 **2020-présent • Svija Cloud** • Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web  
 
-J'ai développé seul une application website builder qui transformait des fichiers SVG en sites web complets, avec une interface admin permettant de paramètre tous les aspects de leur site
+J'ai développé seul une application website builder qui transformait des fichiers SVG en sites web complets, avec une interface admin permettant de paramétrer tous les aspects de leur site
 
 - **Architecture multi-instance** – une instance dédiée par client pour gérer l’organisation du site, les titres de pages, le SEO et la gestion des scripts  
 - **Interface d’administration intuitive** – amélioration de l’admin Django pour permettre aux utilisateurs de gérer leurs fichiers Illustrator, médias et scripts intégrés  
@@ -34,7 +34,7 @@ J'ai développé seul une application website builder qui transformait des fichi
 ---  
 **2021-présent • Svija Tools** • Plugin Adobe Illustrator en JavaScript/AJAX  
 
-J'ai exploité les subtilités de programmation d'Extendscript pour faciliter radicalement la création de contenus SVG dans Illustrator, avec plusieurs functionnements supplémentaires pour améliorer l'expérience de nos clients
+J'ai exploité les subtilités de programmation d'Extendscript pour faciliter radicalement la création de contenus SVG dans Illustrator, avec plusieurs fonctionnalités supplémentaires pour améliorer l'expérience de nos clients
 
 - **Exportation SVG & Gestion de site** – permet d’enregistrer du contenu web sous forme de fichiers SVG et de gérer une copie locale du site  
 - **Harmonisation et vérification de contenu** – outils de synchronisation du contenu sur plusieurs pages et détection d'erreurs (images manquantes, techniques non prises en charge)  
@@ -43,7 +43,7 @@ J'ai exploité les subtilités de programmation d'Extendscript pour faciliter ra
 ---  
 **2022-présent • Svija Vibe** • Bibliothèque JavaScript pour l'animation SVG  
 
-J'ai exploité la puissance de la library Javascript GSAP en la connectant à des objets Illustrator, permettant ainsi à des novices en graphisme de créer des animations SVG très élaborées
+J'ai exploité la puissance de la bibliothèque JavaScript GSAP en la connectant à des objets Illustrator, permettant ainsi à des novices en graphisme de créer des animations SVG très élaborées
 
 - **Animation basée sur GSAP** – utilise la bibliothèque GSAP pour créer des animations web fluides et légères  
 - **Système d’événements et de déclencheurs** – l’interaction avec un objet déclenche la transformation d’un autre objet ou groupe d’objets  
@@ -52,9 +52,9 @@ J'ai exploité la puissance de la library Javascript GSAP en la connectant à de
 ---  
 **2021-2023 • Svija Sync** • Application macOS en Swift (modifications & soumission à l'App Store)  
 
-J'ai éliminé toute la complexité des solutions courantes FTP en optant d'intégrer Rsync dans une application macOS. Rapide et leger, l'application rend transparente la synchronisation d'un dossier local avec le dossier distant, ainsi permettant à l'utilisateur de se concentrer sur la conception des contenus
+J'ai simplifié la synchronisation FTP en intégrant Rsync dans une application macOS. Rapide et léger, l'application rend transparente la synchronisation d'un dossier local avec le dossier distant, ainsi permettant à l'utilisateur de se concentrer sur la conception des contenus
 
-- **Amélioration de Svija Sync** – modifications approfondies d’une application macOS en Swift (initialement développée par un sous-traitant)  
+- **L'amélioration de Svija Sync** – modifications approfondies d’une application macOS en Swift (initialement développée par un sous-traitant)  
 - **Gestion multi-sites** – permet de gérer jusqu’à 100 sites web avec un accès rapide aux fichiers locaux et aux pages admin de Svija Cloud  
 - **Soumission à l’App Store** – gestion du processus de publication sur le Mac App Store  
 
@@ -81,7 +81,7 @@ j'ai créé seul un site de génération de leads ultra-rentable menant a une ac
 ---  
 **2002-2006 • Anays** • Sites Flash indexables et faciles à maintenir en PHP  
 
-J'ai résolu les deux principales lacunes de Flash (invisibilité SEO et nécessité d'un logiciel propriétaire) et rendre l'entretien de sites flash bien référencées possible dans un éditeur de texte
+J'ai résolu les deux principales lacunes de Flash (invisibilité SEO et nécessité d'un logiciel propriétaire) et rendre l'entretien de sites flash bien référencés possible dans un éditeur de texte
 
 - **Développement d’un système modulaire** permettant d’indexer les sites Flash dans les moteurs de recherche et de simplifier leur mise à jour  
 - **Backend en PHP** et moteur Flash lisant dynamiquement le contenu à partir d’une page HTML  
@@ -104,11 +104,11 @@ En combinant plusieurs sources de textes et d'imagerie, j'ai créé des résulta
 
 **09.2019-présent • Svija SAS** • Startup SaaS, Toulouse FR • <a href=https://svija.com>svija.com</a>  
 
-J'ai géré les quatre projets informatiques mentionnés ci-dessus pour fournir une solution harmonieuse et bien fonctionnant pour nos clients, en passant par le développement jusqu'à la conception UX/UI
+J'ai géré les quatre projets informatiques mentionnés ci-dessus pour fournir une solution harmonieuse et bien fonctionnelle pour nos clients, en passant par le développement jusqu'à la conception UX/UI
 
 - **Fondateur & Développeur principal** de **Svija**, une plateforme SaaS permettant de créer des sites web **à partir de fichiers SVG Adobe Illustrator**  
 - Responsable de gestion de projets informatiques, publicitaires et levée de fonds
-- Création et gestion de **trois sites WordPress personnalisés**
+- Conception et gestion de **trois sites WordPress personnalisés**
 - Production de **contenus marketing** (pitch decks, vidéos, images et publications sur les réseaux sociaux)  
 
 ---  
@@ -124,8 +124,8 @@ J'ai lancé des dizaines de sites web en plusieurs langues, en réalisant à la 
 ---  
 ### 🌀 FORMATION  
 
-- **1998-2000 Boulder School of Fine Arts** • Boulder CO, EU • études de figure au crayon
-- **1998-1991 The Naropa Institute** • Boulder CO, EU • études bouddhistes
+- **1998-2000 Boulder School of Fine Arts** • Boulder CO, EU • études de figure
+- **1998-1991 The Naropa Institute** • Boulder CO, EU • études de bouddhisme
 - **1985-1987 Swarthmore College** • Swarthmore PA, EU • Licence en philosophie
 - **1984-1985 Duke University** • Durham NC, EU • informatique
 - **1983 University of Massachusetts** • Amherst MA, EU • informatique
