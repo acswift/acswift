@@ -41,7 +41,6 @@ Langages et Environnements :
 - **Améliorations UX** – raccourcis vers les fichiers sources et accès rapide aux opérations fréquentes  
 
 ---  
-
 **2022-présent · Svija Vibe** · Bibliothèque JavaScript pour l'animation SVG  
 
 - **Développement de Svija Vibe** – outil d’animation permettant de créer des animations SVG complexes via un système de nommage dans Adobe Illustrator  
@@ -64,10 +63,9 @@ Langages et Environnements :
 
 **2007-2012 · euro4x4parts.com** · Site e-commerce multilingue basé sur PHP/MySQL
 
-Développement et maintenance d'un site e-commerce spécialisé dans la vente de pièces détachées automobiles.  
-Augmentation significative du nombre de pages référencées (~1000x) grâce à une gestion SEO en trois langues.
+Développement et maintenance d'un site e-commerce spécialisé dans la vente de pièces détachées automobiles
 
-- Développement du thème du site et des interfaces utilisateur
+- Augmentation significative du nombre de pages référencées (~1000x) grâce à une gestion SEO en trois langues
 - Création d'un programme PHP sur mesure pour gérer efficacement plus de 30 000 références
 - Centralisation des informations produits dans trois langues
 - Gestion du SEO, de l'inventaire et des mises à jour depuis une interface unique
@@ -106,7 +104,7 @@ Augmentation significative du nombre de pages référencées (~1000x) grâce à 
 
 **09.2019-présent · Svija SAS** · Startup SaaS, Toulouse FR · <a href=https://svija.com>svija.com</a>  
 
-Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svija.
+Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svija
 
 - **Fondateur & Développeur principal** de **Svija**, une plateforme SaaS permettant de créer des sites web **à partir de fichiers SVG Adobe Illustrator**  
 - Développement et maintenance de **trois logiciels décrits ci-dessus**, incluant un **serveur web Django**, une **bibliothèque d’animation SVG en JavaScript**, et un **plugin Illustrator**  
@@ -146,28 +144,4 @@ Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svi
 
 - Exploration des nouvelles formes d'art numérique avec Stable Diffusion
 - Musique funk et rock (guitare et basse électriques)
-
-
-:::::::::::::::::::::::::::::::::::::::: CHATGPT
-
-
-Section "PROJETS INFORMATIQUES" :
-
-Clarifie les titres pour un format uniforme (par exemple, "2020-présent · Svija Cloud" devrait inclure un sous-titre pour indiquer qu'il s'agit d'une application Django).
-
-Corrige l'incohérence dans la ponctuation (par exemple, certaines listes utilisent des tirets longs et d'autres des points).
-
-Section "EXPÉRIENCE PROFESSIONNELLE" :
-
-Clarifie le lien entre "Svija SAS" et les projets énumérés dans la section précédente.
-
-Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svija.
-
-3. Dynamiser le contenu
-
-Les startups apprécient les résultats concrets. Ajoute des chiffres ou des exemples d'impact, même approximatifs, pour illustrer ton efficacité ou ta productivité.
-
-Remplace les phrases passives par des formulations plus dynamiques :
-
-"Supervision du développement d’une application macOS" → "Supervision et coordination du développement d'une application macOS"
 
