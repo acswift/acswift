@@ -27,7 +27,7 @@ Langages et Environnements :
 - J'entretiens de bonnes relations avec mes collègues
 
 ---  
-**PROJETS INFORMATIQUES** *cliquez pour développer…*  
+**PROJETS INFORMATIQUES**  
 
 <b>2020-présent · Svija Cloud</b> · Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web<br>  
 
@@ -100,7 +100,7 @@ Langages et Environnements :
 
 
 ---  
-**EXPÉRIENCE PROFESSIONNELLE** *cliquez pour développer…*  
+**EXPÉRIENCE PROFESSIONNELLE**  
 
 <b>09.2019-présent · Svija SAS</b> · Startup SaaS, Toulouse FR · <a href=https://svija.com>svija.com</a><br>  
 
