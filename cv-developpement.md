@@ -9,9 +9,9 @@ Ouvert aux opportunités intéressantes : andy⛭svija.com
 ### 🌀 APERÇU
 <!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
-- Informatique à Duke University, développeur web depuis 1995  
-- Déploiement de dizaines de sites web, y compris des sites e-commerce et des plateformes dynamiques avec des fonctionnalités complexes  
-- Compétences en communication écrite en français et en anglais
+- Informatique à **Duke University**, développeur web depuis 1995  
+- Déploiement de **dizaines de sites web**, y compris des sites e-commerce et des plateformes dynamiques avec des fonctionnalités complexes  
+- Compétences en communication écrite en **français** et en **anglais**
 
 Langages et Environnements :
 
