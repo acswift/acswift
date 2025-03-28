@@ -119,7 +119,7 @@ J'ai lancé des dizaines de sites web en plusieurs langues, en réalisant à la 
 - **Développement web full-stack** en PHP, ASP, Cold Fusion et Perl  
 - **Identité visuelle, stratégie publicitaire, design print**  
 
-*1995-2003 : Andrew Swift Communications / 2004-2014 : Anaÿs Inc / 2014-2019 : Ozaké Communication*  
+*1995-2003 : Andrew Swift Communications • 2004-2014 : Anaÿs Inc • 2014-2019 : Ozaké Communication*  
 
 ---  
 ### 🌀 FORMATION  
