@@ -1,9 +1,9 @@
 
-## Andrew Swift · Toulouse, France  
+## Andrew Swift • Toulouse, France  
 
-Double nationalité : américaine et britannique · Anglais (natif) · Français (courant)
+Double nationalité : américaine et britannique • Anglais (natif) • Français (courant)
 
-06 18 26 09 61 · andy⛭svija.com · 11 av du Petit Prince, 31400 Toulouse
+andy⛭svija.com • 11 av du Petit Prince, 31400 Toulouse • 06 18 26 09 61
 
 ---  
 ### 🌀 APERÇU
@@ -23,7 +23,7 @@ Langages et Environnements :
 ---  
 ### 🌀 PROJETS INFORMATIQUES
 
-**2020-présent · Svija Cloud** · Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web  
+**2020-présent • Svija Cloud** • Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web  
 
 J'ai développé seul une application website builder qui transformait des fichiers SVG en sites web complets, avec une interface admin permettant de paramètre tous les aspects de leur site
 
@@ -32,7 +32,7 @@ J'ai développé seul une application website builder qui transformait des fichi
 - **Fonctionnalités de gestion de contenu** – réutilisation de blocs de contenu, intégration d'animations interactives (Svija Vibe) et intégration de vidéos YouTube
 
 ---  
-**2021-présent · Svija Tools** · Plugin Adobe Illustrator en JavaScript/AJAX  
+**2021-présent • Svija Tools** • Plugin Adobe Illustrator en JavaScript/AJAX  
 
 J'ai exploité les subtilités de programmation d'Extendscript pour faciliter radicalement la création de contenus SVG dans Illustrator, avec plusieurs functionnements supplémentaires pour améliorer l'expérience de nos clients
 
@@ -41,7 +41,7 @@ J'ai exploité les subtilités de programmation d'Extendscript pour faciliter ra
 - **Améliorations UX** – raccourcis vers les fichiers sources et accès rapide aux opérations fréquentes  
 
 ---  
-**2022-présent · Svija Vibe** · Bibliothèque JavaScript pour l'animation SVG  
+**2022-présent • Svija Vibe** • Bibliothèque JavaScript pour l'animation SVG  
 
 J'ai exploité la puissance de la library Javascript GSAP en la connectant à des objets Illustrator, permettant ainsi à des novices en graphisme de créer des animations SVG très élaborées
 
@@ -50,7 +50,7 @@ J'ai exploité la puissance de la library Javascript GSAP en la connectant à de
 - **Animation sans code** – permet aux designers de créer des animations interactives directement dans Illustrator, simplifiant radicalement la production  
 
 ---  
-**2021-2023 · Svija Sync** · Application macOS en Swift (modifications & soumission à l'App Store)  
+**2021-2023 • Svija Sync** • Application macOS en Swift (modifications & soumission à l'App Store)  
 
 J'ai éliminé toute la complexité des solutions courantes FTP en optant d'intégrer Rsync dans une application macOS. Rapide et leger, l'application rend transparente la synchronisation d'un dossier local avec le dossier distant, ainsi permettant à l'utilisateur de se concentrer sur la conception des contenus
 
@@ -61,7 +61,7 @@ J'ai éliminé toute la complexité des solutions courantes FTP en optant d'int�
 ---  
   
 
-**2007-2012 · euro4x4parts.com** · Site e-commerce multilingue basé sur PHP/MySQL
+**2007-2012 • euro4x4parts.com** • Site e-commerce multilingue basé sur PHP/MySQL
 
 J'ai transformé un ancien système ASP avec quelques dizaines de pages référencées en français à un site moderne avec 30 000 références, toutes bien référencées dans trois langues, dépassant largement les attentes du client
 
@@ -70,7 +70,7 @@ J'ai transformé un ancien système ASP avec quelques dizaines de pages référe
 - Gestion du SEO, de l'inventaire et des mises à jour depuis une interface unique
 
 ---
-**2004-2010 · school-directory.net** · Site de génération de leads basé sur PHP/MySQL  
+**2004-2010 • school-directory.net** • Site de génération de leads basé sur PHP/MySQL  
 
 j'ai créé seul un site de génération de leads ultra-rentable menant a une acquistion pour 1,5M$
 
@@ -79,7 +79,7 @@ j'ai créé seul un site de génération de leads ultra-rentable menant a une ac
 - Conception d’un **système de recherche dynamique** permettant aux utilisateurs de filtrer les écoles selon plusieurs critères  
 
 ---  
-**2002-2006 · Anays** · Sites Flash indexables et faciles à maintenir en PHP  
+**2002-2006 • Anays** • Sites Flash indexables et faciles à maintenir en PHP  
 
 J'ai résolu les deux principales lacunes de Flash (invisibilité SEO et nécessité d'un logiciel propriétaire) et rendre l'entretien de sites flash bien référencées possible dans un éditeur de texte
 
@@ -90,7 +90,7 @@ J'ai résolu les deux principales lacunes de Flash (invisibilité SEO et nécess
 ---  
   
 
-**2001-2002 · PowderDB** · Application d’optimisation SEO en PHP  
+**2001-2002 • PowderDB** • Application d’optimisation SEO en PHP  
 
 En combinant plusieurs sources de textes et d'imagerie, j'ai créé des résultats SEO incroyables par le biais des centaines de milliers de pages fantômes
 
@@ -102,7 +102,7 @@ En combinant plusieurs sources de textes et d'imagerie, j'ai créé des résulta
 
 ### 🌀 EXPÉRIENCE PROFESSIONNELLE
 
-**09.2019-présent · Svija SAS** · Startup SaaS, Toulouse FR · <a href=https://svija.com>svija.com</a>  
+**09.2019-présent • Svija SAS** • Startup SaaS, Toulouse FR • <a href=https://svija.com>svija.com</a>  
 
 J'ai géré les quatre projets informatiques mentionnés ci-dessus pour fournir une solution harmonieuse et bien fonctionnant pour nos clients, en passant par le développement jusqu'à la conception UX/UI
 
@@ -112,7 +112,7 @@ J'ai géré les quatre projets informatiques mentionnés ci-dessus pour fournir 
 - Production de **contenus marketing** (pitch decks, vidéos, images et publications sur les réseaux sociaux)  
 
 ---  
-**03.1995-09.2019 · Développeur & Designer** · Indépendant, Toulouse FR · <a href=https://ozake.com>ozake.com</a>  
+**03.1995-09.2019 • Développeur & Designer** • Indépendant, Toulouse FR • <a href=https://ozake.com>ozake.com</a>  
 
 J'ai lancé des dizaines de sites web en plusieurs langues, en réalisant à la fois le développement full-stack et la conception graphique
 
@@ -124,11 +124,11 @@ J'ai lancé des dizaines de sites web en plusieurs langues, en réalisant à la 
 ---  
 ### 🌀 FORMATION  
 
-- **1998-2000 Boulder School of Fine Arts** · Boulder CO, EU · études de figure au crayon
-- **1998-1991 The Naropa Institute** · Boulder CO, EU · études bouddhistes
-- **1985-1987 Swarthmore College** · Swarthmore PA, EU · Licence en philosophie
-- **1984-1985 Duke University** · Durham NC, EU · informatique
-- **1983 University of Massachusetts** · Amherst MA, EU · informatique
+- **1998-2000 Boulder School of Fine Arts** • Boulder CO, EU • études de figure au crayon
+- **1998-1991 The Naropa Institute** • Boulder CO, EU • études bouddhistes
+- **1985-1987 Swarthmore College** • Swarthmore PA, EU • Licence en philosophie
+- **1984-1985 Duke University** • Durham NC, EU • informatique
+- **1983 University of Massachusetts** • Amherst MA, EU • informatique
 
 ---  
 ### 🌀 DISTINCTIONS  
