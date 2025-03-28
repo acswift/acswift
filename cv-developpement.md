@@ -1,3 +1,84 @@
+## Andrew Swift · Toulouse, France
+**Double nationalité : américaine et britannique · Anglais (natif) · Français (courant)**
+
+📧 andy⛭svija.com · 📍 11 av du Petit Prince, 31400 Toulouse · 📞 06 18 26 09 61
+
+---
+
+### 🌀 APERÇU
+<!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
+
+- Diplômé en informatique de Duke University, développeur web depuis 1995.
+- Réalisation de dizaines de sites web, notamment des sites e-commerce et des plateformes dynamiques à fonctionnalités complexes.
+- Compétences avancées en communication écrite en français et en anglais.
+
+#### **Langages et Environnements**
+- **Langages de programmation :** Django, Python, PostgreSQL, MySQL, PHP, JavaScript, HTML, CSS, SVG.
+- **Environnements :** Ubuntu, NginX, Apache, Shell, Git, Xcode.
+- **WordPress :** Déploiement, maintenance, développement de thèmes, utilisation d'Elementor.
+- **Graphisme :** Animation SVG, scripts/plugins Adobe, GSAP, Stable Diffusion.
+
+---
+
+### 🌀 PROJETS INFORMATIQUES
+
+#### **2020-présent · Svija Cloud · Application Django pour publier des fichiers SVG**
+- Développement d'une application web pour publier des fichiers SVG d'Adobe Illustrator sous forme de contenu web interactif.
+- Architecture multi-instance pour chaque client avec gestion des titres, SEO et scripts.
+- Interface d'administration optimisée pour gérer les fichiers Illustrator, médias et scripts.
+- Gestion de contenu avancée avec réutilisation de blocs et intégration de vidéos YouTube.
+
+#### **2021-présent · Svija Tools · Plugin Adobe Illustrator en JavaScript/AJAX**
+- Développement d'un plugin facilitant la création de contenus SVG avec des fonctionnalités améliorées.
+- Exportation et gestion de site sous forme de fichiers SVG.
+- Synchronisation du contenu et détection d'erreurs pour garantir la cohérence.
+- Améliorations UX avec raccourcis vers les fichiers sources et opérations fréquentes.
+
+#### **2022-présent · Svija Vibe · Bibliothèque JavaScript pour l'animation SVG**
+- Création d'une bibliothèque d'animation SVG basée sur GSAP, intégrée aux objets Illustrator.
+- Système d'événements déclencheurs pour des animations fluides et interactives.
+- Simplification de l'animation pour les designers avec une approche sans code.
+
+#### **2021-2023 · Svija Sync · Application macOS en Swift**
+- Optimisation d'une application de synchronisation basée sur Rsync pour gérer des sites web locaux et distants.
+- Gestion multi-sites avec interface intuitive et soumission à l'App Store.
+- Automatisation de la mise à jour des contenus pour une productivité accrue.
+
+---
+
+### 🌀 EXPÉRIENCE PROFESSIONNELLE
+
+#### **09.2019-présent · Svija SAS · Startup SaaS, Toulouse FR**
+- Fondateur & Développeur principal d'une plateforme SaaS pour la création de sites web à partir de fichiers SVG.
+- Conception et maintenance de trois logiciels clés (web, animation, plugin).
+- Gestion de projets informatiques, publicitaires et de levée de fonds.
+
+#### **03.1995-09.2019 · Développeur & Designer Indépendant, Toulouse FR**
+- Développement web full-stack et création d'identités visuelles.
+- Gestion de projets en PHP, ASP, Cold Fusion et Perl.
+
+---
+
+### 🌀 FORMATION
+- **Boulder School of Fine Arts (1998-2000)** : Études de figure au crayon.
+- **The Naropa Institute (1998-1991)** : Études bouddhistes.
+- **Swarthmore College (1985-1987)** : Licence en philosophie.
+- **Duke University (1984-1985)** : Informatique.
+- **University of Massachusetts (1983)** : Informatique.
+
+---
+
+### 🌀 DISTINCTIONS
+- Ancien membre de Mensa.
+- National Merit Scholar.
+
+---
+
+### 🌀 CENTRES D’INTÉRÊT
+- Exploration de l'art numérique avec Stable Diffusion.
+- Musique funk et rock (guitare et basse électriques).
+
+<!--
 
 ## Andrew Swift · Toulouse, France  
 
@@ -7,7 +88,6 @@ Double nationalité : américaine et britannique · Anglais (natif) · Français
 
 ---  
 ### 🌀 APERÇU
-<!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
 - Informatique à **Duke University**, développeur web depuis 1995  
 - Déploiement de **dizaines de sites web**, y compris des sites e-commerce et des plateformes dynamiques avec des fonctionnalités complexes  
@@ -17,7 +97,7 @@ Langages et Environnements :
 
 - **Langages de programmation** : Django, Python, PostgreSQL, MySQL, PHP, JavaScript, HTML, CSS, SVG
 - **Environnements** : Ubuntu, NginX, Apache, Shell, Git, Xcode
-- **WordPress** : Déploiment et maintenance, développement de thèmes, utilisation d'Elementor
+- **WordPress** : Déploiement et maintenance, développement de thèmes, utilisation d'Elementor
 - **Graphisme** : Animation SVG, développement de scripts/plugins Adobe, GSAP, Stable Diffusion
 
 ---  
@@ -34,7 +114,7 @@ J'ai développé seul une application website builder qui transformait des fichi
 ---  
 **2021-présent · Svija Tools** · Plugin Adobe Illustrator en JavaScript/AJAX  
 
-J'ai pu exploiter les subtilités de programmation Extendscript pour radicalement faciliter la création de contenus SVG dans Illustrator, avec plusieurs functionnements supplémentaires pour améliorer l'expérience de nos clients
+J'ai exploité les subtilités de programmation d'Extendscript pour faciliter radicalement la création de contenus SVG dans Illustrator, avec plusieurs functionnements supplémentaires pour améliorer l'expérience de nos clients
 
 - **Exportation SVG & Gestion de site** – permet d’enregistrer du contenu web sous forme de fichiers SVG et de gérer une copie locale du site  
 - **Harmonisation et vérification de contenu** – outils de synchronisation du contenu sur plusieurs pages et détection d'erreurs (images manquantes, techniques non prises en charge)  
@@ -43,7 +123,7 @@ J'ai pu exploiter les subtilités de programmation Extendscript pour radicalemen
 ---  
 **2022-présent · Svija Vibe** · Bibliothèque JavaScript pour l'animation SVG  
 
-J'ai exploité la puissance de la library Javascript GSAP en la connectant avec des objets Illustrator, ainsi permettant à des novices de graphisme de faire des animations SVG très élaborées
+J'ai exploité la puissance de la library Javascript GSAP en la connectant à des objets Illustrator, permettant ainsi à des novices en graphisme de créer des animations SVG très élaborées
 
 - **Animation basée sur GSAP** – utilise la bibliothèque GSAP pour créer des animations web fluides et légères  
 - **Système d’événements et de déclencheurs** – l’interaction avec un objet déclenche la transformation d’un autre objet ou groupe d’objets  
@@ -52,7 +132,7 @@ J'ai exploité la puissance de la library Javascript GSAP en la connectant avec 
 ---  
 **2021-2023 · Svija Sync** · Application macOS en Swift (modifications & soumission à l'App Store)  
 
-J'ai éliminé toute la complexité des solutions courantes FTP en optant d'intégrer Rsync dans une application macOS. Rapide et leger, l'application rend transparent la synchronisation d'un dossier local avec le dossier distant, ainsi permettant à l'utilisateur de se concentrer sur la conception des contenus
+J'ai éliminé toute la complexité des solutions courantes FTP en optant d'intégrer Rsync dans une application macOS. Rapide et leger, l'application rend transparente la synchronisation d'un dossier local avec le dossier distant, ainsi permettant à l'utilisateur de se concentrer sur la conception des contenus
 
 - **Amélioration de Svija Sync** – modifications approfondies d’une application macOS en Swift (initialement développée par un sous-traitant)  
 - **Gestion multi-sites** – permet de gérer jusqu’à 100 sites web avec un accès rapide aux fichiers locaux et aux pages admin de Svija Cloud  
@@ -63,7 +143,7 @@ J'ai éliminé toute la complexité des solutions courantes FTP en optant d'int�
 
 **2007-2012 · euro4x4parts.com** · Site e-commerce multilingue basé sur PHP/MySQL
 
-J'ai transformé un vieux system ASP avec quelques dizaines de pages référencées en français à un site moderne avec 30 000 références, toutes bien référencées dans trois langues, dépassant largément les attentes du client
+J'ai transformé un ancien système ASP avec quelques dizaines de pages référencées en français à un site moderne avec 30 000 références, toutes bien référencées dans trois langues, dépassant largement les attentes du client
 
 - Augmentation significative du nombre de pages référencées (~1000x) grâce à une gestion SEO en trois langues
 - Création d'un programme PHP sur mesure pour gérer efficacement plus de 30 000 références
@@ -81,7 +161,7 @@ j'ai créé seul un site de génération de leads ultra-rentable menant a une ac
 ---  
 **2002-2006 · Anays** · Sites Flash indexables et faciles à maintenir en PHP  
 
-J'ai pu combler les deux grandes lacunes de Flash (invisibilité SEO et nécessité d'un logiciel propriétaire) et rendre l'entretien de sites flash bien référencées possible dans un éditeur de texte
+J'ai résolu les deux principales lacunes de Flash (invisibilité SEO et nécessité d'un logiciel propriétaire) et rendre l'entretien de sites flash bien référencées possible dans un éditeur de texte
 
 - **Développement d’un système modulaire** permettant d’indexer les sites Flash dans les moteurs de recherche et de simplifier leur mise à jour  
 - **Backend en PHP** et moteur Flash lisant dynamiquement le contenu à partir d’une page HTML  
@@ -92,7 +172,7 @@ J'ai pu combler les deux grandes lacunes de Flash (invisibilité SEO et nécessi
 
 **2001-2002 · PowderDB** · Application d’optimisation SEO en PHP  
 
-En combinant plusieurs sources de textes et d'imagerie, j'ai pu créer des résultats SEO incroyables par le biais des centaines de milliers de pages fantômes
+En combinant plusieurs sources de textes et d'imagerie, j'ai créé des résultats SEO incroyables par le biais des centaines de milliers de pages fantômes
 
 - Génération d’environ **400 000 pages indexées par site**, améliorant considérablement le référencement  
 - **Augmentation du trafic x1000** en optimisant la structure du contenu et la pertinence des mots-clés  
@@ -104,7 +184,7 @@ En combinant plusieurs sources de textes et d'imagerie, j'ai pu créer des résu
 
 **09.2019-présent · Svija SAS** · Startup SaaS, Toulouse FR · <a href=https://svija.com>svija.com</a>  
 
-J'ai géré les quatre projets informatiques mentionnés ci-dessus pour fournir une solution harmonieuse et bien fonctionnant pour nos clients, en allant du fonctionnement à la conception UX/UI
+J'ai géré les quatre projets informatiques mentionnés ci-dessus pour fournir une solution harmonieuse et bien fonctionnant pour nos clients, en passant par le développement jusqu'à la conception UX/UI
 
 - **Fondateur & Développeur principal** de **Svija**, une plateforme SaaS permettant de créer des sites web **à partir de fichiers SVG Adobe Illustrator**  
 - Responsable de gestion de projets informatiques, publicitaires et levée de fonds
@@ -114,7 +194,7 @@ J'ai géré les quatre projets informatiques mentionnés ci-dessus pour fournir 
 ---  
 **03.1995-09.2019 · Développeur & Designer** · Indépendant, Toulouse FR · <a href=https://ozake.com>ozake.com</a>  
 
-J'ai lancé des dizaines de sites web en plusieurs langues, en faisant du développement full-stack et faisant la conception graphique en même temps
+J'ai lancé des dizaines de sites web en plusieurs langues, en réalisant à la fois le développement full-stack et la conception graphique
 
 - **Développement web full-stack** en PHP, ASP, Cold Fusion et Perl  
 - **Identité visuelle, stratégie publicitaire, design print**  
@@ -142,3 +222,4 @@ J'ai lancé des dizaines de sites web en plusieurs langues, en faisant du dével
 - Exploration des nouvelles formes d'art numérique avec Stable Diffusion
 - Musique funk et rock (guitare et basse électriques)
 
+-->
