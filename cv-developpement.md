@@ -121,11 +121,18 @@ Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svi
 ---  
 ### 🌀 FORMATION  
 
-- `1998-2000` Boulder School of Fine Arts · Boulder CO, EU · études de figure au crayon  
-- `1998-1991` The Naropa Institute · Boulder CO, EU · études bouddhistes  
-- `1985-1987` Swarthmore College · Swarthmore PA, EU · Licence  
-- `1984-1985` Duke University · Durham NC, EU · informatique  
-- `1983` University of Massachusetts · Amherst MA, EU · informatique  
+# Les startups apprécient l'originalité et les compétences humaines : ajoute une phrase pour expliquer l'impact ou la pertinence de tes études artistiques ou bouddhistes sur ton approche professionnelle.
+
+- **1998-2000 Boulder School of Fine Arts** · Boulder CO, EU · études de figure au crayon  
+    Ces études m'ont appris l'importance d'un long travail de perfectionnement pour avoir un résultat satisfaisant
+- **1998-1991 The Naropa Institute** · Boulder CO, EU · études bouddhistes  
+    sous-description
+- **1985-1987 Swarthmore College** · Swarthmore PA, EU · Licence  
+    sous-description
+- **1984-1985 Duke University** · Durham NC, EU · informatique  
+    sous-description
+- **1983 University of Massachusetts** · Amherst MA, EU · informatique  
+    sous-description
 
 ---  
 ### 🌀 DISTINCTIONS  
@@ -136,10 +143,8 @@ Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svi
 ---  
 ### 🌀 CENTRES D’INTÉRÊT  
 
-- Art I.A. avec Stable Diffusion  
-- Art classique  
-- Guitare et basse électriques  
-- Réparation de vélos  
+- Exploration des nouvelles formes d'art numérique avec Stable Diffusion
+- Musique funk et rock (guitare et basse électriques)
 
 
 :::::::::::::::::::::::::::::::::::::::: CHATGPT
@@ -158,22 +163,10 @@ Clarifie le lien entre "Svija SAS" et les projets énumérés dans la section pr
 Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svija.
 
 3. Dynamiser le contenu
+
 Les startups apprécient les résultats concrets. Ajoute des chiffres ou des exemples d'impact, même approximatifs, pour illustrer ton efficacité ou ta productivité.
 
 Remplace les phrases passives par des formulations plus dynamiques :
 
 "Supervision du développement d’une application macOS" → "Supervision et coordination du développement d'une application macOS"
-
-4. Formation et distinctions
-Place la formation après l'expérience professionnelle, car ton parcours est riche et l'expérience est prioritaire pour un poste technique.
-
-Les startups apprécient l'originalité et les compétences humaines : ajoute une phrase pour expliquer l'impact ou la pertinence de tes études artistiques ou bouddhistes sur ton approche professionnelle.
-
-5. Centres d'intérêt
-Donne un peu de contexte pour rendre cette section plus personnelle :
-
-"Art I.A. avec Stable Diffusion (exploration des nouvelles formes d'art numérique)"
-
-"Guitare et basse électriques (composition et improvisation)"
-
 
