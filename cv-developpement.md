@@ -1,4 +1,3 @@
-<!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
 ## Andrew Swift · Toulouse, France  
 
@@ -7,7 +6,8 @@ Double nationalité : américaine et britannique · Langues : Anglais (natif), F
 Ouvert aux opportunités intéressantes : andy⛭svija.com  
 
 ---  
-### APERÇU
+### 🌀 APERÇU
+<!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
 Langages et Environnements :
 
@@ -27,7 +27,7 @@ Langages et Environnements :
 - J'entretiens de bonnes relations avec mes collègues
 
 ---  
-### PROJETS INFORMATIQUES
+### 🌀 PROJETS INFORMATIQUES
 
 <b>2020-présent · Svija Cloud</b> · Application Django pour publier des fichiers SVG Adobe Illustrator sous forme de contenu web<br>  
 
@@ -100,7 +100,7 @@ Langages et Environnements :
 
 
 ---  
-### EXPÉRIENCE PROFESSIONNELLE
+### 🌀 EXPÉRIENCE PROFESSIONNELLE
 
 <b>09.2019-présent · Svija SAS</b> · Startup SaaS, Toulouse FR · <a href=https://svija.com>svija.com</a><br>  
 
@@ -125,7 +125,7 @@ Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svi
 
 
 ---  
-### Formation  
+### 🌀 FORMATION  
 
 - `1998-2000` Boulder School of Fine Arts · Boulder CO, EU · études de figure au crayon  
 - `1998-1991` The Naropa Institute · Boulder CO, EU · études bouddhistes  
@@ -134,13 +134,13 @@ Inclue une phrase sur les résultats ou impacts concrets de ton travail chez Svi
 - `1983` University of Massachusetts · Amherst MA, EU · informatique  
 
 ---  
-### Distinctions  
+### 🌀 DISTINCTIONS  
 
 - Ancien membre de Mensa  
 - National Merit Scholar  
 
 ---  
-### Centres d’intérêt  
+### 🌀 CENTRES D’INTÉRÊT  
 
 - Art I.A. avec Stable Diffusion  
 - Art classique  
