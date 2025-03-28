@@ -56,16 +56,27 @@ Langages et Environnements :
 <b>2021-2023 · Svija Sync</b> · Application macOS en Swift (modifications & soumission à l'App Store)<br>  
 
 - **Amélioration de Svija Sync** – modifications approfondies d’une application macOS en Swift (initialement développée par un sous-traitant)  
-- **Synchronisation automatique des sites web** – un démon RSYNC s'exécute toutes les trois secondes pour synchroniser les versions locale et distante  
+- **Synchronisation automatique des sites web** – un dæmon RSYNC s'exécute toutes les trois secondes pour synchroniser les versions locale et distante  
 - **Gestion multi-sites** – permet de gérer jusqu’à 100 sites web avec un accès rapide aux fichiers locaux et aux pages admin de Svija Cloud  
 - **Soumission à l’App Store** – gestion du processus de publication sur le Mac App Store  
 
 ---  
   
 
+<b>2007-2012 · euro4x4parts.com</b> · Site multi-langue ecommerce basé sur PHP/MySQL<br>  
+
+- Développement et maintenance d'un site ecommerce vendant des pièces détaches d'automobile
+- Augmentation du nombre de pages référencées ~1000x
+- Gestion de SEO en trois langues
+- Développpemnt du thème
+- programme PHP custom pour gérer de manière efficace un stock de plus de trente mille références
+- toutes informations renseignées dans trois langues
+- le programme PHP gérait le site, le SEO et le stock/inventaire
+
+---
 <b>2004-2010 · school-directory.net</b> · Site de génération de leads basé sur PHP/MySQL<br>  
 
-- Développement et maintenance de **school-directory.net**, un site de génération de leads basé sur PHP et MySQL  
+- Développement et maintenance de un site de génération de leads basé sur PHP et MySQL  
 - Contribution à la rentabilité du site, générant **16–20K$ par mois**, menant à son **acquisition pour 1,5M$ par QuinStreet en 2010**  
 - **Gestion de tous les aspects techniques**, incluant le développement backend, l’administration de bases de données et le SEO  
 - Conception d’un **système de recherche dynamique** permettant aux utilisateurs de filtrer les écoles selon plusieurs critères  
