@@ -9,22 +9,16 @@ Ouvert aux opportunités intéressantes : andy⛭svija.com
 ### 🌀 APERÇU
 <!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
+- Informatique à Duke University, développeur web depuis 1995  
+- Déploiement de dizaines de sites web, y compris des sites e-commerce et des plateformes dynamiques avec des fonctionnalités complexes  
+- Compétences en communication écrite en français et en anglais
+
 Langages et Environnements :
 
 - **Langages de programmation** : Django, Python, PostgreSQL, MySQL, PHP, JavaScript, HTML, CSS, SVG
 - **Environnements** : Ubuntu, NginX, Apache, Git, Bash, Xcode
 - **WordPress** : Création et maintenance de sites web, développement de thèmes, utilisation d'Elementor
 - **Graphisme** : Animation SVG, développement de scripts/plugins Adobe, GSAP, Stable Diffusion, A1111
-
----
-
-- Compétences en communication écrite en français et en anglais
-
----
-
-- Informatique à Duke University, développeur web depuis 1995  
-- Déploiement de dizaines de sites web, y compris des sites e-commerce et des plateformes dynamiques avec des fonctionnalités complexes  
-- J'entretiens de bonnes relations avec mes collègues
 
 ---  
 ### 🌀 PROJETS INFORMATIQUES
