@@ -1,82 +1,82 @@
 ## Andrew Swift · Toulouse, France
 **Double nationalité : américaine et britannique · Anglais (natif) · Français (courant)**
 
-📧 andy⛭svija.com · 📍 11 av du Petit Prince, 31400 Toulouse · 📞 06 18 26 09 61
+andy⛭svija.com · 11 av du Petit Prince, 31400 Toulouse · 06 18 26 09 61
 
 ---
 
 ### 🌀 APERÇU
 <!-- https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
-- Diplômé en informatique de Duke University, développeur web depuis 1995.
-- Réalisation de dizaines de sites web, notamment des sites e-commerce et des plateformes dynamiques à fonctionnalités complexes.
-- Compétences avancées en communication écrite en français et en anglais.
+- Études en informatique à Duke University, développeur web depuis 1995
+- Réalisation de dizaines de sites web, notamment des sites e-commerce et des plateformes dynamiques à fonctionnalités complexes
+- Compétences avancées en communication écrite en français et en anglais
 
 #### **Langages et Environnements**
-- **Langages de programmation :** Django, Python, PostgreSQL, MySQL, PHP, JavaScript, HTML, CSS, SVG.
-- **Environnements :** Ubuntu, NginX, Apache, Shell, Git, Xcode.
-- **WordPress :** Déploiement, maintenance, développement de thèmes, utilisation d'Elementor.
-- **Graphisme :** Animation SVG, scripts/plugins Adobe, GSAP, Stable Diffusion.
+- **Langages de programmation :** Django, Python, PostgreSQL, MySQL, PHP, JavaScript, HTML, CSS, SVG
+- **Environnements :** Ubuntu, NginX, Apache, Shell, Git, Xcode
+- **WordPress :** Déploiement, maintenance, développement de thèmes, utilisation d'Elementor
+- **Graphisme :** Animation SVG, scripts/plugins Adobe, GSAP, Stable Diffusion
 
 ---
 
 ### 🌀 PROJETS INFORMATIQUES
 
 #### **2020-présent · Svija Cloud · Application Django pour publier des fichiers SVG**
-- Développement d'une application web pour publier des fichiers SVG d'Adobe Illustrator sous forme de contenu web interactif.
-- Architecture multi-instance pour chaque client avec gestion des titres, SEO et scripts.
-- Interface d'administration optimisée pour gérer les fichiers Illustrator, médias et scripts.
-- Gestion de contenu avancée avec réutilisation de blocs et intégration de vidéos YouTube.
+- Développement d'une application web pour publier des fichiers SVG d'Adobe Illustrator sous forme de contenu web interactif
+- Architecture multi-instance pour chaque client avec gestion des titres, SEO et scripts
+- Interface d'administration optimisée pour gérer les fichiers Illustrator, médias et scripts
+- Gestion de contenu avancée avec réutilisation de blocs et intégration de vidéos YouTube
 
 #### **2021-présent · Svija Tools · Plugin Adobe Illustrator en JavaScript/AJAX**
-- Développement d'un plugin facilitant la création de contenus SVG avec des fonctionnalités améliorées.
-- Exportation et gestion de site sous forme de fichiers SVG.
-- Synchronisation du contenu et détection d'erreurs pour garantir la cohérence.
-- Améliorations UX avec raccourcis vers les fichiers sources et opérations fréquentes.
+- Développement d'un plugin facilitant la création de contenus SVG avec des fonctionnalités améliorées
+- Exportation et gestion de site sous forme de fichiers SVG
+- Synchronisation du contenu et détection d'erreurs pour garantir la cohérence
+- Améliorations UX avec raccourcis vers les fichiers sources et opérations fréquentes
 
 #### **2022-présent · Svija Vibe · Bibliothèque JavaScript pour l'animation SVG**
-- Création d'une bibliothèque d'animation SVG basée sur GSAP, intégrée aux objets Illustrator.
-- Système d'événements déclencheurs pour des animations fluides et interactives.
-- Simplification de l'animation pour les designers avec une approche sans code.
+- Création d'une bibliothèque d'animation SVG basée sur GSAP, intégrée aux objets Illustrator
+- Système d'événements déclencheurs pour des animations fluides et interactives
+- Simplification de l'animation pour les designers avec une approche sans code
 
 #### **2021-2023 · Svija Sync · Application macOS en Swift**
-- Optimisation d'une application de synchronisation basée sur Rsync pour gérer des sites web locaux et distants.
-- Gestion multi-sites avec interface intuitive et soumission à l'App Store.
-- Automatisation de la mise à jour des contenus pour une productivité accrue.
+- Optimisation d'une application de synchronisation basée sur Rsync pour gérer des sites web locaux et distants
+- Gestion multi-sites avec interface intuitive et soumission à l'App Store
+- Automatisation de la mise à jour des contenus pour une productivité accrue
 
 ---
 
 ### 🌀 EXPÉRIENCE PROFESSIONNELLE
 
 #### **09.2019-présent · Svija SAS · Startup SaaS, Toulouse FR**
-- Fondateur & Développeur principal d'une plateforme SaaS pour la création de sites web à partir de fichiers SVG.
-- Conception et maintenance de trois logiciels clés (web, animation, plugin).
-- Gestion de projets informatiques, publicitaires et de levée de fonds.
+- Fondateur & Développeur principal d'une plateforme SaaS pour la création de sites web à partir de fichiers SVG
+- Conception et maintenance de trois logiciels clés (web, animation, plugin)
+- Gestion de projets informatiques, publicitaires et de levée de fonds
 
 #### **03.1995-09.2019 · Développeur & Designer Indépendant, Toulouse FR**
-- Développement web full-stack et création d'identités visuelles.
-- Gestion de projets en PHP, ASP, Cold Fusion et Perl.
+- Développement web full-stack et création d'identités visuelles
+- Gestion de projets en PHP, ASP, Cold Fusion et Perl
 
 ---
 
 ### 🌀 FORMATION
-- **Boulder School of Fine Arts (1998-2000)** : Études de figure au crayon.
-- **The Naropa Institute (1998-1991)** : Études bouddhistes.
-- **Swarthmore College (1985-1987)** : Licence en philosophie.
-- **Duke University (1984-1985)** : Informatique.
-- **University of Massachusetts (1983)** : Informatique.
+- **Boulder School of Fine Arts (1998-2000)** : Études de figure au crayon
+- **The Naropa Institute (1998-1991)** : Études bouddhistes
+- **Swarthmore College (1985-1987)** : Licence en philosophie
+- **Duke University (1984-1985)** : Informatique
+- **University of Massachusetts (1983)** : Informatique
 
 ---
 
 ### 🌀 DISTINCTIONS
-- Ancien membre de Mensa.
-- National Merit Scholar.
+- Ancien membre de Mensa
+- National Merit Scholar
 
 ---
 
 ### 🌀 CENTRES D’INTÉRÊT
-- Exploration de l'art numérique avec Stable Diffusion.
-- Musique funk et rock (guitare et basse électriques).
+- Exploration de l'art numérique avec Stable Diffusion
+- Musique funk et rock (guitare et basse électriques)
 
 <!--
 
