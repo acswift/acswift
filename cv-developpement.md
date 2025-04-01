@@ -6,7 +6,7 @@ anglais natif / français courant · github.com/acswift
 
 ![](images/divider-23.jpg)
 
-🌀 Aperçu
+**🌀 Aperçu**
 
 - **CTO de Svija** depuis 2019
 - **Développeur full-stack** depuis 1995
