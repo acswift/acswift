@@ -4,7 +4,7 @@
 andy⛭svija.com · 11 av du Petit Prince, 31400 Toulouse · 06 18 26 09 61  
 Anglais natif / français courant · github.com/acswift
 
-![](images/divider.jpg?1)
+![](images/divider-23.jpg)
 
 🌀 Aperçu
 
@@ -20,7 +20,7 @@ Anglais natif / français courant · github.com/acswift
 - **WordPress** : déploiement et maintenance, conception de thèmes, Elementor
 - **Graphisme** : Adobe CC, scripts Adobe, animation SVG, Stable Diffusion
 
-![](images/divider.jpg?1)
+![](images/divider-23.jpg)
 
 **🌀 09.2019-présent : CTO Svija SAS** · SaaS website builder, Toulouse · [svija.com](https://svija.com)
 
@@ -40,7 +40,7 @@ Svija est une plateforme qui permet la création de sites web entièrement const
 - Trois sites WordPress : conception et création de contenus, conception de thème
 - Gestion de projets graphiques publicitaires et de levée de fonds
 
-![](images/divider.jpg?1)
+![](images/divider-23.jpg)
 
 **🌀 03.1995-09.2019 : développeur & designer indépendant** · Toulouse · [ozake.com](https://ozake.com)
 
@@ -58,7 +58,7 @@ Svija est une plateforme qui permet la création de sites web entièrement const
 - **PowderDB** : optimisation SEO via la création de pages fantômes, PHP  
   Augmentation de trafic des clients de plus de 1000 fois
 
-![](images/divider.jpg?1)
+![](images/divider-23.jpg)
 
 **🌀 Formation**
 
