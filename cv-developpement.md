@@ -2,7 +2,7 @@
 ### Andrew Swift · Toulouse, France
 
 >andy⛭svija.com · 11 av du Petit Prince, 31400 Toulouse · 06 18 26 09 61   
-Anglais natif / français courant · github.com/acswift
+anglais natif / français courant · github.com/acswift
 
 ![](images/divider-23.jpg)
 
