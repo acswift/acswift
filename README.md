@@ -1,7 +1,10 @@
+
+<!-- vim: set foldmethod=marker fmr=###,--- :-->
+
 <!-- [CV en français](CV%C2%A0(fran%C3%A7ais).md) · [biography](bio.md) -->
 <!-- https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/ -->
 
-I'm always open to interesting work as a designer or developer: andy⛭svija.com
+I'm always open to interesting work as a designer or developer: mail⛭acswift.com
 
 [CV development](cv-development.md)/[FR](cv-developpement.md) · [CV design](cv-design.md) · [LinkedIn](https://www.linkedin.com/in/andrew-swift-89415014b/)
 
@@ -12,25 +15,23 @@ I'm always open to interesting work as a designer or developer: andy⛭svija.com
 
 `2012-2014` classical drawing · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums "Flickr Portfolio")
 
----
-<details><summary>online profiles</summary>
+----
+#### online profiles
 
----
+- [x](https://x.com/andrewcswift"X feed") ·
+- [mastodon](https://mastodon.social/@acswift "networking") ·
+- [stack overflow](https://stackoverflow.com/users/72958/andy-swift "Stack Overflow profile page") ·
+- [reddit](https://www.reddit.com/user/AndrewCSwift "Reddit profile page") ·
+- [hacker news](https://news.ycombinator.com/user?id=AndrewSwift "Hacker News profile page") ·
+- [flickr](https://www.flickr.com/photos/andrewcarrollswift/albums "classical drawings") ·
+- [instagram](https://instagram.com/acswift "photography") ·
 
-websites:
-
-
-social:
-[stack overflow](https://stackoverflow.com/users/72958/andy-swift "Stack Overflow profile page") ·
-[reddit](https://www.reddit.com/user/AndrewCSwift "Reddit profile page") ·
-[hacker news](https://news.ycombinator.com/user?id=AndrewSwift "Hacker News profile page") ·
-[x](https://x.com/andrewcswift"X feed") ·
-[mastodon](https://mastodon.social/@acswift "networking") ·
-[flickr](https://www.flickr.com/photos/andrewcarrollswift/albums "classical drawings") ·
-[instagram](https://instagram.com/acswift "photography") ·
+----
+#### Phase — iPhone Camera App
 
 [instagram](https://instagram.com/phase.buzz"photography") ·
 [phase.buzz](https://phase.buzz "camera app for iPhone") ·
 
+----
 
 </details>
