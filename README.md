@@ -9,13 +9,13 @@ Got an project? Hit me up at: mail⛭acswift.com
 [CV development](cv-development.md) · [CV design](cv-design.md)
 
 ---
-`2025-2026` iOS development of Phase, a revolutionary camera app for iPhone · [App Store](https://apps.apple.com/app/phase-camera/id6759315010 "download Phase in the App Store")
+`2025-2026` Phase, a revolutionary camera app for iPhone (iOS development with Claude) · [App Store](https://apps.apple.com/app/phase-camera/id6759315010 "download Phase in the App Store")
 
-`2019-2025` SaaS development at Pwika, building websites with Adobe Illustrator · [github repo](https://github.com/pwikapanel)
+`2019-2025` Pwika, building websites with Adobe Illustrator (SaaS development) · [github repo](https://github.com/pwikapanel)
 
 `1995-2019` web development and graphic design · [portfolio](https://www.behance.net/andrewswift "Bēhance Portfolio") · [ozake.com](https://ozake.com "Design Agency Website")
 
-`2012-2014` classical drawing · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums "Flickr Portfolio")
+`2012-2014` classical draughtsmanship · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums "Flickr Portfolio")
 
 ----
 #### online profiles
