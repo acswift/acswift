@@ -4,11 +4,17 @@
 <!-- [CV en français](CV%C2%A0(fran%C3%A7ais).md) · [biography](bio.md) -->
 <!-- https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/ -->
 
-Got an project? Hit me up at: mail⛭acswift.com
+#### contact me
 
-[CV development](cv-development.md) · [CV design](cv-design.md)
+I love meeting people and I love discussing your ideas. Je parle français couramment ;-)
 
----
+If you think we might hit it off, I'd love to meet: mail⛭acswift.com
+
+CV's: [development](cv-development.md) · [design](cv-design.md)
+
+----
+#### what I've done
+
 `2025-2026` Phase, a revolutionary camera app for iPhone (iOS development with Claude) · [App Store](https://apps.apple.com/app/phase-camera/id6759315010 "download Phase in the App Store")
 
 `2019-2025` Pwika, building websites with Adobe Illustrator (SaaS development) · [github repo](https://github.com/pwikapanel)
