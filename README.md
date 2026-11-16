@@ -4,9 +4,13 @@
 <!-- [CV en français](CV%C2%A0(fran%C3%A7ais).md) · [biography](bio.md) -->
 <!-- https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/ -->
 
+
+*Check out my graphic design on [Flickr](https://www.flickr.com/photos/andrewcarrollswift/albums/)*
+
+* * *
 #### contact me
 
-I love meeting people and I love discussing your ideas. Je parle français couramment ;-)
+I love meeting people and I'd love to discuss your ideas. Je parle français couramment ;-)
 
 If you think we might hit it off, I'd love to meet: mail⛭acswift.com
 
