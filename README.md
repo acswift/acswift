@@ -12,18 +12,18 @@
 
 I love meeting people and I'd love to discuss your ideas. Je parle français couramment ;-)
 
-If you think we might hit it off, I'd love to meet: mail⛭acswift.com
+If you think we might hit it off, I'd love to meet: mail a/t acswift.com
 
 CV's: [development](cv-development.md) · [design](cv-design.md)
 
 ----
 #### what I've done
 
-`2025-2026` Phase, a revolutionary camera app for iPhone (iOS development with Claude) · [App Store](https://apps.apple.com/app/phase-camera/id6759315010 "download Phase in the App Store")
+`currently` Phase, a revolutionary camera app for iPhone (iOS development with Claude Code) · [App Store](https://apps.apple.com/app/phase-camera/id6759315010 "download Phase in the App Store")
 
-`2019-2025` Pwika, building websites with Adobe Illustrator (SaaS development) · [github repo](https://github.com/pwikapanel)
+`2019-2025` Pwika, building websites with Adobe Illustrator (SaaS development) · [github repo](https://github.com/acswift/pwikapanel)
 
-`1995-2019` web development and graphic design · [portfolio](https://www.behance.net/andrewswift "Bēhance Portfolio") · [ozake.com](https://ozake.com "Design Agency Website")
+`1995-2019` web development and graphic design · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums/ "Flickr Portfolio") · [ozake.com](https://ozake.com "Design Agency Website")
 
 `2012-2014` classical draughtsmanship · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums "Flickr Portfolio")
 
