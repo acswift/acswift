@@ -30,8 +30,8 @@ CV's: [development](cv-development.md) · [design](cv-design.md)
 ----
 #### online profiles
 
-- [LinkedIn](https://www.linkedin.com/in/andrew-swift-89415014b/)
-- [x](https://x.com/andrewcswift "X ")
+- [linkedin](https://www.linkedin.com/in/andrew-swift-89415014b/)
+- [x](https://x.com/andrewcswift "𝕏")
 - [mastodon](https://mastodon.social/@acswift "networking")
 - [stack overflow](https://stackoverflow.com/users/72958/andy-swift "Stack Overflow profile page")
 - [reddit](https://www.reddit.com/user/AndrewCSwift "Reddit profile page")
