@@ -12,7 +12,7 @@
 
 I like meeting people and I'd love to discuss your ideas. Je parle français couramment ;-)
 
-If you think we might hit it off, email me here: mail a/t acswift.com
+If you think we might hit it off, say hello: mail à acswift.com
 
 CV's: [development](cv-development.md) · [design](cv-design.md)
 
@@ -31,20 +31,20 @@ CV's: [development](cv-development.md) · [design](cv-design.md)
 #### online profiles
 
 - [LinkedIn](https://www.linkedin.com/in/andrew-swift-89415014b/)
-- [x](https://x.com/andrewcswift "X ") ·
-- [mastodon](https://mastodon.social/@acswift "networking") ·
-- [stack overflow](https://stackoverflow.com/users/72958/andy-swift "Stack Overflow profile page") ·
-- [reddit](https://www.reddit.com/user/AndrewCSwift "Reddit profile page") ·
-- [hacker news](https://news.ycombinator.com/user?id=AndrewSwift "Hacker News profile page") ·
-- [flickr](https://www.flickr.com/photos/andrewcarrollswift/albums "classical drawings") ·
-- [instagram](https://instagram.com/acswift "photography") ·
+- [x](https://x.com/andrewcswift "X ")
+- [mastodon](https://mastodon.social/@acswift "networking")
+- [stack overflow](https://stackoverflow.com/users/72958/andy-swift "Stack Overflow profile page")
+- [reddit](https://www.reddit.com/user/AndrewCSwift "Reddit profile page")
+- [hacker news](https://news.ycombinator.com/user?id=AndrewSwift "Hacker News profile page")
+- [flickr](https://www.flickr.com/photos/andrewcarrollswift/albums "classical drawings")
+- [instagram](https://instagram.com/acswift "photography")
 
 ----
 #### Phase — iPhone Camera App
 
 - [App Store](https://apps.apple.com/app/phase-camera/id6759315010 "download Phase in the App Store")
 - [phase.buzz](https://phase.buzz "camera app for iPhone")
-- [instagram](https://instagram.com/phase.buzz"photography")
+- [instagram](https://instagram.com/phase.buzz "photography")
 
 ----
 
