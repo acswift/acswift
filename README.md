@@ -10,16 +10,16 @@
 * * *
 #### contact me
 
-I love meeting people and I'd love to discuss your ideas. Je parle français couramment ;-)
+I like meeting people and I'd love to discuss your ideas. Je parle français couramment ;-)
 
-If you think we might hit it off, I'd love to meet: mail a/t acswift.com
+If you think we might hit it off, email me here: mail a/t acswift.com
 
 CV's: [development](cv-development.md) · [design](cv-design.md)
 
 ----
 #### what I've done
 
-`currently` Phase, a revolutionary camera app for iPhone (iOS development with Claude Code) · [App Store](https://apps.apple.com/app/phase-camera/id6759315010 "download Phase in the App Store")
+`currently` Phase, a very different camera app for iPhone (iOS development with Claude Code) · [App Store](https://apps.apple.com/app/phase-camera/id6759315010 "download Phase in the App Store")
 
 `2019-2025` Pwika, building websites with Adobe Illustrator (SaaS development) · [github repo](https://github.com/acswift/pwikapanel)
 
