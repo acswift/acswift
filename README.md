@@ -5,7 +5,7 @@
 <!-- https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/ -->
 
 
-*Check out my graphic design on [Flickr](https://www.flickr.com/photos/andrewcarrollswift/albums/)*
+*Check out my graphic design on [Flickr](https://www.flickr.com/photos/andrewcarrollswift/)*
 
 * * *
 #### contact me
@@ -23,9 +23,9 @@ CV's: [development](cv-development.md) · [design](cv-design.md)
 
 `2019-2025` Pwika, building websites with Adobe Illustrator (SaaS development) · [github repo](https://github.com/acswift/pwikapanel)
 
-`1995-2019` web development and graphic design · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums/ "Flickr Portfolio") · [ozake.com](https://ozake.com "Design Agency Website")
+`1995-2019` web development and graphic design · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/ "Flickr Portfolio") · [ozake.com](https://ozake.com "Design Agency Website")
 
-`2012-2014` classical draughtsmanship · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums "Flickr Portfolio")
+`2012-2014` classical draughtsmanship · [portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums/72177720323104418/ "Flickr Portfolio")
 
 ----
 #### online profiles
