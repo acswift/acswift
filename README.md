@@ -1,7 +1,7 @@
 
 <!-- vim: set foldmethod=marker fmr=###,--- :-->
 
-### H🌀i, I'm Andrew — a full-stack developer with a designer's eye, based in Toulouse.
+### Hi, I'm Andrew — a full-stack developer with a designer's eye, based in Toulouse.
 
 I build complete web products, from the interface to the server: Python/Django, PostgreSQL, JavaScript and SVG. What I care about most is making software obvious to use.
 
@@ -9,7 +9,7 @@ I build complete web products, from the interface to the server: Python/Django, 
 [CV en français](cv-developpement.md)
 
 ---
-#### What I'm working on
+#### 🌀 What I'm working on
 
 **Phase** — a camera app for iPhone, in the App Store since June 2026. I designed the product and the experience, and built it with Claude Code. · [App Store](https://apps.apple.com/app/phase-camera/id6759315010) · [phase.buzz](https://phase.buzz)
 
@@ -22,14 +22,14 @@ I build complete web products, from the interface to the server: Python/Django, 
 - [pwika-sync](https://github.com/acswift/pwika-sync) — the macOS sync app (Swift)
 
 ---
-#### Before that
+#### 🌀 Before that
 
 Many years of freelance web development and design: a PHP/MySQL catalogue of 30,000 parts in three languages for Euro4x4parts.com, a lead-generation site for US colleges (school-directory.net) that we sold in 2010, and identities, print and websites for small businesses.
 
 [Design portfolio](https://www.flickr.com/photos/andrewcarrollswift/) · [ozake.com](https://ozake.com)
 
 ---
-#### Say hello
+#### 🌀 Say hello
 
 I like meeting people, and I'd be glad to talk about your project or your team. Je parle français couramment.
 
