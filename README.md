@@ -3,7 +3,7 @@
 
 ### Hi, I'm Andrew — a full-stack developer with a designer's eye, based in Toulouse.
 
-I build complete web products, from the interface to the server: Python/Django, PostgreSQL, JavaScript and SVG. What I care about most is making software obvious to use.
+I build complete web products, from the interface to the server: Python/Django, PostgreSQL, JavaScript and SVG — and more recently iOS apps in Swift, built with Claude Code. What I care about most is making software that's obvious to use.
 
 **Développeur full-stack Python/Django à Toulouse — ouvert aux opportunités (CDI, missions).**
 [CV en français](cv-developpement.md)
