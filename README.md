@@ -7,6 +7,8 @@
 
 *Check out my graphic design on [Flickr](https://www.flickr.com/photos/andrewcarrollswift/)*
 
+🌀
+
 * * *
 #### contact me
 
