@@ -47,15 +47,15 @@ Développeur et designer, je conçois et livre des produits web complets, de l'i
 * Identité visuelle, signalétique, étiquettes et site web d'une coopérative agricole (Biotinel), sur quatre ans
 * Identité, supports imprimés et site e-commerce d'une marque de vêtements (Darla)
 * Brochures et supports imprimés pour une entreprise américaine (Diesel Service and Supply)
-* Quatre à cinq sites WordPress réalisés en partenariat avec une agence
+* Cinq sites WordPress réalisés en partenariat avec une agence
 * Site de l'agence entièrement en SVG, prototype de la future plateforme Svija
 
 **2012–2014** — Période consacrée au dessin classique (atelier à Toulouse), puis à la rénovation d'un appartement destiné à la location.
 
 **2000–2012 — Développeur et designer indépendant, Landes puis Toulouse**
 
-* **Euro4x4parts.com** (pièces 4x4, client principal de 2008 à 2012\) : refonte du site en PHP/MySQL avec un CMS sur mesure pour 30 000 références en trois langues ; identité, une trentaine de publicités, habillage de 7 à 8 véhicules
-* **school-directory.net** (2006–2010) : cocréation d'un annuaire en ligne de formations privées aux États-Unis, en PHP/MySQL, financé par la génération de leads ; 12 à 15 K\$ de chiffre d'affaires mensuel ; revendu 1,5 M\$ en 2010
+* **Euro4x4parts.com** (pièces 4x4, client principal de 2008 à 2012\) : refonte du site en PHP/MySQL avec un CMS sur mesure pour 30 000 références en trois langues ; identité, une trentaine de publicités, habillage de 8 véhicules
+* **school-directory.net** (2006–2010) : cocréation d'un annuaire en ligne de formations privées aux États-Unis, en PHP/MySQL, financé par la génération de leads ; chiffre d’affaires d’environ 14 000 $ par mois ; revendu 1,5 M\$ en 2010
 * Système de sites Flash au contenu modifiable par le client et indexable par les moteurs de recherche
 
 **Expérience antérieure (États-Unis)** — Designer publicitaire en presse quotidienne (Boulder Daily Camera), dont la formation de l'équipe au passage à la PAO sur Mac ; puis designer indépendant, avec un chiffre d'affaires passé de 12 K\$ à 75 K\$ en trois ans.
