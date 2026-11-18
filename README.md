@@ -6,7 +6,7 @@
 I build complete web products, from the interface to the server: Python/Django, PostgreSQL, JavaScript and SVG — and more recently iOS apps in Swift, built with Claude Code. What I care about most is making software that's obvious to use.
 
 **Développeur full-stack Python/Django à Toulouse — ouvert aux opportunités (CDI, missions).**
-[CV en français](cv-developpement.md)
+[CV en français](cv-developpement.md) · [Design portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums/)
 
 ---
 #### 🌀 What I'm working on
@@ -25,8 +25,6 @@ I build complete web products, from the interface to the server: Python/Django, 
 #### 🌀 Before that
 
 Many years of freelance web development and design: a PHP/MySQL catalogue of 30,000 parts in three languages for Euro4x4parts.com, a lead-generation site for US colleges (school-directory.net) that we sold in 2010, and identities, print and websites for small businesses.
-
-[Design portfolio](https://www.flickr.com/photos/andrewcarrollswift/) · [ozake.com](https://ozake.com)
 
 ---
 #### 🌀 Say hello
