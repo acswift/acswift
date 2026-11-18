@@ -18,7 +18,7 @@ Développeur et designer, je conçois et livre des produits web complets, de l'i
 * **Back-end :** Python, Django (dont Django Admin avancé), PostgreSQL, MySQL, PHP
 * **Front-end :** JavaScript, HTML, CSS, SVG (intégration et animation)
 * **Serveur et outils :** Linux (Ubuntu, Debian), Nginx, Apache, shell, Git et GitHub (branches dev/beta/stable, versions publiées)
-* **Développement assisté par IA :** Claude Code (application iOS en Swift publiée en 2026\)
+* **Développement assisté par IA :** Claude Code (application iOS en Swift publiée en 2026)
 * **Autres :** ExtendScript (extensions Adobe Illustrator), Xcode et Swift, WordPress
 * **Design :** UI/UX, identité visuelle, Adobe Illustrator et Photoshop, vidéo produit (Final Cut Pro)
 
@@ -54,11 +54,11 @@ Développeur et designer, je conçois et livre des produits web complets, de l'i
 
 **2000–2012 — Développeur et designer indépendant, Landes puis Toulouse**
 
-* **Euro4x4parts.com** (pièces 4x4, client principal de 2008 à 2012\) : refonte du site en PHP/MySQL avec un CMS sur mesure pour 30 000 références en trois langues ; identité, une trentaine de publicités, habillage de 8 véhicules
-* **school-directory.net** (2006–2010) : cocréation d'un annuaire en ligne de formations privées aux États-Unis, en PHP/MySQL, financé par la génération de leads ; chiffre d’affaires d’environ 14 000 $ par mois ; revendu 1,5 M\$ en 2010
+* **Euro4x4parts.com** (pièces 4x4, client principal de 2008 à 2012) : refonte du site en PHP/MySQL avec un CMS sur mesure pour 30 000 références en trois langues ; identité, une trentaine de publicités, habillage de 8 véhicules
+* **school-directory.net** (2006–2010) : cocréation d'un annuaire en ligne de formations privées aux États-Unis, en PHP/MySQL, financé par la génération de leads ; chiffre d'affaires d’environ 14 000 $ par mois ; revendu 1,5 M$ en 2010
 * Système de sites Flash au contenu modifiable par le client et indexable par les moteurs de recherche
 
-**Expérience antérieure (États-Unis)** — Designer publicitaire en presse quotidienne (Boulder Daily Camera), dont la formation de l'équipe au passage à la PAO sur Mac ; puis designer indépendant, avec un chiffre d'affaires passé de 12 K\$ à 75 K\$ en trois ans.
+**Expérience antérieure (États-Unis)** — Designer publicitaire en presse quotidienne (Boulder Daily Camera), dont la formation de l'équipe au passage à la PAO sur Mac ; puis designer indépendant, avec un chiffre d'affaires passé de 12 K$ à 75 K$ en trois ans.
 
 ## **Formation**
 
