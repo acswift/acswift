@@ -35,5 +35,5 @@ I like meeting people, and I'd be glad to talk about your project or your team. 
 
 mail à acswift.com · [LinkedIn](https://www.linkedin.com/in/andrew-swift-89415014b/) · [Stack Overflow](https://stackoverflow.com/users/72958/andy-swift) · [Instagram](https://instagram.com/acswift) (photography)
 
-Outside of code: classical drawing ([drawings](https://www.flickr.com/photos/andrewcarrollswift/albums/72177720323104418/)), photography, guitar and bass.
+Outside of code: ([classical drawing](https://www.flickr.com/photos/andrewcarrollswift/albums/72177720323104418/)), photography, guitar and bass.
 
