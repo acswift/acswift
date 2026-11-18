@@ -12,7 +12,9 @@ I build complete web products, from the interface to the server: Python/Django, 
 ---
 #### 🌀 What I'm working on
 
-**Phase** — a camera app for iPhone, in the App Store since June 2026. I designed the product and the experience, and built it with Claude Code. · [App Store](https://apps.apple.com/app/phase-camera/id6759315010) · [phase.buzz](https://phase.buzz)
+**Phase** — a camera app for iPhone, in the App Store since June 2026. I designed the product and the experience, and built it with Claude Code.
+- [App Store](https://apps.apple.com/app/phase-camera/id6759315010)
+- [phase.buzz](https://phase.buzz)
 
 **Pwika** (formerly Svija) — a platform for building websites in Adobe Illustrator. An Illustrator panel exports each page as SVG, a Django application serves the pages as a website, and a JavaScript library animates them based on how objects are named in Illustrator. I co-founded Svija in 2019 and was its CTO and lead developer until 2025. The code is now open source.
 
