@@ -9,7 +9,7 @@ I build complete web products, from the interface to the server: Python/Django, 
 - [CV en français](cv-developpement.md)
 - [Design portfolio](https://www.flickr.com/photos/andrewcarrollswift/albums/)
 
-!["cliquer pour voir mon porfolio"](flickr.jpg)
+!["cliquer pour voir mon porfolio"](images/flickr.jpg)
 
 ---
 #### 🌀 What I'm working on
